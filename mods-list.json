@@ -1,5 +1,9 @@
 {
   "mods": [
+<<<<<<< HEAD
     {"id": "OptiFine 1.19 HD U H9", "name": "OptiFine", "filename": "OptiFine_1.19_HD_U_H9.jar", "minecraft": "1.19", "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3", "url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true", "image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg", "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!"},
+=======
+    {"id": "OptiFine 1.19 HD U H9", "name": "OptiFine", "filename": "OptiFine_1.19_HD_U_H9.jar", "minecraft": "1.19", "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3", "url": "https://github.com/HURROLED/qLauncher-management/blob/6875c6ddc5081c452632bb49b52e046d087c559b/mods/OptiFine_1.19_HD_U_H9.jar", "image-url": "https://github.com/HURROLED/qLauncher-management/blob/a3346ab87221e83aa456c2ac629a9244e42a16ca/images/optifine-min.jpg", "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!"},
+>>>>>>> 4a1e7762cbf6b7199936c9059573f62958d21b5b
   ]
 }
