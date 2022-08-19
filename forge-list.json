@@ -1,0 +1,13 @@
+{
+  "forges":
+  [
+    {
+      "id": "Forge 1.19.2 - 43.1.1",
+      "minecraft": "1.19.2",
+      "name": "Forge",
+      "version": "43.1.1",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.1/forge-1.19.2-43.1.1-installer.jar",
+      "hash": "de0ce78717dc3ecea01ac0eba868c42f2d9fe899"
+    }
+  ]
+}
