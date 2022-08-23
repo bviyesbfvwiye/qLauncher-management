@@ -2,14 +2,257 @@
   "mods":
   [
     {
-      "id": "OptiFine 1.19 HD U H9",
       "name": "OptiFine",
-      "filename": "OptiFine_1.19_HD_U_H9.jar",
-      "minecraft": "1.19",
-      "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3",
-      "url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true",
       "image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg",
-      "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!"
+      "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!",
+      "downloads":
+      [
+        {
+          "id": "OptiFine 1.19.2 HD U H9",
+          "minecraft": "1.19.2",
+          "filename": "OptiFine_1.19.2_HD_U_H9.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=35abf28392ef78efc773ab8e02dc3146",
+          "sha1": "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
+        },
+        {
+          "id": "OptiFine 1.19.1 HD U H9",
+          "minecraft": "1.19.1",
+          "filename": "OptiFine_1.19.1_HD_U_H9.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.19.1_HD_U_H9.jar&x=52f8fa15969331823f84bc6378bc89ad",
+          "sha1": "b42dcce86c88ad4bcfa52a9d297afa800477aa78"
+        },
+        {
+          "id": "OptiFine 1.19 HD U H9",
+          "minecraft": "1.19",
+          "filename": "OptiFine_1.19_HD_U_H9.jar",
+          "url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true",
+          "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3"
+        },
+        {
+          "id": "OptiFine 1.18.2 HD U H7",
+          "minecraft": "1.18.2",
+          "filename": "OptiFine_1.18.2_HD_U_H7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.18.2_HD_U_H7.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+          "sha1": "8d83d4d5e325887e000a462029d2bf7a6e77eebc"
+        },
+        {
+          "id": "OptiFine 1.18.1 HD U H6",
+          "minecraft": "1.18.1",
+          "filename": "OptiFine_1.18.1_HD_U_H6.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.18.1_HD_U_H6.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+          "sha1": "c86534ee821a78efc741c9cb407eec76625e1bab"
+        },
+        {
+          "id": "OptiFine 1.18 HD U H3",
+          "minecraft": "1.18",
+          "filename": "OptiFine_1.18_HD_U_H3.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.18_HD_U_H3.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+          "sha1": "52629bc5319ec203edd42de1776cb8d67a0e6b1b"
+        },
+        {
+          "id": "OptiFine 1.17.1 HD U H1",
+          "minecraft": "1.17.1",
+          "filename": "OptiFine_1.17.1_HD_U_H1.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.17.1_HD_U_H1.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "cc64084e73d6423baf7ccbdd9f3760dd56f2fce5"
+        },
+        {
+          "id": "OptiFine 1.17 HD U G9 pre26",
+          "minecraft": "1.17",
+          "filename": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+          "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "6a8e34605cc828091027d9f011b804d916808af4"
+        },
+        {
+          "id": "OptiFine 1.16.5 HD U G8",
+          "minecraft": "1.16.5",
+          "filename": "OptiFine_1.16.5_HD_U_G8.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "137363842c5bfdebb72356a4079faeef3157eb3c"
+        },
+        {
+          "id": "OptiFine 1.16.4 HD U G7",
+          "minecraft": "1.16.4",
+          "filename": "OptiFine_1.16.4_HD_U_G7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.4_HD_U_G7.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "f49c042fa099907eafcbe22d7035d84f8b5715f1"
+        },
+        {
+          "id": "OptiFine 1.16.3 HD U G5",
+          "minecraft": "1.16.3",
+          "filename": "OptiFine_1.16.3_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.3_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "6a8f57ca84628da47b011e608ff449cde7ec13ed"
+        },
+        {
+          "id": "OptiFine 1.16.2 HD U G5",
+          "minecraft": "1.16.2",
+          "filename": "OptiFine_1.16.2_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.2_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+          "sha1": "5b5627a814e8c95aa7ac27fa4cf2cc0b8bd4519b"
+        },
+        {
+          "id": "OptiFine 1.16.1 HD U G2",
+          "minecraft": "1.16.1",
+          "filename": "OptiFine_1.16.1_HD_U_G2.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.1_HD_U_G2.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
+          "sha1": "87533b8ac0dfeb11241041f197f8f95c0ffa8c08"
+        },
+        {
+          "id": "OptiFine 1.15.2 HD U G6",
+          "minecraft": "1.15.2",
+          "filename": "OptiFine_1.15.2_HD_U_G6.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.15.2_HD_U_G6.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
+          "sha1": "630a32be9b711b5a479507159d5d2598189fed33"
+        },
+        {
+          "id": "OptiFine 1.14.4 HD U G5",
+          "minecraft": "1.14.4",
+          "filename": "OptiFine_1.14.4_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.4_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "117c01a5431244a8b6a3ac393374dac9624f9be6"
+        },
+        {
+          "id": "OptiFine 1.14.3 HD U F2",
+          "minecraft": "1.14.3",
+          "filename": "OptiFine_1.14.3_HD_U_F2.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F2.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "887d648f26f7ba17ea34c0c2dcff4096f7a226b1"
+        },
+        {
+          "id": "OptiFine 1.14.2 HD U F1",
+          "minecraft": "1.14.2",
+          "filename": "OptiFine_1.14.2_HD_U_F1.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.2_HD_U_F1.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "396ce7f0e22aae3543134baabd61ad547334c0aa"
+        },
+        {
+          "id": "OptiFine 1.13.2 HD U G5",
+          "minecraft": "1.13.2",
+          "filename": "OptiFine_1.13.2_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "2cf69cec66f2581d9d8443a457c1f54bd50b1464"
+        },
+        {
+          "id": "OptiFine 1.13.1 HD U E4",
+          "minecraft": "1.13.1",
+          "filename": "OptiFine_1.13.1_HD_U_E4.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.13.1_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "4cd051a468185d33f324dd0467ad2391e1c58d65"
+        },
+        {
+          "id": "OptiFine 1.13 HD U E4",
+          "minecraft": "1.13",
+          "filename": "OptiFine_1.13_HD_U_E4.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.13_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "4f212f335891e7f4e674571d6dc1733d2dd666db"
+        },
+        {
+          "id": "OptiFine 1.12.2 HD U G5",
+          "minecraft": "1.12.2",
+          "filename": "OptiFine_1.12.2_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+          "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4"
+        },
+        {
+          "id": "OptiFine 1.12.1 HD U G5",
+          "minecraft": "1.12.1",
+          "filename": "OptiFine_1.12.1_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.12.1_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "3c9cd74810cad75de5091633a1e0c7d3d76ea09c"
+        },
+        {
+          "id": "OptiFine 1.12 HD U G5",
+          "minecraft": "1.12",
+          "filename": "OptiFine_1.12_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "3b8369d33c3257cb247c22b13a41b7db0924e948"
+        },
+        {
+          "id": "OptiFine 1.11.2 HD U G5",
+          "minecraft": "1.11.2",
+          "filename": "OptiFine_1.11.2_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "65c425ab628d1748b489dee8619271402428509e"
+        },
+        {
+          "id": "OptiFine 1.11 HD U G5",
+          "minecraft": "1.11",
+          "filename": "OptiFine_1.11_HD_U_G5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.11_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "71057cb7a3d0971c3b56e1fbbc333304a72e1352"
+        },
+        {
+          "id": "OptiFine 1.10.2 HD U I5",
+          "minecraft": "1.10.2",
+          "filename": "OptiFine_1.10.2_HD_U_I5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "12fd8dd33150f9e4436f23bac08265305f949e20"
+        },
+        {
+          "id": "OptiFine 1.10 HD U I5",
+          "minecraft": "1.10",
+          "filename": "OptiFine_1.10_HD_U_I5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
+          "sha1": "a0070afe9c1c0ced4bcfcda85359e07917d569bd"
+        },
+        {
+          "id": "OptiFine 1.9.4 HD U I5",
+          "minecraft": "1.9.4",
+          "filename": "OptiFine_1.9.4_HD_U_I5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.4_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+          "sha1": "68a206db0d425dd85f6eba33e52122b01e844c46"
+        },
+        {
+          "id": "OptiFine 1.9.2 HD U E3",
+          "minecraft": "1.9.2",
+          "filename": "OptiFine_1.9.2_HD_U_E3.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.2_HD_U_E3.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+          "sha1": "c032b2ae0b6087077efef8ae89b612e0d4ea81b7"
+        },
+        {
+          "id": "OptiFine 1.9.0 HD U I5",
+          "minecraft": "1.9",
+          "filename": "OptiFine_1.9.0_HD_U_I5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.0_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+          "sha1": "b5faec3b84f42dd396512a3ce7c1b57c0b972b70"
+        },
+        {
+          "id": "OptiFine 1.8.9 HD U M5",
+          "minecraft": "1.8.9",
+          "filename": "OptiFine_1.8.9_HD_U_M5.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=debe0c2b75f02eff184728d0daeff85a",
+          "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
+        },
+        {
+          "id": "OptiFine 1.8.8 HD U I7",
+          "minecraft": "1.8.8",
+          "filename": "OptiFine_1.8.8_HD_U_I7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.8_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+          "sha1": "30cbf4d61052cbfb736a78117da333df23c129a3"
+        },
+        {
+          "id": "OptiFine 1.8.0 HD U I7",
+          "minecraft": "1.8",
+          "filename": "OptiFine_1.8.0_HD_U_I7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+          "sha1": "0d1dcf64b4d104a71e8f65a1362a163ed81a9030"
+        },
+        {
+          "id": "OptiFine 1.7.10 HD U E7",
+          "minecraft": "1.7.10",
+          "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+          "sha1": "2130d7266224da6a7325051e37444f7e7c19277c"
+        },
+        {
+          "id": "OptiFine 1.7.2 HD U F7",
+          "minecraft": "1.7.2",
+          "filename": "OptiFine_1.7.2_HD_U_F7.jar",
+          "url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_F7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+          "sha1": "fb04b91e47b5eaa172d2b76c843e488dba8f909b"
+        }
+      ]
     }
   ]
 }
