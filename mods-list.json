@@ -2,7 +2,7 @@
     "mods": [{
         "name": "OptiFine",
         "image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg",
-        "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!",
+        "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах.",
         "downloads": [{
             "id": "OptiFine 1.19.2 HD U H9",
             "minecraft": "1.19.2",
