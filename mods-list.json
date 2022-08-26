@@ -1,755 +1,718 @@
 {
-  "mods":
-  [
-    {
-      "name": "OptiFine",
-      "image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg",
-      "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!",
-      "downloads":
-      [
-        {
-          "id": "OptiFine 1.19.2 HD U H9",
-          "minecraft": "1.19.2",
-          "filename": "OptiFine_1.19.2_HD_U_H9.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=35abf28392ef78efc773ab8e02dc3146",
-          "sha1": "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
-        },
-        {
-          "id": "OptiFine 1.19.1 HD U H9",
-          "minecraft": "1.19.1",
-          "filename": "OptiFine_1.19.1_HD_U_H9.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.19.1_HD_U_H9.jar&x=52f8fa15969331823f84bc6378bc89ad",
-          "sha1": "b42dcce86c88ad4bcfa52a9d297afa800477aa78"
-        },
-        {
-          "id": "OptiFine 1.19 HD U H9",
-          "minecraft": "1.19",
-          "filename": "OptiFine_1.19_HD_U_H9.jar",
-          "url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true",
-          "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3"
-        },
-        {
-          "id": "OptiFine 1.18.2 HD U H7",
-          "minecraft": "1.18.2",
-          "filename": "OptiFine_1.18.2_HD_U_H7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.18.2_HD_U_H7.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-          "sha1": "8d83d4d5e325887e000a462029d2bf7a6e77eebc"
-        },
-        {
-          "id": "OptiFine 1.18.1 HD U H6",
-          "minecraft": "1.18.1",
-          "filename": "OptiFine_1.18.1_HD_U_H6.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.18.1_HD_U_H6.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-          "sha1": "c86534ee821a78efc741c9cb407eec76625e1bab"
-        },
-        {
-          "id": "OptiFine 1.18 HD U H3",
-          "minecraft": "1.18",
-          "filename": "OptiFine_1.18_HD_U_H3.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.18_HD_U_H3.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-          "sha1": "52629bc5319ec203edd42de1776cb8d67a0e6b1b"
-        },
-        {
-          "id": "OptiFine 1.17.1 HD U H1",
-          "minecraft": "1.17.1",
-          "filename": "OptiFine_1.17.1_HD_U_H1.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.17.1_HD_U_H1.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "cc64084e73d6423baf7ccbdd9f3760dd56f2fce5"
-        },
-        {
-          "id": "OptiFine 1.17 HD U G9 pre26",
-          "minecraft": "1.17",
-          "filename": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
-          "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "6a8e34605cc828091027d9f011b804d916808af4"
-        },
-        {
-          "id": "OptiFine 1.16.5 HD U G8",
-          "minecraft": "1.16.5",
-          "filename": "OptiFine_1.16.5_HD_U_G8.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "137363842c5bfdebb72356a4079faeef3157eb3c"
-        },
-        {
-          "id": "OptiFine 1.16.4 HD U G7",
-          "minecraft": "1.16.4",
-          "filename": "OptiFine_1.16.4_HD_U_G7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.4_HD_U_G7.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "f49c042fa099907eafcbe22d7035d84f8b5715f1"
-        },
-        {
-          "id": "OptiFine 1.16.3 HD U G5",
-          "minecraft": "1.16.3",
-          "filename": "OptiFine_1.16.3_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.3_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "6a8f57ca84628da47b011e608ff449cde7ec13ed"
-        },
-        {
-          "id": "OptiFine 1.16.2 HD U G5",
-          "minecraft": "1.16.2",
-          "filename": "OptiFine_1.16.2_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.2_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-          "sha1": "5b5627a814e8c95aa7ac27fa4cf2cc0b8bd4519b"
-        },
-        {
-          "id": "OptiFine 1.16.1 HD U G2",
-          "minecraft": "1.16.1",
-          "filename": "OptiFine_1.16.1_HD_U_G2.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.16.1_HD_U_G2.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
-          "sha1": "87533b8ac0dfeb11241041f197f8f95c0ffa8c08"
-        },
-        {
-          "id": "OptiFine 1.15.2 HD U G6",
-          "minecraft": "1.15.2",
-          "filename": "OptiFine_1.15.2_HD_U_G6.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.15.2_HD_U_G6.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
-          "sha1": "630a32be9b711b5a479507159d5d2598189fed33"
-        },
-        {
-          "id": "OptiFine 1.14.4 HD U G5",
-          "minecraft": "1.14.4",
-          "filename": "OptiFine_1.14.4_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.4_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "117c01a5431244a8b6a3ac393374dac9624f9be6"
-        },
-        {
-          "id": "OptiFine 1.14.3 HD U F2",
-          "minecraft": "1.14.3",
-          "filename": "OptiFine_1.14.3_HD_U_F2.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F2.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "887d648f26f7ba17ea34c0c2dcff4096f7a226b1"
-        },
-        {
-          "id": "OptiFine 1.14.2 HD U F1",
-          "minecraft": "1.14.2",
-          "filename": "OptiFine_1.14.2_HD_U_F1.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.14.2_HD_U_F1.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "396ce7f0e22aae3543134baabd61ad547334c0aa"
-        },
-        {
-          "id": "OptiFine 1.13.2 HD U G5",
-          "minecraft": "1.13.2",
-          "filename": "OptiFine_1.13.2_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "2cf69cec66f2581d9d8443a457c1f54bd50b1464"
-        },
-        {
-          "id": "OptiFine 1.13.1 HD U E4",
-          "minecraft": "1.13.1",
-          "filename": "OptiFine_1.13.1_HD_U_E4.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.13.1_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "4cd051a468185d33f324dd0467ad2391e1c58d65"
-        },
-        {
-          "id": "OptiFine 1.13 HD U E4",
-          "minecraft": "1.13",
-          "filename": "OptiFine_1.13_HD_U_E4.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.13_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "4f212f335891e7f4e674571d6dc1733d2dd666db"
-        },
-        {
-          "id": "OptiFine 1.12.2 HD U G5",
-          "minecraft": "1.12.2",
-          "filename": "OptiFine_1.12.2_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-          "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4"
-        },
-        {
-          "id": "OptiFine 1.12.1 HD U G5",
-          "minecraft": "1.12.1",
-          "filename": "OptiFine_1.12.1_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.12.1_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "3c9cd74810cad75de5091633a1e0c7d3d76ea09c"
-        },
-        {
-          "id": "OptiFine 1.12 HD U G5",
-          "minecraft": "1.12",
-          "filename": "OptiFine_1.12_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "3b8369d33c3257cb247c22b13a41b7db0924e948"
-        },
-        {
-          "id": "OptiFine 1.11.2 HD U G5",
-          "minecraft": "1.11.2",
-          "filename": "OptiFine_1.11.2_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "65c425ab628d1748b489dee8619271402428509e"
-        },
-        {
-          "id": "OptiFine 1.11 HD U G5",
-          "minecraft": "1.11",
-          "filename": "OptiFine_1.11_HD_U_G5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.11_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "71057cb7a3d0971c3b56e1fbbc333304a72e1352"
-        },
-        {
-          "id": "OptiFine 1.10.2 HD U I5",
-          "minecraft": "1.10.2",
-          "filename": "OptiFine_1.10.2_HD_U_I5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "12fd8dd33150f9e4436f23bac08265305f949e20"
-        },
-        {
-          "id": "OptiFine 1.10 HD U I5",
-          "minecraft": "1.10",
-          "filename": "OptiFine_1.10_HD_U_I5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
-          "sha1": "a0070afe9c1c0ced4bcfcda85359e07917d569bd"
-        },
-        {
-          "id": "OptiFine 1.9.4 HD U I5",
-          "minecraft": "1.9.4",
-          "filename": "OptiFine_1.9.4_HD_U_I5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.4_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-          "sha1": "68a206db0d425dd85f6eba33e52122b01e844c46"
-        },
-        {
-          "id": "OptiFine 1.9.2 HD U E3",
-          "minecraft": "1.9.2",
-          "filename": "OptiFine_1.9.2_HD_U_E3.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.2_HD_U_E3.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-          "sha1": "c032b2ae0b6087077efef8ae89b612e0d4ea81b7"
-        },
-        {
-          "id": "OptiFine 1.9.0 HD U I5",
-          "minecraft": "1.9",
-          "filename": "OptiFine_1.9.0_HD_U_I5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.9.0_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-          "sha1": "b5faec3b84f42dd396512a3ce7c1b57c0b972b70"
-        },
-        {
-          "id": "OptiFine 1.8.9 HD U M5",
-          "minecraft": "1.8.9",
-          "filename": "OptiFine_1.8.9_HD_U_M5.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=debe0c2b75f02eff184728d0daeff85a",
-          "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-        },
-        {
-          "id": "OptiFine 1.8.8 HD U I7",
-          "minecraft": "1.8.8",
-          "filename": "OptiFine_1.8.8_HD_U_I7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.8_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-          "sha1": "30cbf4d61052cbfb736a78117da333df23c129a3"
-        },
-        {
-          "id": "OptiFine 1.8.0 HD U I7",
-          "minecraft": "1.8",
-          "filename": "OptiFine_1.8.0_HD_U_I7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-          "sha1": "0d1dcf64b4d104a71e8f65a1362a163ed81a9030"
-        },
-        {
-          "id": "OptiFine 1.7.10 HD U E7",
-          "minecraft": "1.7.10",
-          "filename": "OptiFine_1.7.10_HD_U_E7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-          "sha1": "2130d7266224da6a7325051e37444f7e7c19277c"
-        },
-        {
-          "id": "OptiFine 1.7.2 HD U F7",
-          "minecraft": "1.7.2",
-          "filename": "OptiFine_1.7.2_HD_U_F7.jar",
-          "url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_F7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-          "sha1": "fb04b91e47b5eaa172d2b76c843e488dba8f909b"
-        }
-      ]
-    },
-    {
-      "name": "JourneyMap",
-      "image-url": "https://minecraft-inside.ru/uploads/files/2018-12/JourneyMap.jpg",
-      "description-ru": "JourneyMap - самый популярный мод на мини-карту.",
-      "downloads": 
-      [
-        {
-          "minecraft": "1.0",
-          "filename": "JourneyMap1.0.0_MC1.0.0.zip",
-          "url": "https://edge.forgecdn.net/files/554/368/JourneyMap1.0.0_MC1.0.0.zip",
-          "sha1": "b20d25672b6c0a71939208f6b74195291f9c4af7"
-        },
-        {
-          "minecraft": "1.1",
-          "filename": "JourneyMap1.0.1_MC1.1.zip",
-          "url": "https://edge.forgecdn.net/files/568/433/JourneyMap1.0.1_MC1.1.zip",
-          "sha1": "13c3dd7639136cf88a54ef61e47b3924a4e615fc"
-        },
-        {
-          "minecraft": "1.4.7",
-          "filename": "JourneyMap1.9.1_MC1.4.6.zip",
-          "url": "https://edge.forgecdn.net/files/683/238/JourneyMap1.9.1_MC1.4.6.zip",
-          "sha1": "aeb6418a51c3a3fa9ab140ca1a52c04f8ce12820"
-        },
-        {
-          "minecraft": "1.5.2",
-          "filename": "JourneyMap2.6.1_MC1.5.2.zip",
-          "url": "https://edge.forgecdn.net/files/717/862/JourneyMap2.6.1_MC1.5.2.zip",
-          "sha1": "4b36761db0bf7659d62613369eb8f0063fffdb0e"
-        },
-        {
-          "minecraft": "1.6.4",
-          "filename": "JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
-          "url": "https://edge.forgecdn.net/files/2209/902/JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
-          "sha1": "97d263427c902de1a59417815da2a017103a5025"
-        },
-        {
-          "minecraft": "1.7.10",
-          "filename": "journeymap-1.7.10-5.1.4p2-unlimited.jar",
-          "url": "https://edge.forgecdn.net/files/2367/915/journeymap-1.7.10-5.1.4p2-unlimited.jar",
-          "sha1": "dd3ef105a039afaae08dc9ac46c2368d8e462951"
-        },
-        {
-          "minecraft": "1.7.2",
-          "filename": "JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
-          "url": "https://edge.forgecdn.net/files/2209/904/JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
-          "sha1": "dbee657f43d463d60209ee24498f2334b4d00bfb"
-        },
-        {
-          "minecraft": "1.8",
-          "filename": "journeymap-1.8-5.1.3-unlimited.jar",
-          "url": "https://edge.forgecdn.net/files/2269/316/journeymap-1.8-5.1.3-unlimited.jar",
-          "sha1": "511b5393d75a290fe7b25a7264d15f5f5d77e9d2"
-        },
-        {
-          "minecraft": "1.8.8",
-          "filename": "journeymap-1.8.8-5.1.3-unlimited.jar",
-          "url": "https://edge.forgecdn.net/files/2269/324/journeymap-1.8.8-5.1.3-unlimited.jar",
-          "sha1": "3debd9cb9da9eae6bdbaf6e2952d5671a5b244ba"
-        },
-        {
-          "minecraft": "1.8.9",
-          "filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-          "url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-          "sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-        },
-        {
-          "minecraft": "1.9",
-          "filename": "journeymap-1.9-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/292/journeymap-1.9-5.5.2.jar",
-          "sha1": "c5ae1a6f9f22e6ac08c93c588b6bce76b4184c07"
-        },
-        {
-          "minecraft": "1.9.4",
-          "filename": "journeymap-1.9.4-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/294/journeymap-1.9.4-5.5.2.jar",
-          "sha1": "7974e1d48162cde3783e26ac9cd2c5ed2c489f4c"
-        },
-        {
-          "minecraft": "1.10.2",
-          "filename": "journeymap-1.10.2-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/297/journeymap-1.10.2-5.5.2.jar",
-          "sha1": "761b841746d8707bfc336e9abb7a429436c5a4df"
-        },
-        {
-          "minecraft": "1.11",
-          "filename": "journeymap-1.11-5.4.6.jar",
-          "url": "https://edge.forgecdn.net/files/2383/113/journeymap-1.11-5.4.6.jar",
-          "sha1": "bc227cfa6d00554c289054a5315f6cf36537cc3d"
-        },
-        {
-          "minecraft": "1.11.2",
-          "filename": "journeymap-1.11.2-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/301/journeymap-1.11.2-5.5.2.jar",
-          "sha1": "acf22529294caf6d8e6fb53c055e4aa5f9d5fe7e"
-        },
-        {
-          "minecraft": "1.12",
-          "filename": "journeymap-1.12-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/305/journeymap-1.12-5.5.2.jar",
-          "sha1": "825dca953216e80e2304cf229b41a8cb512d8555"
-        },
-        {
-          "minecraft": "1.12.1",
-          "filename": "journeymap-1.12.1-5.5.2.jar",
-          "url": "https://edge.forgecdn.net/files/2498/307/journeymap-1.12.1-5.5.2.jar",
-          "sha1": "2264588e859887fa27866df14f07d9a991e68c31"
-        },
-        {
-          "minecraft": "1.12.2",
-          "filename": "journeymap-1.12.2-5.7.1.jar",
-          "url": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
-          "sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
-        },
-        {
-          "minecraft": "1.14.4",
-          "filename": "journeymap-1.14.4-5.7.0.jar",
-          "url": "https://edge.forgecdn.net/files/3208/23/journeymap-1.14.4-5.7.0.jar",
-          "sha1": "388c2c1b513eb831df6e2ccafcd592815a73db24"
-        },
-        {
-          "minecraft": "1.15.2",
-          "filename": "journeymap-1.15.2-5.7.0.jar",
-          "url": "https://edge.forgecdn.net/files/3208/19/journeymap-1.15.2-5.7.0.jar",
-          "sha1": "7f9e36cb7699b39524e55dfc793292034999cee2"
-        },
-        {
-          "minecraft": "1.16.3",
-          "filename": "journeymap-1.16.5-5.7.3.jar",
-          "url": "https://edge.forgecdn.net/files/3397/59/journeymap-1.16.5-5.7.3.jar",
-          "sha1": "2c1b429aa6de242a1b79de3dad8aacde163faf0f"
-        },
-        {
-          "minecraft": "1.16.5",
-          "filename": "journeymap-1.16.5-5.8.5p5.jar",
-          "url": "https://edge.forgecdn.net/files/3841/569/journeymap-1.16.5-5.8.5p5.jar",
-          "sha1": "c02a5777619d102ec7495d38b88036037819611b"
-        },
-        {
-          "minecraft": "1.17.1",
-          "filename": "journeymap-1.17.1-5.8.0.jar",
-          "url": "https://edge.forgecdn.net/files/3696/401/journeymap-1.17.1-5.8.0.jar",
-          "sha1": "1748184b2e4b3ddb6d1bff2f174991eb1ad80dfa"
-        },
-        {
-          "minecraft": "1.18.1",
-          "filename": "journeymap-1.18.1-5.8.1.jar",
-          "url": "https://edge.forgecdn.net/files/3756/52/journeymap-1.18.1-5.8.1.jar",
-          "sha1": "5c25beee9ace0d02f503c9a615d9c215891669b4"
-        },
-        {
-          "minecraft": "1.18.2",
-          "filename": "journeymap-1.18.2-5.9.0beta2-forge.jar",
-          "url": "https://edge.forgecdn.net/files/3927/228/journeymap-1.18.2-5.9.0beta2-forge.jar",
-          "sha1": "1aef6d54ef4dc2e8556009d359f86652c30999e9"
-        },
-        {
-          "minecraft": "1.19",
-          "filename": "journeymap-1.19-5.8.5-forge.jar",
-          "url": "https://edge.forgecdn.net/files/3902/437/journeymap-1.19-5.8.5-forge.jar",
-          "sha1": "78fa28d30176c4b1af249e7162e95543"
-        },
-        {
-          "minecraft": "1.19.2",
-          "filename": "journeymap-1.19.1-5.9.0beta2-forge.jar",
-          "url": "https://edge.forgecdn.net/files/3927/230/journeymap-1.19.1-5.9.0beta2-forge.jar",
-          "sha1": "38254fbd2a3e93e09f51dd5801b6aa6aa9a8fa3f"
-        }
-      ]
-    },
-    {
-    "name": "Just Enough Items (JEI)",
-    "image-url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
-    "description-ru": "Just Enough Items - это самый удобный мод для просмотра предметов и крафтов.",
-    "downloads": [{
-        "minecraft": "1.8",
-        "filename": "jei_1.8-2.14.0.139.jar",
-        "url": "https://edge.forgecdn.net/files/2273/901/jei_1.8-2.14.0.139.jar",
-        "sha1": "acb4f7cc448ac097824ab8594935245b57b12870"
+    "mods": [{
+        "name": "OptiFine",
+        "image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg",
+        "description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах. Рекомендуем устанавливать его во все твои сборки!",
+        "downloads": [{
+            "id": "OptiFine 1.19.2 HD U H9",
+            "minecraft": "1.19.2",
+            "filename": "OptiFine_1.19.2_HD_U_H9.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=35abf28392ef78efc773ab8e02dc3146",
+            "sha1": "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
+        }, {
+            "id": "OptiFine 1.19.1 HD U H9",
+            "minecraft": "1.19.1",
+            "filename": "OptiFine_1.19.1_HD_U_H9.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.19.1_HD_U_H9.jar&x=52f8fa15969331823f84bc6378bc89ad",
+            "sha1": "b42dcce86c88ad4bcfa52a9d297afa800477aa78"
+        }, {
+            "id": "OptiFine 1.19 HD U H9",
+            "minecraft": "1.19",
+            "filename": "OptiFine_1.19_HD_U_H9.jar",
+            "url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true",
+            "sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3"
+        }, {
+            "id": "OptiFine 1.18.2 HD U H7",
+            "minecraft": "1.18.2",
+            "filename": "OptiFine_1.18.2_HD_U_H7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.18.2_HD_U_H7.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+            "sha1": "8d83d4d5e325887e000a462029d2bf7a6e77eebc"
+        }, {
+            "id": "OptiFine 1.18.1 HD U H6",
+            "minecraft": "1.18.1",
+            "filename": "OptiFine_1.18.1_HD_U_H6.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.18.1_HD_U_H6.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+            "sha1": "c86534ee821a78efc741c9cb407eec76625e1bab"
+        }, {
+            "id": "OptiFine 1.18 HD U H3",
+            "minecraft": "1.18",
+            "filename": "OptiFine_1.18_HD_U_H3.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.18_HD_U_H3.jar&x=51077ae1405b8a4c41275f7848b5a64c",
+            "sha1": "52629bc5319ec203edd42de1776cb8d67a0e6b1b"
+        }, {
+            "id": "OptiFine 1.17.1 HD U H1",
+            "minecraft": "1.17.1",
+            "filename": "OptiFine_1.17.1_HD_U_H1.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.17.1_HD_U_H1.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "cc64084e73d6423baf7ccbdd9f3760dd56f2fce5"
+        }, {
+            "id": "OptiFine 1.17 HD U G9 pre26",
+            "minecraft": "1.17",
+            "filename": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+            "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "6a8e34605cc828091027d9f011b804d916808af4"
+        }, {
+            "id": "OptiFine 1.16.5 HD U G8",
+            "minecraft": "1.16.5",
+            "filename": "OptiFine_1.16.5_HD_U_G8.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "137363842c5bfdebb72356a4079faeef3157eb3c"
+        }, {
+            "id": "OptiFine 1.16.4 HD U G7",
+            "minecraft": "1.16.4",
+            "filename": "OptiFine_1.16.4_HD_U_G7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.4_HD_U_G7.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "f49c042fa099907eafcbe22d7035d84f8b5715f1"
+        }, {
+            "id": "OptiFine 1.16.3 HD U G5",
+            "minecraft": "1.16.3",
+            "filename": "OptiFine_1.16.3_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.3_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "6a8f57ca84628da47b011e608ff449cde7ec13ed"
+        }, {
+            "id": "OptiFine 1.16.2 HD U G5",
+            "minecraft": "1.16.2",
+            "filename": "OptiFine_1.16.2_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.2_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
+            "sha1": "5b5627a814e8c95aa7ac27fa4cf2cc0b8bd4519b"
+        }, {
+            "id": "OptiFine 1.16.1 HD U G2",
+            "minecraft": "1.16.1",
+            "filename": "OptiFine_1.16.1_HD_U_G2.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.1_HD_U_G2.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
+            "sha1": "87533b8ac0dfeb11241041f197f8f95c0ffa8c08"
+        }, {
+            "id": "OptiFine 1.15.2 HD U G6",
+            "minecraft": "1.15.2",
+            "filename": "OptiFine_1.15.2_HD_U_G6.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.15.2_HD_U_G6.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
+            "sha1": "630a32be9b711b5a479507159d5d2598189fed33"
+        }, {
+            "id": "OptiFine 1.14.4 HD U G5",
+            "minecraft": "1.14.4",
+            "filename": "OptiFine_1.14.4_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.14.4_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "117c01a5431244a8b6a3ac393374dac9624f9be6"
+        }, {
+            "id": "OptiFine 1.14.3 HD U F2",
+            "minecraft": "1.14.3",
+            "filename": "OptiFine_1.14.3_HD_U_F2.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F2.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "887d648f26f7ba17ea34c0c2dcff4096f7a226b1"
+        }, {
+            "id": "OptiFine 1.14.2 HD U F1",
+            "minecraft": "1.14.2",
+            "filename": "OptiFine_1.14.2_HD_U_F1.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.14.2_HD_U_F1.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "396ce7f0e22aae3543134baabd61ad547334c0aa"
+        }, {
+            "id": "OptiFine 1.13.2 HD U G5",
+            "minecraft": "1.13.2",
+            "filename": "OptiFine_1.13.2_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "2cf69cec66f2581d9d8443a457c1f54bd50b1464"
+        }, {
+            "id": "OptiFine 1.13.1 HD U E4",
+            "minecraft": "1.13.1",
+            "filename": "OptiFine_1.13.1_HD_U_E4.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.13.1_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "4cd051a468185d33f324dd0467ad2391e1c58d65"
+        }, {
+            "id": "OptiFine 1.13 HD U E4",
+            "minecraft": "1.13",
+            "filename": "OptiFine_1.13_HD_U_E4.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.13_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "4f212f335891e7f4e674571d6dc1733d2dd666db"
+        }, {
+            "id": "OptiFine 1.12.2 HD U G5",
+            "minecraft": "1.12.2",
+            "filename": "OptiFine_1.12.2_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
+            "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4"
+        }, {
+            "id": "OptiFine 1.12.1 HD U G5",
+            "minecraft": "1.12.1",
+            "filename": "OptiFine_1.12.1_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.12.1_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "3c9cd74810cad75de5091633a1e0c7d3d76ea09c"
+        }, {
+            "id": "OptiFine 1.12 HD U G5",
+            "minecraft": "1.12",
+            "filename": "OptiFine_1.12_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "3b8369d33c3257cb247c22b13a41b7db0924e948"
+        }, {
+            "id": "OptiFine 1.11.2 HD U G5",
+            "minecraft": "1.11.2",
+            "filename": "OptiFine_1.11.2_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "65c425ab628d1748b489dee8619271402428509e"
+        }, {
+            "id": "OptiFine 1.11 HD U G5",
+            "minecraft": "1.11",
+            "filename": "OptiFine_1.11_HD_U_G5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.11_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "71057cb7a3d0971c3b56e1fbbc333304a72e1352"
+        }, {
+            "id": "OptiFine 1.10.2 HD U I5",
+            "minecraft": "1.10.2",
+            "filename": "OptiFine_1.10.2_HD_U_I5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "12fd8dd33150f9e4436f23bac08265305f949e20"
+        }, {
+            "id": "OptiFine 1.10 HD U I5",
+            "minecraft": "1.10",
+            "filename": "OptiFine_1.10_HD_U_I5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
+            "sha1": "a0070afe9c1c0ced4bcfcda85359e07917d569bd"
+        }, {
+            "id": "OptiFine 1.9.4 HD U I5",
+            "minecraft": "1.9.4",
+            "filename": "OptiFine_1.9.4_HD_U_I5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.9.4_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+            "sha1": "68a206db0d425dd85f6eba33e52122b01e844c46"
+        }, {
+            "id": "OptiFine 1.9.2 HD U E3",
+            "minecraft": "1.9.2",
+            "filename": "OptiFine_1.9.2_HD_U_E3.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.9.2_HD_U_E3.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+            "sha1": "c032b2ae0b6087077efef8ae89b612e0d4ea81b7"
+        }, {
+            "id": "OptiFine 1.9.0 HD U I5",
+            "minecraft": "1.9",
+            "filename": "OptiFine_1.9.0_HD_U_I5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.9.0_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
+            "sha1": "b5faec3b84f42dd396512a3ce7c1b57c0b972b70"
+        }, {
+            "id": "OptiFine 1.8.9 HD U M5",
+            "minecraft": "1.8.9",
+            "filename": "OptiFine_1.8.9_HD_U_M5.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=debe0c2b75f02eff184728d0daeff85a",
+            "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
+        }, {
+            "id": "OptiFine 1.8.8 HD U I7",
+            "minecraft": "1.8.8",
+            "filename": "OptiFine_1.8.8_HD_U_I7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.8.8_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+            "sha1": "30cbf4d61052cbfb736a78117da333df23c129a3"
+        }, {
+            "id": "OptiFine 1.8.0 HD U I7",
+            "minecraft": "1.8",
+            "filename": "OptiFine_1.8.0_HD_U_I7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+            "sha1": "0d1dcf64b4d104a71e8f65a1362a163ed81a9030"
+        }, {
+            "id": "OptiFine 1.7.10 HD U E7",
+            "minecraft": "1.7.10",
+            "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+            "sha1": "2130d7266224da6a7325051e37444f7e7c19277c"
+        }, {
+            "id": "OptiFine 1.7.2 HD U F7",
+            "minecraft": "1.7.2",
+            "filename": "OptiFine_1.7.2_HD_U_F7.jar",
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_F7.jar&x=debe0c2b75f02eff184728d0daeff85a",
+            "sha1": "fb04b91e47b5eaa172d2b76c843e488dba8f909b"
+        }]
     }, {
-        "minecraft": "1.8.8",
-        "filename": "jei_1.8.9-2.16.2.78.jar",
-        "url": "https://edge.forgecdn.net/files/2275/72/jei_1.8.9-2.16.2.78.jar",
-        "sha1": "7b07f17dd4ea0bb0ac2ad63061d45446dd457ccb"
+        "name": "JourneyMap",
+        "image-url": "https://minecraft-inside.ru/uploads/files/2018-12/JourneyMap.jpg",
+        "description-ru": "JourneyMap - самый популярный мод на мини-карту.",
+        "downloads": [{
+            "minecraft": "1.0",
+            "filename": "JourneyMap1.0.0_MC1.0.0.zip",
+            "url": "https://edge.forgecdn.net/files/554/368/JourneyMap1.0.0_MC1.0.0.zip",
+            "sha1": "b20d25672b6c0a71939208f6b74195291f9c4af7"
+        }, {
+            "minecraft": "1.1",
+            "filename": "JourneyMap1.0.1_MC1.1.zip",
+            "url": "https://edge.forgecdn.net/files/568/433/JourneyMap1.0.1_MC1.1.zip",
+            "sha1": "13c3dd7639136cf88a54ef61e47b3924a4e615fc"
+        }, {
+            "minecraft": "1.4.7",
+            "filename": "JourneyMap1.9.1_MC1.4.6.zip",
+            "url": "https://edge.forgecdn.net/files/683/238/JourneyMap1.9.1_MC1.4.6.zip",
+            "sha1": "aeb6418a51c3a3fa9ab140ca1a52c04f8ce12820"
+        }, {
+            "minecraft": "1.5.2",
+            "filename": "JourneyMap2.6.1_MC1.5.2.zip",
+            "url": "https://edge.forgecdn.net/files/717/862/JourneyMap2.6.1_MC1.5.2.zip",
+            "sha1": "4b36761db0bf7659d62613369eb8f0063fffdb0e"
+        }, {
+            "minecraft": "1.6.4",
+            "filename": "JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
+            "url": "https://edge.forgecdn.net/files/2209/902/JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
+            "sha1": "97d263427c902de1a59417815da2a017103a5025"
+        }, {
+            "minecraft": "1.7.10",
+            "filename": "journeymap-1.7.10-5.1.4p2-unlimited.jar",
+            "url": "https://edge.forgecdn.net/files/2367/915/journeymap-1.7.10-5.1.4p2-unlimited.jar",
+            "sha1": "dd3ef105a039afaae08dc9ac46c2368d8e462951"
+        }, {
+            "minecraft": "1.7.2",
+            "filename": "JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
+            "url": "https://edge.forgecdn.net/files/2209/904/JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
+            "sha1": "dbee657f43d463d60209ee24498f2334b4d00bfb"
+        }, {
+            "minecraft": "1.8",
+            "filename": "journeymap-1.8-5.1.3-unlimited.jar",
+            "url": "https://edge.forgecdn.net/files/2269/316/journeymap-1.8-5.1.3-unlimited.jar",
+            "sha1": "511b5393d75a290fe7b25a7264d15f5f5d77e9d2"
+        }, {
+            "minecraft": "1.8.8",
+            "filename": "journeymap-1.8.8-5.1.3-unlimited.jar",
+            "url": "https://edge.forgecdn.net/files/2269/324/journeymap-1.8.8-5.1.3-unlimited.jar",
+            "sha1": "3debd9cb9da9eae6bdbaf6e2952d5671a5b244ba"
+        }, {
+            "minecraft": "1.8.9",
+            "filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
+            "url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
+            "sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
+        }, {
+            "minecraft": "1.9",
+            "filename": "journeymap-1.9-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/292/journeymap-1.9-5.5.2.jar",
+            "sha1": "c5ae1a6f9f22e6ac08c93c588b6bce76b4184c07"
+        }, {
+            "minecraft": "1.9.4",
+            "filename": "journeymap-1.9.4-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/294/journeymap-1.9.4-5.5.2.jar",
+            "sha1": "7974e1d48162cde3783e26ac9cd2c5ed2c489f4c"
+        }, {
+            "minecraft": "1.10.2",
+            "filename": "journeymap-1.10.2-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/297/journeymap-1.10.2-5.5.2.jar",
+            "sha1": "761b841746d8707bfc336e9abb7a429436c5a4df"
+        }, {
+            "minecraft": "1.11",
+            "filename": "journeymap-1.11-5.4.6.jar",
+            "url": "https://edge.forgecdn.net/files/2383/113/journeymap-1.11-5.4.6.jar",
+            "sha1": "bc227cfa6d00554c289054a5315f6cf36537cc3d"
+        }, {
+            "minecraft": "1.11.2",
+            "filename": "journeymap-1.11.2-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/301/journeymap-1.11.2-5.5.2.jar",
+            "sha1": "acf22529294caf6d8e6fb53c055e4aa5f9d5fe7e"
+        }, {
+            "minecraft": "1.12",
+            "filename": "journeymap-1.12-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/305/journeymap-1.12-5.5.2.jar",
+            "sha1": "825dca953216e80e2304cf229b41a8cb512d8555"
+        }, {
+            "minecraft": "1.12.1",
+            "filename": "journeymap-1.12.1-5.5.2.jar",
+            "url": "https://edge.forgecdn.net/files/2498/307/journeymap-1.12.1-5.5.2.jar",
+            "sha1": "2264588e859887fa27866df14f07d9a991e68c31"
+        }, {
+            "minecraft": "1.12.2",
+            "filename": "journeymap-1.12.2-5.7.1.jar",
+            "url": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
+            "sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
+        }, {
+            "minecraft": "1.14.4",
+            "filename": "journeymap-1.14.4-5.7.0.jar",
+            "url": "https://edge.forgecdn.net/files/3208/23/journeymap-1.14.4-5.7.0.jar",
+            "sha1": "388c2c1b513eb831df6e2ccafcd592815a73db24"
+        }, {
+            "minecraft": "1.15.2",
+            "filename": "journeymap-1.15.2-5.7.0.jar",
+            "url": "https://edge.forgecdn.net/files/3208/19/journeymap-1.15.2-5.7.0.jar",
+            "sha1": "7f9e36cb7699b39524e55dfc793292034999cee2"
+        }, {
+            "minecraft": "1.16.3",
+            "filename": "journeymap-1.16.5-5.7.3.jar",
+            "url": "https://edge.forgecdn.net/files/3397/59/journeymap-1.16.5-5.7.3.jar",
+            "sha1": "2c1b429aa6de242a1b79de3dad8aacde163faf0f"
+        }, {
+            "minecraft": "1.16.5",
+            "filename": "journeymap-1.16.5-5.8.5p5.jar",
+            "url": "https://edge.forgecdn.net/files/3841/569/journeymap-1.16.5-5.8.5p5.jar",
+            "sha1": "c02a5777619d102ec7495d38b88036037819611b"
+        }, {
+            "minecraft": "1.17.1",
+            "filename": "journeymap-1.17.1-5.8.0.jar",
+            "url": "https://edge.forgecdn.net/files/3696/401/journeymap-1.17.1-5.8.0.jar",
+            "sha1": "1748184b2e4b3ddb6d1bff2f174991eb1ad80dfa"
+        }, {
+            "minecraft": "1.18.1",
+            "filename": "journeymap-1.18.1-5.8.1.jar",
+            "url": "https://edge.forgecdn.net/files/3756/52/journeymap-1.18.1-5.8.1.jar",
+            "sha1": "5c25beee9ace0d02f503c9a615d9c215891669b4"
+        }, {
+            "minecraft": "1.18.2",
+            "filename": "journeymap-1.18.2-5.9.0beta2-forge.jar",
+            "url": "https://edge.forgecdn.net/files/3927/228/journeymap-1.18.2-5.9.0beta2-forge.jar",
+            "sha1": "1aef6d54ef4dc2e8556009d359f86652c30999e9"
+        }, {
+            "minecraft": "1.19",
+            "filename": "journeymap-1.19-5.8.5-forge.jar",
+            "url": "https://edge.forgecdn.net/files/3902/437/journeymap-1.19-5.8.5-forge.jar",
+            "sha1": "78fa28d30176c4b1af249e7162e95543"
+        }, {
+            "minecraft": "1.19.2",
+            "filename": "journeymap-1.19.1-5.9.0beta2-forge.jar",
+            "url": "https://edge.forgecdn.net/files/3927/230/journeymap-1.19.1-5.9.0beta2-forge.jar",
+            "sha1": "38254fbd2a3e93e09f51dd5801b6aa6aa9a8fa3f"
+        }]
     }, {
-        "minecraft": "1.8.9",
-        "filename": "jei_1.8.9-2.28.18.187.jar",
-        "url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-        "sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
+        "name": "Just Enough Items (JEI)",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+        "description-ru": "Just Enough Items - это самый удобный мод для просмотра предметов и крафтов.",
+        "downloads": [{
+            "minecraft": "1.8",
+            "filename": "jei_1.8-2.14.0.139.jar",
+            "url": "https://edge.forgecdn.net/files/2273/901/jei_1.8-2.14.0.139.jar",
+            "sha1": "acb4f7cc448ac097824ab8594935245b57b12870"
+        }, {
+            "minecraft": "1.8.8",
+            "filename": "jei_1.8.9-2.16.2.78.jar",
+            "url": "https://edge.forgecdn.net/files/2275/72/jei_1.8.9-2.16.2.78.jar",
+            "sha1": "7b07f17dd4ea0bb0ac2ad63061d45446dd457ccb"
+        }, {
+            "minecraft": "1.8.9",
+            "filename": "jei_1.8.9-2.28.18.187.jar",
+            "url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
+            "sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
+        }, {
+            "minecraft": "1.9",
+            "filename": "jei_1.9-3.3.3.200.jar",
+            "url": "https://edge.forgecdn.net/files/2299/283/jei_1.9-3.3.3.200.jar",
+            "sha1": "03f712e1e029efa46419d4040709a8009690b41e"
+        }, {
+            "minecraft": "1.9.4",
+            "filename": "jei_1.9.4-3.6.8.225.jar",
+            "url": "https://edge.forgecdn.net/files/2313/650/jei_1.9.4-3.6.8.225.jar",
+            "sha1": "debdeb442f73eb954db22101e00949692a2e0c15"
+        }, {
+            "minecraft": "1.10",
+            "filename": "jei_1.10-3.7.1.219.jar",
+            "url": "https://edge.forgecdn.net/files/2310/912/jei_1.10-3.7.1.219.jar",
+            "sha1": "01384c4dcf0ebe57714bcea4493396ff969fc045"
+        }, {
+            "minecraft": "1.10.2",
+            "filename": "jei_1.10.2-3.14.8.422.jar",
+            "url": "https://edge.forgecdn.net/files/2561/516/jei_1.10.2-3.14.8.422.jar",
+            "sha1": "804f9b1cb4ed8635c3207d2d182cbc06a2e56041"
+        }, {
+            "minecraft": "1.11",
+            "filename": "jei_1.11-4.1.1.208.jar",
+            "url": "https://edge.forgecdn.net/files/2360/492/jei_1.11-4.1.1.208.jar",
+            "sha1": "d021f1f80de4f6b1cbe0caf1e134757a45803aa5"
+        }, {
+            "minecraft": "1.11.2",
+            "filename": "jei_1.11.2-4.5.1.296.jar",
+            "url": "https://edge.forgecdn.net/files/2461/378/jei_1.11.2-4.5.1.296.jar",
+            "sha1": "a2d7eaee690783e89e20e4b288ef976a417c2eeb"
+        }, {
+            "minecraft": "1.12",
+            "filename": "jei_1.12-4.7.5.86.jar",
+            "url": "https://edge.forgecdn.net/files/2463/414/jei_1.12-4.7.5.86.jar",
+            "sha1": "dde395a006b81fc9c4ac1836b74557e64bc18a33"
+        }, {
+            "minecraft": "1.12.1",
+            "filename": "jei_1.12.2-4.7.11.102.jar",
+            "url": "https://edge.forgecdn.net/files/2485/363/jei_1.12.2-4.7.11.102.jar",
+            "sha1": "2ff4b331ff1f0605d1ee3d75b64967bfc5d39b6a"
+        }, {
+            "minecraft": "1.12.2",
+            "filename": "jei_1.12.2-4.16.1.302.jar",
+            "url": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
+            "sha1": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8"
+        }, {
+            "minecraft": "1.13.2",
+            "filename": "jei-1.13.2-5.0.0.31.jar",
+            "url": "https://edge.forgecdn.net/files/3272/39/jei-1.13.2-5.0.0.31.jar",
+            "sha1": "aa15cdea079db8b91d75e3c68216df80a70545d8"
+        }, {
+            "minecraft": "1.14.2",
+            "filename": "jei-1.14.2-6.0.0.3.jar",
+            "url": "https://edge.forgecdn.net/files/2733/474/jei-1.14.2-6.0.0.3.jar",
+            "sha1": "96c8b2b1491ba4839f9996318c25169de371ade8"
+        }, {
+            "minecraft": "1.14.3",
+            "filename": "jei-1.14.3-6.0.0.8.jar",
+            "url": "https://edge.forgecdn.net/files/2738/328/jei-1.14.3-6.0.0.8.jar",
+            "sha1": "135375d59f565d7ac376a790873f16166cff2e64"
+        }, {
+            "minecraft": "1.14.4",
+            "filename": "jei-1.14.4-6.0.1.30.jar",
+            "url": "https://edge.forgecdn.net/files/3039/707/jei-1.14.4-6.0.1.30.jar",
+            "sha1": "619349656c15675c488689bb1c0f8f385b1b0bf7"
+        }, {
+            "minecraft": "1.15.1",
+            "filename": "jei-1.15.1-6.0.0.1.jar",
+            "url": "https://edge.forgecdn.net/files/2855/456/jei-1.15.1-6.0.0.1.jar",
+            "sha1": "96b10d1e65392e5171a43dfdd8d77c5e46bdca1b"
+        }, {
+            "minecraft": "1.15.2",
+            "filename": "jei-1.15.2-6.0.3.16.jar",
+            "url": "https://edge.forgecdn.net/files/3272/32/jei-1.15.2-6.0.3.16.jar",
+            "sha1": "643e41d4604f3e37a2fde9a53152c9b512086076"
+        }, {
+            "minecraft": "1.16.1",
+            "filename": "jei-1.16.1-7.0.1.10.jar",
+            "url": "https://edge.forgecdn.net/files/3028/697/jei-1.16.1-7.0.1.10.jar",
+            "sha1": "f590d364eed25e9258e4fe666c9e5434d605f566"
+        }, {
+            "minecraft": "1.16.2",
+            "filename": "jei-1.16.2-7.3.2.28.jar",
+            "url": "https://edge.forgecdn.net/files/3060/935/jei-1.16.2-7.3.2.28.jar",
+            "sha1": "0b16013abd77329527c5bf493158053a"
+        }, {
+            "minecraft": "1.16.3",
+            "filename": "jei-1.16.3-7.6.0.51.jar",
+            "url": "https://edge.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
+            "sha1": "83afd1cd961b75e907275f3e0f9ff136ee766e8e"
+        }, {
+            "minecraft": "1.16.4",
+            "filename": "jei-1.16.4-7.6.1.74.jar",
+            "url": "https://edge.forgecdn.net/files/3245/3/jei-1.16.4-7.6.1.74.jar",
+            "sha1": "d1e1e56fafd7b5471bd70912ab4cb478"
+        }, {
+            "minecraft": "1.16.5",
+            "filename": "jei-1.16.5-7.7.1.152.jar",
+            "url": "https://edge.forgecdn.net/files/3681/294/jei-1.16.5-7.7.1.152.jar",
+            "sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b"
+        }, {
+            "minecraft": "1.17.1",
+            "filename": "jei-1.17.1-8.3.1.62.jar",
+            "url": "https://edge.forgecdn.net/files/3596/34/jei-1.17.1-8.3.1.62.jar",
+            "sha1": "fd5ee0ce31afddef7e518fb602ef5355ae483c9e"
+        }, {
+            "minecraft": "1.18",
+            "filename": "jei-1.18-9.0.0.40.jar",
+            "url": "https://edge.forgecdn.net/files/3550/20/jei-1.18-9.0.0.40.jar",
+            "sha1": "04c089f4b52dfbecc2f07370c828501b"
+        }, {
+            "minecraft": "1.18.1",
+            "filename": "jei-1.18.1-9.4.1.172.jar",
+            "url": "https://edge.forgecdn.net/files/3723/162/jei-1.18.1-9.4.1.172.jar",
+            "sha1": "00a4c111086c43c799f2f13d2e8c86216dad8232"
+        }, {
+            "minecraft": "1.18.2",
+            "filename": "jei-1.18.2-9.7.1.255.jar",
+            "url": "https://edge.forgecdn.net/files/3940/240/jei-1.18.2-9.7.1.255.jar",
+            "sha1": "af72805f44b69f11b2c1c849478dd8a312030c18"
+        }, {
+            "minecraft": "1.19",
+            "filename": "jei-1.19-forge-11.1.1.239.jar",
+            "url": "https://edge.forgecdn.net/files/3903/68/jei-1.19-forge-11.1.1.239.jar",
+            "sha1": "f473b99f98d19cfd9915a843f0435869"
+        }, {
+            "minecraft": "1.19.1",
+            "filename": "jei-1.19.1-forge-11.2.0.244.jar",
+            "url": "https://edge.forgecdn.net/files/3922/508/jei-1.19.1-forge-11.2.0.244.jar",
+            "sha1": "74e55e0bb48fbf3301f6163e200f3883"
+        }, {
+            "minecraft": "1.19.2",
+            "filename": "jei-1.19.2-forge-11.2.0.256.jar",
+            "url": "https://edge.forgecdn.net/files/3944/627/jei-1.19.2-forge-11.2.0.256.jar",
+            "sha1": "1b9e3d574af81a7a089550939d71f849a7d8dd16"
+        }]
     }, {
-        "minecraft": "1.9",
-        "filename": "jei_1.9-3.3.3.200.jar",
-        "url": "https://edge.forgecdn.net/files/2299/283/jei_1.9-3.3.3.200.jar",
-        "sha1": "03f712e1e029efa46419d4040709a8009690b41e"
+        "name": "Mouse Tweaks",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
+        "description-ru": "Mouse Tweaks заменяет стандартную механику мыши в Майнкрафт, делая её более удобной и функциональной.",
+        "downloads": [{
+            "minecraft": "1.0",
+            "filename": "MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
+            "url": "https://edge.forgecdn.net/files/3924/803/MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
+            "sha1": "3642cfb9af5c6e04d3e7112fc5fbcc9c2566445c"
+        }, {
+            "minecraft": "1.2.5",
+            "filename": "MouseTweaks-2.7.2-mc1.2.5.jar",
+            "url": "https://edge.forgecdn.net/files/2385/397/MouseTweaks-2.7.2-mc1.2.5.jar",
+            "sha1": "7aa5cee1dd5ef2d9e6d62ece973ba0a2fc6bc9b2"
+        }, {
+            "minecraft": "1.4.2",
+            "filename": "_1.4.2__Mouse_Tweaks_BETA_4.zip",
+            "url": "https://edge.forgecdn.net/files/713/720/_1.4.2__Mouse_Tweaks_BETA_4.zip",
+            "sha1": "f44cfbe59568e8f040b58ac409cd84bc38ae2cc6"
+        }, {
+            "minecraft": "1.4.6",
+            "filename": "_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
+            "url": "https://edge.forgecdn.net/files/713/722/_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
+            "sha1": "74cfe708e6543359358c403ce87d113e90c7c6f4"
+        }, {
+            "minecraft": "1.4.7",
+            "filename": "_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
+            "url": "https://edge.forgecdn.net/files/713/723/_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
+            "sha1": "8c1cc20c3e8d404208f2cc2efc4c372f4cd9d26c"
+        }, {
+            "minecraft": "1.5",
+            "filename": "_1.5__Mouse_Tweaks_1.0c.zip",
+            "url": "https://edge.forgecdn.net/files/713/727/_1.5__Mouse_Tweaks_1.0c.zip",
+            "sha1": "ca608af824f223c782b74a08b864119283dd2ba6"
+        }, {
+            "minecraft": "1.5.1",
+            "filename": "_1.5.1__Mouse_Tweaks_1.1c.zip",
+            "url": "https://edge.forgecdn.net/files/713/730/_1.5.1__Mouse_Tweaks_1.1c.zip",
+            "sha1": "3e4552c0fe8dfceae8c27b0a51da8192dbd8b339"
+        }, {
+            "minecraft": "1.5.2",
+            "filename": "_1.5.2__Mouse_Tweaks_2.0.3.zip",
+            "url": "https://edge.forgecdn.net/files/729/153/_1.5.2__Mouse_Tweaks_2.0.3.zip",
+            "sha1": "db7e256b102260ffea8ef271084320adf4702427"
+        }, {
+            "minecraft": "1.6.1",
+            "filename": "_1.6.1__Mouse_Tweaks_2.1.zip",
+            "url": "https://edge.forgecdn.net/files/716/261/_1.6.1__Mouse_Tweaks_2.1.zip",
+            "sha1": "ba6756fbd249afdd3f0c94ebe36e441143b2aead"
+        }, {
+            "minecraft": "1.6.2",
+            "filename": "_1.6.2__Mouse_Tweaks_2.3.3.zip",
+            "url": "https://edge.forgecdn.net/files/729/154/_1.6.2__Mouse_Tweaks_2.3.3.zip",
+            "sha1": "38b847ee66b047e5049b525b2e0c55886fbdb211"
+        }, {
+            "minecraft": "1.6.4",
+            "filename": "_1.6.4__Mouse_Tweaks_2.3.4.zip",
+            "url": "https://edge.forgecdn.net/files/741/576/_1.6.4__Mouse_Tweaks_2.3.4.zip",
+            "sha1": "27a069afee5b24691981115aba8f4bb0ac6dba6b"
+        }, {
+            "minecraft": "1.7.10",
+            "filename": "MouseTweaks-2.4.4-mc1.7.10.jar",
+            "url": "https://edge.forgecdn.net/files/2209/265/MouseTweaks-2.4.4-mc1.7.10.jar",
+            "sha1": "1fef53ebcd48f003fa0799de51e86ad113e3af7c"
+        }, {
+            "minecraft": "1.7.2",
+            "filename": "MouseTweaks-2.4.3-mc1.7.2.jar",
+            "url": "https://edge.forgecdn.net/files/2203/706/MouseTweaks-2.4.3-mc1.7.2.jar",
+            "sha1": "9f81f5d6da0f06037d6f47dc227f35e4dd7122f1"
+        }, {
+            "minecraft": "1.8",
+            "filename": "MouseTweaks-2.5.0-mc1.8.jar",
+            "url": "https://edge.forgecdn.net/files/2227/489/MouseTweaks-2.5.0-mc1.8.jar",
+            "sha1": "f0441e6887583e96ec6fe45f15797507fce645bf"
+        }, {
+            "minecraft": "1.8.8",
+            "filename": "MouseTweaks-2.7.1-mc1.8.8.jar",
+            "url": "https://edge.forgecdn.net/files/2385/53/MouseTweaks-2.7.1-mc1.8.8.jar",
+            "sha1": "85d8b4b955a56596a34cc5df7f28d605a64bad25"
+        }, {
+            "minecraft": "1.8.9",
+            "filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
+            "url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
+            "sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
+        }, {
+            "minecraft": "1.9",
+            "filename": "MouseTweaks-2.6.2-mc1.9.jar",
+            "url": "https://edge.forgecdn.net/files/2289/943/MouseTweaks-2.6.2-mc1.9.jar",
+            "sha1": "8ffd4f1633e61960774684647b4543eb63315f1c"
+        }, {
+            "minecraft": "1.9.4",
+            "filename": "MouseTweaks-2.6.3-mc1.9.4.jar",
+            "url": "https://edge.forgecdn.net/files/2304/74/MouseTweaks-2.6.3-mc1.9.4.jar",
+            "sha1": "0853d801aa6e838ae6c9b1e4640b8f585e06526c"
+        }, {
+            "minecraft": "1.10.2",
+            "filename": "MouseTweaks-2.8.1-mc1.10.2.jar",
+            "url": "https://edge.forgecdn.net/files/3305/503/MouseTweaks-2.8.1-mc1.10.2.jar",
+            "sha1": "1f5b49b14c27b519a91dd5ecdb29ee524cedbd53"
+        }, {
+            "minecraft": "1.11",
+            "filename": "MouseTweaks-2.7-mc1.11.jar",
+            "url": "https://edge.forgecdn.net/files/2352/926/MouseTweaks-2.7-mc1.11.jar",
+            "sha1": "9cf86aab1958990f7dcc15ebade120f6d2c03ad3"
+        }, {
+            "minecraft": "1.11.2",
+            "filename": "MouseTweaks-2.8-mc1.11.2.jar",
+            "url": "https://edge.forgecdn.net/files/2388/577/MouseTweaks-2.8-mc1.11.2.jar",
+            "sha1": "cf38aafc772f29dba6a3c1934b01bf079c338524"
+        }, {
+            "minecraft": "1.12",
+            "filename": "MouseTweaks-2.8-mc1.12.jar",
+            "url": "https://edge.forgecdn.net/files/2451/68/MouseTweaks-2.8-mc1.12.jar",
+            "sha1": "8349fa8b83ea0be59648739f1a1b0527068db6f5"
+        }, {
+            "minecraft": "1.12.1",
+            "filename": "MouseTweaks-2.8-mc1.12.1.jar",
+            "url": "https://edge.forgecdn.net/files/2462/627/MouseTweaks-2.8-mc1.12.1.jar",
+            "sha1": "1cebec240b295906a8283321f9cfd73636845075"
+        }, {
+            "minecraft": "1.12.2",
+            "filename": "MouseTweaks-2.10.1-mc1.12.2.jar",
+            "url": "https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar",
+            "sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
+        }, {
+            "minecraft": "1.14.4",
+            "filename": "MouseTweaks-2.13-mc1.14.4.jar",
+            "url": "https://edge.forgecdn.net/files/2849/218/MouseTweaks-2.13-mc1.14.4.jar",
+            "sha1": "27d7e4a91210956a948051feb2120ea430917c1c"
+        }, {
+            "minecraft": "1.15.2",
+            "filename": "MouseTweaks-2.13-mc1.15.1.jar",
+            "url": "https://edge.forgecdn.net/files/2849/221/MouseTweaks-2.13-mc1.15.1.jar",
+            "sha1": "fd0eae9285ddadbadade0d0704b3852e9cd41241"
+        }, {
+            "minecraft": "1.16.1",
+            "filename": "MouseTweaks-2.13-mc1.16.1.jar",
+            "url": "https://edge.forgecdn.net/files/2989/354/MouseTweaks-2.13-mc1.16.1.jar",
+            "sha1": "2fd4f89d04df965d64bf4e4dfa853f19ae0abc24"
+        }, {
+            "minecraft": "1.16.3",
+            "filename": "MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://edge.forgecdn.net/files/3202/662/MouseTweaks-2.14-mc1.16.2.jar",
+            "sha1": "5f2366c650c102c71e98c9445f86a266ba20e1e4"
+        }, {
+            "minecraft": "1.17.1",
+            "filename": "MouseTweaks-forge-mc1.17.1-2.15.jar",
+            "url": "https://edge.forgecdn.net/files/3515/478/MouseTweaks-forge-mc1.17.1-2.15.jar",
+            "sha1": "d7dcce119c43aff6d601f7cb05a0b7ca86620fe2"
+        }, {
+            "minecraft": "1.18",
+            "filename": "MouseTweaks-forge-mc1.18-2.16.jar",
+            "url": "https://edge.forgecdn.net/files/3546/382/MouseTweaks-forge-mc1.18-2.16.jar",
+            "sha1": "768acb775f48c4cda2ca09aea7283d68"
+        }, {
+            "minecraft": "1.18.1",
+            "filename": "MouseTweaks-forge-mc1.18-2.21.jar",
+            "url": "https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar",
+            "sha1": "dc64a2a0df9b205114768a89482fe57ffac54143"
+        }, {
+            "minecraft": "1.19",
+            "filename": "MouseTweaks-forge-mc1.19-2.22.jar",
+            "url": "https://edge.forgecdn.net/files/3828/447/MouseTweaks-forge-mc1.19-2.22.jar",
+            "sha1": "47ce3406cfca98c4086406be8ecc9a5b"
+        }, {
+            "minecraft": "1.19.2",
+            "filename": "MouseTweaks-forge-mc1.19-2.23.jar",
+            "url": "https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar",
+            "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4"
+        }]
     }, {
-        "minecraft": "1.9.4",
-        "filename": "jei_1.9.4-3.6.8.225.jar",
-        "url": "https://edge.forgecdn.net/files/2313/650/jei_1.9.4-3.6.8.225.jar",
-        "sha1": "debdeb442f73eb954db22101e00949692a2e0c15"
+        "name": " Ultra Mlnecraft",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/536/630/256/256/637858829715854600.png",
+        "description-ru": "Ультра Майнсруфт 4К",
+        "downloads": [{
+            "minecraft": "1.16.5",
+            "filename": "Minecraft Ultra-v1.zip",
+            "url": "https://edge.forgecdn.net/files/3758/106/Minecraft Ultra-v1.zip",
+            "sha1": "427829ac005cd7f4deebb4822d6975cc0fe66ebf"
+        }]
     }, {
-        "minecraft": "1.10",
-        "filename": "jei_1.10-3.7.1.219.jar",
-        "url": "https://edge.forgecdn.net/files/2310/912/jei_1.10-3.7.1.219.jar",
-        "sha1": "01384c4dcf0ebe57714bcea4493396ff969fc045"
+        "name": "\"Noodle Head\" Wither",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/480/809/256/256/637779624020419514.png",
+        "description-ru": "Хуета какая-то",
+        "downloads": [{
+            "minecraft": "1.18",
+            "filename": "NoodleHeadWither.zip",
+            "url": "https://edge.forgecdn.net/files/3608/861/NoodleHeadWither.zip",
+            "sha1": "dca724ecd8a733e5d5f7c77c382099e035dc3027"
+        }]
     }, {
-        "minecraft": "1.10.2",
-        "filename": "jei_1.10.2-3.14.8.422.jar",
-        "url": "https://edge.forgecdn.net/files/2561/516/jei_1.10.2-3.14.8.422.jar",
-        "sha1": "804f9b1cb4ed8635c3207d2d182cbc06a2e56041"
+        "name": "#SP Wallet",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/592/486/256/256/637964410451331638.png",
+        "description-ru": "Кошелёк твоего бати",
+        "downloads": []
     }, {
-        "minecraft": "1.11",
-        "filename": "jei_1.11-4.1.1.208.jar",
-        "url": "https://edge.forgecdn.net/files/2360/492/jei_1.11-4.1.1.208.jar",
-        "sha1": "d021f1f80de4f6b1cbe0caf1e134757a45803aa5"
-    }, {
-        "minecraft": "1.11.2",
-        "filename": "jei_1.11.2-4.5.1.296.jar",
-        "url": "https://edge.forgecdn.net/files/2461/378/jei_1.11.2-4.5.1.296.jar",
-        "sha1": "a2d7eaee690783e89e20e4b288ef976a417c2eeb"
-    }, {
-        "minecraft": "1.12",
-        "filename": "jei_1.12-4.7.5.86.jar",
-        "url": "https://edge.forgecdn.net/files/2463/414/jei_1.12-4.7.5.86.jar",
-        "sha1": "dde395a006b81fc9c4ac1836b74557e64bc18a33"
-    }, {
-        "minecraft": "1.12.1",
-        "filename": "jei_1.12.2-4.7.11.102.jar",
-        "url": "https://edge.forgecdn.net/files/2485/363/jei_1.12.2-4.7.11.102.jar",
-        "sha1": "2ff4b331ff1f0605d1ee3d75b64967bfc5d39b6a"
-    }, {
-        "minecraft": "1.12.2",
-        "filename": "jei_1.12.2-4.16.1.302.jar",
-        "url": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
-        "sha1": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8"
-    }, {
-        "minecraft": "1.13.2",
-        "filename": "jei-1.13.2-5.0.0.31.jar",
-        "url": "https://edge.forgecdn.net/files/3272/39/jei-1.13.2-5.0.0.31.jar",
-        "sha1": "aa15cdea079db8b91d75e3c68216df80a70545d8"
-    }, {
-        "minecraft": "1.14.2",
-        "filename": "jei-1.14.2-6.0.0.3.jar",
-        "url": "https://edge.forgecdn.net/files/2733/474/jei-1.14.2-6.0.0.3.jar",
-        "sha1": "96c8b2b1491ba4839f9996318c25169de371ade8"
-    }, {
-        "minecraft": "1.14.3",
-        "filename": "jei-1.14.3-6.0.0.8.jar",
-        "url": "https://edge.forgecdn.net/files/2738/328/jei-1.14.3-6.0.0.8.jar",
-        "sha1": "135375d59f565d7ac376a790873f16166cff2e64"
-    }, {
-        "minecraft": "1.14.4",
-        "filename": "jei-1.14.4-6.0.1.30.jar",
-        "url": "https://edge.forgecdn.net/files/3039/707/jei-1.14.4-6.0.1.30.jar",
-        "sha1": "619349656c15675c488689bb1c0f8f385b1b0bf7"
-    }, {
-        "minecraft": "1.15.1",
-        "filename": "jei-1.15.1-6.0.0.1.jar",
-        "url": "https://edge.forgecdn.net/files/2855/456/jei-1.15.1-6.0.0.1.jar",
-        "sha1": "96b10d1e65392e5171a43dfdd8d77c5e46bdca1b"
-    }, {
-        "minecraft": "1.15.2",
-        "filename": "jei-1.15.2-6.0.3.16.jar",
-        "url": "https://edge.forgecdn.net/files/3272/32/jei-1.15.2-6.0.3.16.jar",
-        "sha1": "643e41d4604f3e37a2fde9a53152c9b512086076"
-    }, {
-        "minecraft": "1.16.1",
-        "filename": "jei-1.16.1-7.0.1.10.jar",
-        "url": "https://edge.forgecdn.net/files/3028/697/jei-1.16.1-7.0.1.10.jar",
-        "sha1": "f590d364eed25e9258e4fe666c9e5434d605f566"
-    }, {
-        "minecraft": "1.16.2",
-        "filename": "jei-1.16.2-7.3.2.28.jar",
-        "url": "https://edge.forgecdn.net/files/3060/935/jei-1.16.2-7.3.2.28.jar",
-        "sha1": "0b16013abd77329527c5bf493158053a"
-    }, {
-        "minecraft": "1.16.3",
-        "filename": "jei-1.16.3-7.6.0.51.jar",
-        "url": "https://edge.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
-        "sha1": "83afd1cd961b75e907275f3e0f9ff136ee766e8e"
-    }, {
-        "minecraft": "1.16.4",
-        "filename": "jei-1.16.4-7.6.1.74.jar",
-        "url": "https://edge.forgecdn.net/files/3245/3/jei-1.16.4-7.6.1.74.jar",
-        "sha1": "d1e1e56fafd7b5471bd70912ab4cb478"
-    }, {
-        "minecraft": "1.16.5",
-        "filename": "jei-1.16.5-7.7.1.152.jar",
-        "url": "https://edge.forgecdn.net/files/3681/294/jei-1.16.5-7.7.1.152.jar",
-        "sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b"
-    }, {
-        "minecraft": "1.17.1",
-        "filename": "jei-1.17.1-8.3.1.62.jar",
-        "url": "https://edge.forgecdn.net/files/3596/34/jei-1.17.1-8.3.1.62.jar",
-        "sha1": "fd5ee0ce31afddef7e518fb602ef5355ae483c9e"
-    }, {
-        "minecraft": "1.18",
-        "filename": "jei-1.18-9.0.0.40.jar",
-        "url": "https://edge.forgecdn.net/files/3550/20/jei-1.18-9.0.0.40.jar",
-        "sha1": "04c089f4b52dfbecc2f07370c828501b"
-    }, {
-        "minecraft": "1.18.1",
-        "filename": "jei-1.18.1-9.4.1.172.jar",
-        "url": "https://edge.forgecdn.net/files/3723/162/jei-1.18.1-9.4.1.172.jar",
-        "sha1": "00a4c111086c43c799f2f13d2e8c86216dad8232"
-    }, {
-        "minecraft": "1.18.2",
-        "filename": "jei-1.18.2-9.7.1.255.jar",
-        "url": "https://edge.forgecdn.net/files/3940/240/jei-1.18.2-9.7.1.255.jar",
-        "sha1": "af72805f44b69f11b2c1c849478dd8a312030c18"
-    }, {
-        "minecraft": "1.19",
-        "filename": "jei-1.19-forge-11.1.1.239.jar",
-        "url": "https://edge.forgecdn.net/files/3903/68/jei-1.19-forge-11.1.1.239.jar",
-        "sha1": "f473b99f98d19cfd9915a843f0435869"
-    }, {
-        "minecraft": "1.19.1",
-        "filename": "jei-1.19.1-forge-11.2.0.244.jar",
-        "url": "https://edge.forgecdn.net/files/3922/508/jei-1.19.1-forge-11.2.0.244.jar",
-        "sha1": "74e55e0bb48fbf3301f6163e200f3883"
-    }, {
-        "minecraft": "1.19.2",
-        "filename": "jei-1.19.2-forge-11.2.0.256.jar",
-        "url": "https://edge.forgecdn.net/files/3944/627/jei-1.19.2-forge-11.2.0.256.jar",
-        "sha1": "1b9e3d574af81a7a089550939d71f849a7d8dd16"
+        "name": "#Vincent part 2",
+        "image-url": "https://media.forgecdn.net/avatars/thumbnails/464/640/256/256/637744370406115959.jpeg",
+        "description-ru": "кто прочитал тот лох",
+        "downloads": [{
+            "minecraft": "1.12.2",
+            "filename": "Patriot-1.2.zip",
+            "url": "https://edge.forgecdn.net/files/3553/208/Patriot-1.2.zip",
+            "sha1": "7879527715cef3bd0dbcc7eb92c7e839"
+        }]
     }]
-},
-{
-    "name": "Mouse Tweaks",
-    "image-url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
-    "description-ru": "Mouse Tweaks заменяет стандартную механику мыши в Майнкрафт, делая её более удобной и функциональной.",
-    "downloads": [{
-        "minecraft": "1.0",
-        "filename": "MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
-        "url": "https://edge.forgecdn.net/files/3924/803/MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
-        "sha1": "3642cfb9af5c6e04d3e7112fc5fbcc9c2566445c"
-    }, {
-        "minecraft": "1.2.5",
-        "filename": "MouseTweaks-2.7.2-mc1.2.5.jar",
-        "url": "https://edge.forgecdn.net/files/2385/397/MouseTweaks-2.7.2-mc1.2.5.jar",
-        "sha1": "7aa5cee1dd5ef2d9e6d62ece973ba0a2fc6bc9b2"
-    }, {
-        "minecraft": "1.4.2",
-        "filename": "_1.4.2__Mouse_Tweaks_BETA_4.zip",
-        "url": "https://edge.forgecdn.net/files/713/720/_1.4.2__Mouse_Tweaks_BETA_4.zip",
-        "sha1": "f44cfbe59568e8f040b58ac409cd84bc38ae2cc6"
-    }, {
-        "minecraft": "1.4.6",
-        "filename": "_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
-        "url": "https://edge.forgecdn.net/files/713/722/_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
-        "sha1": "74cfe708e6543359358c403ce87d113e90c7c6f4"
-    }, {
-        "minecraft": "1.4.7",
-        "filename": "_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
-        "url": "https://edge.forgecdn.net/files/713/723/_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
-        "sha1": "8c1cc20c3e8d404208f2cc2efc4c372f4cd9d26c"
-    }, {
-        "minecraft": "1.5",
-        "filename": "_1.5__Mouse_Tweaks_1.0c.zip",
-        "url": "https://edge.forgecdn.net/files/713/727/_1.5__Mouse_Tweaks_1.0c.zip",
-        "sha1": "ca608af824f223c782b74a08b864119283dd2ba6"
-    }, {
-        "minecraft": "1.5.1",
-        "filename": "_1.5.1__Mouse_Tweaks_1.1c.zip",
-        "url": "https://edge.forgecdn.net/files/713/730/_1.5.1__Mouse_Tweaks_1.1c.zip",
-        "sha1": "3e4552c0fe8dfceae8c27b0a51da8192dbd8b339"
-    }, {
-        "minecraft": "1.5.2",
-        "filename": "_1.5.2__Mouse_Tweaks_2.0.3.zip",
-        "url": "https://edge.forgecdn.net/files/729/153/_1.5.2__Mouse_Tweaks_2.0.3.zip",
-        "sha1": "db7e256b102260ffea8ef271084320adf4702427"
-    }, {
-        "minecraft": "1.6.1",
-        "filename": "_1.6.1__Mouse_Tweaks_2.1.zip",
-        "url": "https://edge.forgecdn.net/files/716/261/_1.6.1__Mouse_Tweaks_2.1.zip",
-        "sha1": "ba6756fbd249afdd3f0c94ebe36e441143b2aead"
-    }, {
-        "minecraft": "1.6.2",
-        "filename": "_1.6.2__Mouse_Tweaks_2.3.3.zip",
-        "url": "https://edge.forgecdn.net/files/729/154/_1.6.2__Mouse_Tweaks_2.3.3.zip",
-        "sha1": "38b847ee66b047e5049b525b2e0c55886fbdb211"
-    }, {
-        "minecraft": "1.6.4",
-        "filename": "_1.6.4__Mouse_Tweaks_2.3.4.zip",
-        "url": "https://edge.forgecdn.net/files/741/576/_1.6.4__Mouse_Tweaks_2.3.4.zip",
-        "sha1": "27a069afee5b24691981115aba8f4bb0ac6dba6b"
-    }, {
-        "minecraft": "1.7.10",
-        "filename": "MouseTweaks-2.4.4-mc1.7.10.jar",
-        "url": "https://edge.forgecdn.net/files/2209/265/MouseTweaks-2.4.4-mc1.7.10.jar",
-        "sha1": "1fef53ebcd48f003fa0799de51e86ad113e3af7c"
-    }, {
-        "minecraft": "1.7.2",
-        "filename": "MouseTweaks-2.4.3-mc1.7.2.jar",
-        "url": "https://edge.forgecdn.net/files/2203/706/MouseTweaks-2.4.3-mc1.7.2.jar",
-        "sha1": "9f81f5d6da0f06037d6f47dc227f35e4dd7122f1"
-    }, {
-        "minecraft": "1.8",
-        "filename": "MouseTweaks-2.5.0-mc1.8.jar",
-        "url": "https://edge.forgecdn.net/files/2227/489/MouseTweaks-2.5.0-mc1.8.jar",
-        "sha1": "f0441e6887583e96ec6fe45f15797507fce645bf"
-    }, {
-        "minecraft": "1.8.8",
-        "filename": "MouseTweaks-2.7.1-mc1.8.8.jar",
-        "url": "https://edge.forgecdn.net/files/2385/53/MouseTweaks-2.7.1-mc1.8.8.jar",
-        "sha1": "85d8b4b955a56596a34cc5df7f28d605a64bad25"
-    }, {
-        "minecraft": "1.8.9",
-        "filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-        "url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-        "sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-    }, {
-        "minecraft": "1.9",
-        "filename": "MouseTweaks-2.6.2-mc1.9.jar",
-        "url": "https://edge.forgecdn.net/files/2289/943/MouseTweaks-2.6.2-mc1.9.jar",
-        "sha1": "8ffd4f1633e61960774684647b4543eb63315f1c"
-    }, {
-        "minecraft": "1.9.4",
-        "filename": "MouseTweaks-2.6.3-mc1.9.4.jar",
-        "url": "https://edge.forgecdn.net/files/2304/74/MouseTweaks-2.6.3-mc1.9.4.jar",
-        "sha1": "0853d801aa6e838ae6c9b1e4640b8f585e06526c"
-    }, {
-        "minecraft": "1.10.2",
-        "filename": "MouseTweaks-2.8.1-mc1.10.2.jar",
-        "url": "https://edge.forgecdn.net/files/3305/503/MouseTweaks-2.8.1-mc1.10.2.jar",
-        "sha1": "1f5b49b14c27b519a91dd5ecdb29ee524cedbd53"
-    }, {
-        "minecraft": "1.11",
-        "filename": "MouseTweaks-2.7-mc1.11.jar",
-        "url": "https://edge.forgecdn.net/files/2352/926/MouseTweaks-2.7-mc1.11.jar",
-        "sha1": "9cf86aab1958990f7dcc15ebade120f6d2c03ad3"
-    }, {
-        "minecraft": "1.11.2",
-        "filename": "MouseTweaks-2.8-mc1.11.2.jar",
-        "url": "https://edge.forgecdn.net/files/2388/577/MouseTweaks-2.8-mc1.11.2.jar",
-        "sha1": "cf38aafc772f29dba6a3c1934b01bf079c338524"
-    }, {
-        "minecraft": "1.12",
-        "filename": "MouseTweaks-2.8-mc1.12.jar",
-        "url": "https://edge.forgecdn.net/files/2451/68/MouseTweaks-2.8-mc1.12.jar",
-        "sha1": "8349fa8b83ea0be59648739f1a1b0527068db6f5"
-    }, {
-        "minecraft": "1.12.1",
-        "filename": "MouseTweaks-2.8-mc1.12.1.jar",
-        "url": "https://edge.forgecdn.net/files/2462/627/MouseTweaks-2.8-mc1.12.1.jar",
-        "sha1": "1cebec240b295906a8283321f9cfd73636845075"
-    }, {
-        "minecraft": "1.12.2",
-        "filename": "MouseTweaks-2.10.1-mc1.12.2.jar",
-        "url": "https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar",
-        "sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
-    }, {
-        "minecraft": "1.14.4",
-        "filename": "MouseTweaks-2.13-mc1.14.4.jar",
-        "url": "https://edge.forgecdn.net/files/2849/218/MouseTweaks-2.13-mc1.14.4.jar",
-        "sha1": "27d7e4a91210956a948051feb2120ea430917c1c"
-    }, {
-        "minecraft": "1.15.2",
-        "filename": "MouseTweaks-2.13-mc1.15.1.jar",
-        "url": "https://edge.forgecdn.net/files/2849/221/MouseTweaks-2.13-mc1.15.1.jar",
-        "sha1": "fd0eae9285ddadbadade0d0704b3852e9cd41241"
-    }, {
-        "minecraft": "1.16.1",
-        "filename": "MouseTweaks-2.13-mc1.16.1.jar",
-        "url": "https://edge.forgecdn.net/files/2989/354/MouseTweaks-2.13-mc1.16.1.jar",
-        "sha1": "2fd4f89d04df965d64bf4e4dfa853f19ae0abc24"
-    }, {
-        "minecraft": "1.16.3",
-        "filename": "MouseTweaks-2.14-mc1.16.2.jar",
-        "url": "https://edge.forgecdn.net/files/3202/662/MouseTweaks-2.14-mc1.16.2.jar",
-        "sha1": "5f2366c650c102c71e98c9445f86a266ba20e1e4"
-    }, {
-        "minecraft": "1.17.1",
-        "filename": "MouseTweaks-forge-mc1.17.1-2.15.jar",
-        "url": "https://edge.forgecdn.net/files/3515/478/MouseTweaks-forge-mc1.17.1-2.15.jar",
-        "sha1": "d7dcce119c43aff6d601f7cb05a0b7ca86620fe2"
-    }, {
-        "minecraft": "1.18",
-        "filename": "MouseTweaks-forge-mc1.18-2.16.jar",
-        "url": "https://edge.forgecdn.net/files/3546/382/MouseTweaks-forge-mc1.18-2.16.jar",
-        "sha1": "768acb775f48c4cda2ca09aea7283d68"
-    }, {
-        "minecraft": "1.18.1",
-        "filename": "MouseTweaks-forge-mc1.18-2.21.jar",
-        "url": "https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar",
-        "sha1": "dc64a2a0df9b205114768a89482fe57ffac54143"
-    }, {
-        "minecraft": "1.19",
-        "filename": "MouseTweaks-forge-mc1.19-2.22.jar",
-        "url": "https://edge.forgecdn.net/files/3828/447/MouseTweaks-forge-mc1.19-2.22.jar",
-        "sha1": "47ce3406cfca98c4086406be8ecc9a5b"
-    }, {
-        "minecraft": "1.19.2",
-        "filename": "MouseTweaks-forge-mc1.19-2.23.jar",
-        "url": "https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar",
-        "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4"
-    }]
-}
-  ]
 }
