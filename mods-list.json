@@ -689,17 +689,7 @@
             "url": "https://edge.forgecdn.net/files/3758/106/Minecraft Ultra-v1.zip",
             "sha1": "427829ac005cd7f4deebb4822d6975cc0fe66ebf"
         }]
-    }, {
-        "name": "\"Noodle Head\" Wither",
-        "image-url": "https://media.forgecdn.net/avatars/thumbnails/480/809/256/256/637779624020419514.png",
-        "description-ru": "Хуета какая-то",
-        "downloads": [{
-            "minecraft": "1.18",
-            "filename": "NoodleHeadWither.zip",
-            "url": "https://edge.forgecdn.net/files/3608/861/NoodleHeadWither.zip",
-            "sha1": "dca724ecd8a733e5d5f7c77c382099e035dc3027"
-        }]
-    }, {
+    } {
         "name": "#SP Wallet",
         "image-url": "https://media.forgecdn.net/avatars/thumbnails/592/486/256/256/637964410451331638.png",
         "description-ru": "Кошелёк твоего бати",
