@@ -231,8 +231,8 @@
       "minecraft": "1.8.9",
       "name": "Forge",
       "version": "11.15.1.2318",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar",
-      "hash": "e40796ddf8a686d9cc8ca0cbe6575d68aa134942"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+      "hash": "beda619c465af293e63952dd573c137c17c0a4cd"
     },
     {
       "id": "Forge 1.8.8 - 11.15.0.1655",
