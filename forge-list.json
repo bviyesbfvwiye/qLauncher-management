@@ -159,120 +159,280 @@
       "minecraft": "1.12.2",
       "name": "Forge",
       "version": "14.23.5.2859",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar",
-      "hash": "bc3f3f2f7936776cea126dca91dc391324aec11d"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar",
+      "hash": "bfc07a510e23e5181b6a32fdcea9c9d9a1445a46"
     },
     {
       "id": "Forge 1.12.1 - 14.22.1.2478",
       "minecraft": "1.12.1",
       "name": "Forge",
       "version": "14.22.1.2478",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.1-14.22.1.2478/forge-1.12.1-14.22.1.2478-installer.jar",
-      "hash": "d3c612f24d96477c423964009e7d099ff1133c7e"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.1-14.22.1.2478/forge-1.12.1-14.22.1.2478-universal.jar",
+      "hash": "4d35c6fe3d50398a8cb84856656ffa7243ba3edf"
     },
     {
       "id": "Forge 1.12 - 14.21.1.2387",
       "minecraft": "1.12",
       "name": "Forge",
       "version": "14.21.1.2387",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12-14.21.1.2387/forge-1.12-14.21.1.2387-installer.jar",
-      "hash": "bfaa9cba65078604bf344d6d3db61b62c000d368"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12-14.21.1.2387/forge-1.12-14.21.1.2387-universal.jar",
+      "hash": "9f33fece8221e20d9165e9e1d378494511ce9d06"
     },
     {
       "id": "Forge 1.11.2 - 13.20.1.2588",
       "minecraft": "1.11.2",
       "name": "Forge",
       "version": "13.20.1.2588",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.11.2-13.20.1.2588/forge-1.11.2-13.20.1.2588-installer.jar",
-      "hash": "3d0995744196ad82bc0fc579af7036e772feada4"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.11.2-13.20.1.2588/forge-1.11.2-13.20.1.2588-universal.jar",
+      "hash": "acd5d24c3f58590b6a9da6e0e2aa14bd6dcc5166"
     },
     {
       "id": "Forge 1.11 - 13.19.1.2189",
       "minecraft": "1.11",
       "name": "Forge",
       "version": "13.19.1.2189",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.11-13.19.1.2189/forge-1.11-13.19.1.2189-installer.jar",
-      "hash": "3d0995744196ad82bc0fc579af7036e772feada4"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.11-13.19.1.2189/forge-1.11-13.19.1.2189-universal.jar",
+      "hash": "c390949fbb97f48e706ca8bf1c4bbe2e35a72898"
     },
     {
       "id": "Forge 1.10.2 - 12.18.3.2511",
       "minecraft": "1.10.2",
       "name": "Forge",
       "version": "12.18.3.2511",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.10.2-12.18.3.2511/forge-1.10.2-12.18.3.2511-installer.jar",
-      "hash": "e510b21e6b8e219654ea0720667ac29d72a77107"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.10.2-12.18.3.2511/forge-1.10.2-12.18.3.2511-universal.jar",
+      "hash": "7560ca0432084f1b34d8b355371ba5889000544a"
     },
     {
       "id": "Forge 1.10 - 12.18.0.2000",
       "minecraft": "1.10",
       "name": "Forge",
       "version": "12.18.0.2000",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.10-12.18.0.2000-1.10.0/forge-1.10-12.18.0.2000-1.10.0-installer.jar",
-      "hash": "1003f31aa47ad323361a1741e12f8cef58f15849"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.10-12.18.0.2000-1.10.0/forge-1.10-12.18.0.2000-1.10.0-universal.jar",
+      "hash": "55825382251de8f38308a30f13c1c8d65dd069e6"
     },
     {
       "id": "Forge 1.9.4 - 12.17.0.2317",
       "minecraft": "1.9.4",
       "name": "Forge",
       "version": "12.17.0.2317",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.9.4-12.17.0.2317-1.9.4/forge-1.9.4-12.17.0.2317-1.9.4-installer.jar",
-      "hash": ""
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.9.4-12.17.0.2317-1.9.4/forge-1.9.4-12.17.0.2317-1.9.4-universal.jar",
+      "hash": "c6ad3066d8a6ec4011a32c17787e1440de618857"
     },
     {
       "id": "Forge 1.9 - 12.16.1.1887",
       "minecraft": "1.9",
       "name": "Forge",
       "version": "12.16.1.1887",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-installer.jar",
-      "hash": "e56f73e9a4d7b794a5ca633e4f5f1c8bc487e9b0"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-universal.jar",
+      "hash": "2fb97de2462a3fbff35ad8de3cb82e075357b65a"
     },
     {
       "id": "Forge 1.8.9 - 11.15.1.2318",
       "minecraft": "1.8.9",
       "name": "Forge",
       "version": "11.15.1.2318",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar",
-      "hash": "e40796ddf8a686d9cc8ca0cbe6575d68aa134942"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+      "hash": "beda619c465af293e63952dd573c137c17c0a4cd"
     },
     {
       "id": "Forge 1.8.8 - 11.15.0.1655",
       "minecraft": "1.8.8",
       "name": "Forge",
       "version": "11.15.0.1655",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655-installer.jar",
-      "hash": "c2e2f29139ed5cb700b80d88ab1b50cb7134fd21"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655-universal.jar",
+      "hash": "b08fd9c7e0a3a3e12099011208126070de219dab"
     },
     {
       "id": "Forge 1.8 - 11.14.4.1563",
       "minecraft": "1.8",
       "name": "Forge",
       "version": "11.14.4.1563",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8-11.14.4.1563/forge-1.8-11.14.4.1563-installer.jar",
-      "hash": "a5134f5cfacc7391e0b599d6b966be51ec541e12"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8-11.14.4.1563/forge-1.8-11.14.4.1563-universal.jar",
+      "hash": "ea2ecd939c063e753552364a2171efb7704e94a7"
     },
     {
       "id": "Forge 1.7.10_pre4 - 10.12.2.1149",
       "minecraft": "1.7.10_pre4",
       "name": "Forge",
       "version": "10.12.2.1149",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-installer.jar",
-      "hash": "2d4a176770b8f052cb7b66213fffe33f107fccc9"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-universal.jar",
+      "hash": "1a4750617b3296ed636ddf0890a924b0de3a731b"
     },
     {
       "id": "Forge 1.7.10 - 10.13.4.1614",
       "minecraft": "1.7.10",
       "name": "Forge",
       "version": "10.13.4.1614",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar",
-      "hash": "9345b92ac4e27bc4f2e993de094468035702a9c6"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar",
+      "hash": "25fd97f72beca728112256938e03e8105b1b78cc"
     },
     {
       "id": "Forge 1.7.2 - 10.12.2.1161",
       "minecraft": "1.7.2",
       "name": "Forge",
       "version": "10.12.2.1161",
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.2-10.12.2.1161-mc172/forge-1.7.2-10.12.2.1161-mc172-installer.jar",
-      "hash": "69ff4646ac98f96035688a476fb63078a73181f0"
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.2-10.12.2.1161-mc172/forge-1.7.2-10.12.2.1161-mc172-universal.jar",
+      "hash": "dc605be1c334827177041ec20b38ef2b853d918f"
+    },
+    {
+      "id": "Forge 1.6.4 - 9.11.1.1345",
+      "minecraft": "1.6.4",
+      "name": "Forge",
+      "version": "9.11.1.1345",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.1345/forge-1.6.4-9.11.1.1345-universal.jar",
+      "hash": "eb9d954c8d057fa1768acaa40a35b864ad05c58b"
+    },
+    {
+      "id": "Forge 1.6.3 - 9.11.0.878",
+      "minecraft": "1.6.3",
+      "name": "Forge",
+      "version": "9.11.0.878",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-universal.jar",
+      "hash": "57ce5f0870cfa9c601ca975862694e3521707930"
+    },
+    {
+      "id": "Forge 1.6.2 - 9.10.1.871",
+      "minecraft": "1.6.2",
+      "name": "Forge",
+      "version": "9.10.1.871",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.2-9.10.1.871/forge-1.6.2-9.10.1.871-universal.jar",
+      "hash": "44c26e15c34c30be9e54a7bc588d5d892a024f6f"
+    },
+    {
+      "id": "Forge 1.6.1 - 8.9.0.775",
+      "minecraft": "1.6.1",
+      "name": "Forge",
+      "version": "8.9.0.775",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.1-8.9.0.775/forge-1.6.1-8.9.0.775-universal.jar",
+      "hash": "8f01b4612dc486524a2d4192a229a885b8bf76f7"
+    },
+    {
+      "id": "Forge 1.5.2 - 7.8.1.738",
+      "minecraft": "1.5.2",
+      "name": "Forge",
+      "version": "7.8.1.738",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.5.2-7.8.1.738/forge-1.5.2-7.8.1.738-universal.zip",
+      "hash": "76223709288287a6a8d22ab16b43a6ab2a284a0d"
+    },
+    {
+      "id": "Forge 1.5.1 - 7.7.2.682",
+      "minecraft": "1.5.1",
+      "name": "Forge",
+      "version": "7.7.2.682",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.5.1-7.7.2.682/forge-1.5.1-7.7.2.682-universal.zip",
+      "hash": "2832ae601b5aac519f82ef4f784d6029b4e6b806"
+    },
+    {
+      "id": "Forge 1.5 - 7.7.0.598",
+      "minecraft": "1.5",
+      "name": "Forge",
+      "version": "7.7.0.598",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.5-7.7.0.598/forge-1.5-7.7.0.598-universal.zip",
+      "hash": "2832ae601b5aac519f82ef4f784d6029b4e6b806"
+    },
+    {
+      "id": "Forge 1.4.7 - 6.6.2.534",
+      "minecraft": "1.4.7",
+      "name": "Forge",
+      "version": "6.6.2.534",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.7-6.6.2.534/forge-1.4.7-6.6.2.534-universal.zip",
+      "hash": "bd0f40a78c18140265ff042a96d73f01c4f60906"
+    },
+    {
+      "id": "Forge 1.4.6 - 6.5.0.489",
+      "minecraft": "1.4.6",
+      "name": "Forge",
+      "version": "6.5.0.489",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.6-6.5.0.489/forge-1.4.6-6.5.0.489-universal.zip",
+      "hash": "ad4b1579edf9053d7c213fadcb7d10538c88a1ac"
+    },
+    {
+      "id": "Forge 1.4.5 - 6.4.2.448",
+      "minecraft": "1.4.5",
+      "name": "Forge",
+      "version": "6.4.2.448",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.5-6.4.2.448/forge-1.4.5-6.4.2.448-universal.zip",
+      "hash": "13a9f80d41adf293179a39e5b6a484871d14ac44"
+    },
+    {
+      "id": "Forge 1.4.4 - 6.3.0.378",
+      "minecraft": "1.4.4",
+      "name": "Forge",
+      "version": "6.3.0.378",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.4-6.3.0.378/forge-1.4.4-6.3.0.378-universal.zip",
+      "hash": "dce5007bd59c08b094a83f1f35b64e25f1996f78"
+    },
+    {
+      "id": "Forge 1.4.3 - 6.2.1.358",
+      "minecraft": "1.4.3",
+      "name": "Forge",
+      "version": "6.2.1.358",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-universal.zip",
+      "hash": "04031bf441d7a634a85cc42013944a9210f38417"
+    },
+    {
+      "id": "Forge 1.4.2 - 6.0.1.355",
+      "minecraft": "1.4.2",
+      "name": "Forge",
+      "version": "6.0.1.355",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.2-6.0.1.355/forge-1.4.2-6.0.1.355-universal.zip",
+      "hash": "f7885f3ae3436d452a8bef4d9668f95298f7da7b"
+    },
+    {
+      "id": "Forge 1.4.1 - 6.0.0.329",
+      "minecraft": "1.4.1",
+      "name": "Forge",
+      "version": "6.0.0.329",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.1-6.0.0.329/forge-1.4.1-6.0.0.329-universal.zip",
+      "hash": "fdf61e473c34f7273962370da9a40dfac2554d28"
+    },
+    {
+      "id": "Forge 1.4 - 5.0.0.326",
+      "minecraft": "1.4",
+      "name": "Forge",
+      "version": "5.0.0.326",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.0-5.0.0.326/forge-1.4.0-5.0.0.326-universal.zip",
+      "hash": "951d5d3be6a187f7d8083ab272490b611b83178d"
+    },
+    {
+      "id": "Forge 1.3.2 - 4.3.5.318",
+      "minecraft": "1.3.2",
+      "name": "Forge",
+      "version": "4.3.5.318",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.3.2-4.3.5.318/forge-1.3.2-4.3.5.318-universal.zip",
+      "hash": "a9aca7b4697197542b6d5af11a4f54aa4b052cb7"
+    },
+    {
+      "id": "Forge 1.2.5 - 3.4.9.171",
+      "minecraft": "1.2.5",
+      "name": "Forge",
+      "version": "3.4.9.171",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.2.5-3.4.9.171/forge-1.2.5-3.4.9.171-server.zip",
+      "hash": "14b1ded9a6a332a1a2795875478ef2baaa3be478"
+    },
+    {
+      "id": "Forge 1.2.4 - 2.0.0.68",
+      "minecraft": "1.2.4",
+      "name": "Forge",
+      "version": "2.0.0.68",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.2.4-2.0.0.68/forge-1.2.4-2.0.0.68-server.zip",
+      "hash": "2893b85d9f97997bb745a4c5c5200314eb7b663b"
+    },
+    {
+      "id": "Forge 1.2.3 - 1.4.1.64",
+      "minecraft": "1.2.3",
+      "name": "Forge",
+      "version": "1.4.1.64",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.2.3-1.4.1.64/forge-1.2.3-1.4.1.64-server.zip",
+      "hash": "337ab6c31b680413bca5ad041cf806cc2aa21572"
+    },
+    {
+      "id": "Forge 1.1 - 1.3.4.29",
+      "minecraft": "1.1",
+      "name": "Forge",
+      "version": "1.3.4.29",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.1-1.3.4.29/forge-1.1-1.3.4.29-server.zip",
+      "hash": "dc08da6475186c2fb3976d2002c47ce462571099"
     }
   ]
 }
