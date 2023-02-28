@@ -1,8 +1,26 @@
 {
 	"modpacks": [{
-		"name": "",
-		"image-url": "",
-		"description-ru": "",
-		"mods": []
+		"name": "HURROLED's best",
+		"image-url": "https://i.ytimg.com/vi/Kon8P-QbuS8/maxresdefault.jpg",
+		"description-ru": "Лучшая сборка HURROLED'а",
+		"directory-name": "hurroleds-best",
+		"minecraft-version": "1.8.9",
+		"mods": [{
+			"filename": "jei_1.8.9-2.28.18.187.jar",
+			"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
+			"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
+		}, {
+			"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
+			"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
+			"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
+		}, {
+			"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
+			"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
+			"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
+		}, {
+			"filename": "OptiFine_1.8.9_HD_U_M5.jar",
+			"url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=debe0c2b75f02eff184728d0daeff85a",
+			"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
+		}]
 	}]
 }
