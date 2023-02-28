@@ -1,8 +1,28 @@
 {
   "servers": [
     {
-      "description": "",
-      "ip": ""
+      "description": "MineBlaze - лучший сервер!",
+      "ip": "mineblaze.net"
+    },
+    {
+      "description": "CheatMine - сервер для читеров!",
+      "ip": "cheatmine.ru"
+    },
+    {
+      "description": "MasedWorld - сервер для богачей!",
+      "ip": "mc.masedworld.net"
+    },
+    {
+      "description": "LastCraft - говно сервер!",
+      "ip": "play.last-craft.net"
+    },
+    {
+      "description": "Админка по команде /free заходи!",
+      "ip": "applecraft.online"
+    },
+    {
+      "description": "Админы МСТ Нетворк сосут",
+      "ip": "mstnw.net"
     }
   ]
 }
