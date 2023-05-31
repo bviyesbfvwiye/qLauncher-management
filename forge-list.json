@@ -2,6 +2,22 @@
   "forges":
   [
     {
+      "id": "Forge 1.19.4 - 45.0.58",
+      "minecraft": "1.19.4",
+      "name": "Forge",
+      "version": "45.0.58",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.0.58/forge-1.19.4-45.0.58-installer.jar",
+      "hash": "131dc61938dec100bce97dc0cced401e53fb6d94"
+    },
+    {
+      "id": "Forge 1.19.3 - 44.1.0",
+      "minecraft": "1.19.3",
+      "name": "Forge",
+      "version": "44.1.0",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-installer.jar",
+      "hash": "959356f956a01aee94a4112ae820bd62c7df4286"
+    },
+    {
       "id": "Forge 1.19.2 - 43.1.1",
       "minecraft": "1.19.2",
       "name": "Forge",
