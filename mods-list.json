@@ -1,816 +1,1621 @@
 {
-	"mods": [{
-			"name": "OptiFine",
-			"image-url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/4a1e7762cbf6b7199936c9059573f62958d21b5b/images/optifine-min.jpg",
-			"description-ru": "OptiFine — мод, который ускорит твой Майнкрафт в разы! Этот мод оптимизирует Майнкрафт, делая игру плавной и комфортной даже на самых слабых компьютерах.",
-			"downloads": [{
-				"id": "OptiFine 1.19.4 HD U H9",
-				"minecraft": "1.19.4",
-				"filename": "OptiFine_1.19.4_HD_U_H9.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=35abf28392ef78efc773ab8e02dc3146",
-				"sha1": "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
-			}, {
-				"id": "OptiFine 1.19.2 HD U H9",
-				"minecraft": "1.19.2",
-				"filename": "OptiFine_1.19.2_HD_U_H9.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=35abf28392ef78efc773ab8e02dc3146",
-				"sha1": "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
-			}, {
-				"id": "OptiFine 1.19.1 HD U H9",
-				"minecraft": "1.19.1",
-				"filename": "OptiFine_1.19.1_HD_U_H9.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.19.1_HD_U_H9.jar&x=52f8fa15969331823f84bc6378bc89ad",
-				"sha1": "b42dcce86c88ad4bcfa52a9d297afa800477aa78"
-			}, {
-				"id": "OptiFine 1.19 HD U H9",
-				"minecraft": "1.19",
-				"filename": "OptiFine_1.19_HD_U_H9.jar",
-				"url": "https://github.com/HURROLED/qLauncher-management/blob/4a1e7762cbf6b7199936c9059573f62958d21b5b/mods/OptiFine_1.19_HD_U_H9.jar?raw=true",
-				"sha1": "c668eaf9b6ce4e64f26a29fb27e830229ab4bef3"
-			}, {
-				"id": "OptiFine 1.18.2 HD U H7",
-				"minecraft": "1.18.2",
-				"filename": "OptiFine_1.18.2_HD_U_H7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.18.2_HD_U_H7.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-				"sha1": "8d83d4d5e325887e000a462029d2bf7a6e77eebc"
-			}, {
-				"id": "OptiFine 1.18.1 HD U H6",
-				"minecraft": "1.18.1",
-				"filename": "OptiFine_1.18.1_HD_U_H6.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.18.1_HD_U_H6.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-				"sha1": "c86534ee821a78efc741c9cb407eec76625e1bab"
-			}, {
-				"id": "OptiFine 1.18 HD U H3",
-				"minecraft": "1.18",
-				"filename": "OptiFine_1.18_HD_U_H3.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.18_HD_U_H3.jar&x=51077ae1405b8a4c41275f7848b5a64c",
-				"sha1": "52629bc5319ec203edd42de1776cb8d67a0e6b1b"
-			}, {
-				"id": "OptiFine 1.17.1 HD U H1",
-				"minecraft": "1.17.1",
-				"filename": "OptiFine_1.17.1_HD_U_H1.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.17.1_HD_U_H1.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "cc64084e73d6423baf7ccbdd9f3760dd56f2fce5"
-			}, {
-				"id": "OptiFine 1.17 HD U G9 pre26",
-				"minecraft": "1.17",
-				"filename": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
-				"url": "https://optifine.net/downloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "6a8e34605cc828091027d9f011b804d916808af4"
-			}, {
-				"id": "OptiFine 1.16.5 HD U G8",
-				"minecraft": "1.16.5",
-				"filename": "OptiFine_1.16.5_HD_U_G8.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "137363842c5bfdebb72356a4079faeef3157eb3c"
-			}, {
-				"id": "OptiFine 1.16.4 HD U G7",
-				"minecraft": "1.16.4",
-				"filename": "OptiFine_1.16.4_HD_U_G7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.16.4_HD_U_G7.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "f49c042fa099907eafcbe22d7035d84f8b5715f1"
-			}, {
-				"id": "OptiFine 1.16.3 HD U G5",
-				"minecraft": "1.16.3",
-				"filename": "OptiFine_1.16.3_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.16.3_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "6a8f57ca84628da47b011e608ff449cde7ec13ed"
-			}, {
-				"id": "OptiFine 1.16.2 HD U G5",
-				"minecraft": "1.16.2",
-				"filename": "OptiFine_1.16.2_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.16.2_HD_U_G5.jar&x=d38d84f8e7853df819a11d277bd5cc49",
-				"sha1": "5b5627a814e8c95aa7ac27fa4cf2cc0b8bd4519b"
-			}, {
-				"id": "OptiFine 1.16.1 HD U G2",
-				"minecraft": "1.16.1",
-				"filename": "OptiFine_1.16.1_HD_U_G2.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.16.1_HD_U_G2.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
-				"sha1": "87533b8ac0dfeb11241041f197f8f95c0ffa8c08"
-			}, {
-				"id": "OptiFine 1.15.2 HD U G6",
-				"minecraft": "1.15.2",
-				"filename": "OptiFine_1.15.2_HD_U_G6.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.15.2_HD_U_G6.jar&x=2ab0a273018f3f0a16fda9ac0c8cf57f",
-				"sha1": "630a32be9b711b5a479507159d5d2598189fed33"
-			}, {
-				"id": "OptiFine 1.14.4 HD U G5",
-				"minecraft": "1.14.4",
-				"filename": "OptiFine_1.14.4_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.14.4_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "117c01a5431244a8b6a3ac393374dac9624f9be6"
-			}, {
-				"id": "OptiFine 1.14.3 HD U F2",
-				"minecraft": "1.14.3",
-				"filename": "OptiFine_1.14.3_HD_U_F2.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F2.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "887d648f26f7ba17ea34c0c2dcff4096f7a226b1"
-			}, {
-				"id": "OptiFine 1.14.2 HD U F1",
-				"minecraft": "1.14.2",
-				"filename": "OptiFine_1.14.2_HD_U_F1.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.14.2_HD_U_F1.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "396ce7f0e22aae3543134baabd61ad547334c0aa"
-			}, {
-				"id": "OptiFine 1.13.2 HD U G5",
-				"minecraft": "1.13.2",
-				"filename": "OptiFine_1.13.2_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "2cf69cec66f2581d9d8443a457c1f54bd50b1464"
-			}, {
-				"id": "OptiFine 1.13.1 HD U E4",
-				"minecraft": "1.13.1",
-				"filename": "OptiFine_1.13.1_HD_U_E4.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.13.1_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "4cd051a468185d33f324dd0467ad2391e1c58d65"
-			}, {
-				"id": "OptiFine 1.13 HD U E4",
-				"minecraft": "1.13",
-				"filename": "OptiFine_1.13_HD_U_E4.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.13_HD_U_E4.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "4f212f335891e7f4e674571d6dc1733d2dd666db"
-			}, {
-				"id": "OptiFine 1.12.2 HD U G5",
-				"minecraft": "1.12.2",
-				"filename": "OptiFine_1.12.2_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=210467c2a918d4db35edb2f84488cb28",
-				"sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4"
-			}, {
-				"id": "OptiFine 1.12.1 HD U G5",
-				"minecraft": "1.12.1",
-				"filename": "OptiFine_1.12.1_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.12.1_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "3c9cd74810cad75de5091633a1e0c7d3d76ea09c"
-			}, {
-				"id": "OptiFine 1.12 HD U G5",
-				"minecraft": "1.12",
-				"filename": "OptiFine_1.12_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "3b8369d33c3257cb247c22b13a41b7db0924e948"
-			}, {
-				"id": "OptiFine 1.11.2 HD U G5",
-				"minecraft": "1.11.2",
-				"filename": "OptiFine_1.11.2_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "65c425ab628d1748b489dee8619271402428509e"
-			}, {
-				"id": "OptiFine 1.11 HD U G5",
-				"minecraft": "1.11",
-				"filename": "OptiFine_1.11_HD_U_G5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.11_HD_U_G5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "71057cb7a3d0971c3b56e1fbbc333304a72e1352"
-			}, {
-				"id": "OptiFine 1.10.2 HD U I5",
-				"minecraft": "1.10.2",
-				"filename": "OptiFine_1.10.2_HD_U_I5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "12fd8dd33150f9e4436f23bac08265305f949e20"
-			}, {
-				"id": "OptiFine 1.10 HD U I5",
-				"minecraft": "1.10",
-				"filename": "OptiFine_1.10_HD_U_I5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_I5.jar&x=05fef412683f8d5891806e74c45d97d8",
-				"sha1": "a0070afe9c1c0ced4bcfcda85359e07917d569bd"
-			}, {
-				"id": "OptiFine 1.9.4 HD U I5",
-				"minecraft": "1.9.4",
-				"filename": "OptiFine_1.9.4_HD_U_I5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.9.4_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-				"sha1": "68a206db0d425dd85f6eba33e52122b01e844c46"
-			}, {
-				"id": "OptiFine 1.9.2 HD U E3",
-				"minecraft": "1.9.2",
-				"filename": "OptiFine_1.9.2_HD_U_E3.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.9.2_HD_U_E3.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-				"sha1": "c032b2ae0b6087077efef8ae89b612e0d4ea81b7"
-			}, {
-				"id": "OptiFine 1.9.0 HD U I5",
-				"minecraft": "1.9",
-				"filename": "OptiFine_1.9.0_HD_U_I5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.9.0_HD_U_I5.jar&x=6bccc22a061d6fc96e1f51525c3f33bd",
-				"sha1": "b5faec3b84f42dd396512a3ce7c1b57c0b972b70"
-			}, {
-				"id": "OptiFine 1.8.9 HD U M5",
-				"minecraft": "1.8.9",
-				"filename": "OptiFine_1.8.9_HD_U_M5.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=debe0c2b75f02eff184728d0daeff85a",
-				"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-			}, {
-				"id": "OptiFine 1.8.8 HD U I7",
-				"minecraft": "1.8.8",
-				"filename": "OptiFine_1.8.8_HD_U_I7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.8.8_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-				"sha1": "30cbf4d61052cbfb736a78117da333df23c129a3"
-			}, {
-				"id": "OptiFine 1.8.0 HD U I7",
-				"minecraft": "1.8",
-				"filename": "OptiFine_1.8.0_HD_U_I7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_I7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-				"sha1": "0d1dcf64b4d104a71e8f65a1362a163ed81a9030"
-			}, {
-				"id": "OptiFine 1.7.10 HD U E7",
-				"minecraft": "1.7.10",
-				"filename": "OptiFine_1.7.10_HD_U_E7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-				"sha1": "2130d7266224da6a7325051e37444f7e7c19277c"
-			}, {
-				"id": "OptiFine 1.7.2 HD U F7",
-				"minecraft": "1.7.2",
-				"filename": "OptiFine_1.7.2_HD_U_F7.jar",
-				"url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_F7.jar&x=debe0c2b75f02eff184728d0daeff85a",
-				"sha1": "fb04b91e47b5eaa172d2b76c843e488dba8f909b"
-			}]
-		}, {
-			"name": "Just Enough Items (JEI)",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
-			"description-ru": "Just Enough Items - это самый удобный мод для просмотра предметов и крафтов.",
-			"downloads": [{
-				"minecraft": "1.8",
-				"filename": "jei_1.8-2.14.0.139.jar",
-				"url": "https://edge.forgecdn.net/files/2273/901/jei_1.8-2.14.0.139.jar",
-				"sha1": "acb4f7cc448ac097824ab8594935245b57b12870"
-			}, {
-				"minecraft": "1.8.8",
-				"filename": "jei_1.8.9-2.16.2.78.jar",
-				"url": "https://edge.forgecdn.net/files/2275/72/jei_1.8.9-2.16.2.78.jar",
-				"sha1": "7b07f17dd4ea0bb0ac2ad63061d45446dd457ccb"
-			}, {
-				"minecraft": "1.8.9",
-				"filename": "jei_1.8.9-2.28.18.187.jar",
-				"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-				"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
-			}, {
-				"minecraft": "1.9",
-				"filename": "jei_1.9-3.3.3.200.jar",
-				"url": "https://edge.forgecdn.net/files/2299/283/jei_1.9-3.3.3.200.jar",
-				"sha1": "03f712e1e029efa46419d4040709a8009690b41e"
-			}, {
-				"minecraft": "1.9.4",
-				"filename": "jei_1.9.4-3.6.8.225.jar",
-				"url": "https://edge.forgecdn.net/files/2313/650/jei_1.9.4-3.6.8.225.jar",
-				"sha1": "debdeb442f73eb954db22101e00949692a2e0c15"
-			}, {
-				"minecraft": "1.10",
-				"filename": "jei_1.10-3.7.1.219.jar",
-				"url": "https://edge.forgecdn.net/files/2310/912/jei_1.10-3.7.1.219.jar",
-				"sha1": "01384c4dcf0ebe57714bcea4493396ff969fc045"
-			}, {
-				"minecraft": "1.10.2",
-				"filename": "jei_1.10.2-3.14.8.422.jar",
-				"url": "https://edge.forgecdn.net/files/2561/516/jei_1.10.2-3.14.8.422.jar",
-				"sha1": "804f9b1cb4ed8635c3207d2d182cbc06a2e56041"
-			}, {
-				"minecraft": "1.11",
-				"filename": "jei_1.11-4.1.1.208.jar",
-				"url": "https://edge.forgecdn.net/files/2360/492/jei_1.11-4.1.1.208.jar",
-				"sha1": "d021f1f80de4f6b1cbe0caf1e134757a45803aa5"
-			}, {
-				"minecraft": "1.11.2",
-				"filename": "jei_1.11.2-4.5.1.296.jar",
-				"url": "https://edge.forgecdn.net/files/2461/378/jei_1.11.2-4.5.1.296.jar",
-				"sha1": "a2d7eaee690783e89e20e4b288ef976a417c2eeb"
-			}, {
-				"minecraft": "1.12",
-				"filename": "jei_1.12-4.7.5.86.jar",
-				"url": "https://edge.forgecdn.net/files/2463/414/jei_1.12-4.7.5.86.jar",
-				"sha1": "dde395a006b81fc9c4ac1836b74557e64bc18a33"
-			}, {
-				"minecraft": "1.12.1",
-				"filename": "jei_1.12.2-4.7.11.102.jar",
-				"url": "https://edge.forgecdn.net/files/2485/363/jei_1.12.2-4.7.11.102.jar",
-				"sha1": "2ff4b331ff1f0605d1ee3d75b64967bfc5d39b6a"
-			}, {
-				"minecraft": "1.12.2",
-				"filename": "jei_1.12.2-4.16.1.302.jar",
-				"url": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
-				"sha1": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8"
-			}, {
-				"minecraft": "1.13.2",
-				"filename": "jei-1.13.2-5.0.0.31.jar",
-				"url": "https://edge.forgecdn.net/files/3272/39/jei-1.13.2-5.0.0.31.jar",
-				"sha1": "aa15cdea079db8b91d75e3c68216df80a70545d8"
-			}, {
-				"minecraft": "1.14.2",
-				"filename": "jei-1.14.2-6.0.0.3.jar",
-				"url": "https://edge.forgecdn.net/files/2733/474/jei-1.14.2-6.0.0.3.jar",
-				"sha1": "96c8b2b1491ba4839f9996318c25169de371ade8"
-			}, {
-				"minecraft": "1.14.3",
-				"filename": "jei-1.14.3-6.0.0.8.jar",
-				"url": "https://edge.forgecdn.net/files/2738/328/jei-1.14.3-6.0.0.8.jar",
-				"sha1": "135375d59f565d7ac376a790873f16166cff2e64"
-			}, {
-				"minecraft": "1.14.4",
-				"filename": "jei-1.14.4-6.0.1.30.jar",
-				"url": "https://edge.forgecdn.net/files/3039/707/jei-1.14.4-6.0.1.30.jar",
-				"sha1": "619349656c15675c488689bb1c0f8f385b1b0bf7"
-			}, {
-				"minecraft": "1.15.1",
-				"filename": "jei-1.15.1-6.0.0.1.jar",
-				"url": "https://edge.forgecdn.net/files/2855/456/jei-1.15.1-6.0.0.1.jar",
-				"sha1": "96b10d1e65392e5171a43dfdd8d77c5e46bdca1b"
-			}, {
-				"minecraft": "1.15.2",
-				"filename": "jei-1.15.2-6.0.3.16.jar",
-				"url": "https://edge.forgecdn.net/files/3272/32/jei-1.15.2-6.0.3.16.jar",
-				"sha1": "643e41d4604f3e37a2fde9a53152c9b512086076"
-			}, {
-				"minecraft": "1.16.1",
-				"filename": "jei-1.16.1-7.0.1.10.jar",
-				"url": "https://edge.forgecdn.net/files/3028/697/jei-1.16.1-7.0.1.10.jar",
-				"sha1": "f590d364eed25e9258e4fe666c9e5434d605f566"
-			}, {
-				"minecraft": "1.16.2",
-				"filename": "jei-1.16.2-7.3.2.28.jar",
-				"url": "https://edge.forgecdn.net/files/3060/935/jei-1.16.2-7.3.2.28.jar",
-				"sha1": "0b16013abd77329527c5bf493158053a"
-			}, {
-				"minecraft": "1.16.3",
-				"filename": "jei-1.16.3-7.6.0.51.jar",
-				"url": "https://edge.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
-				"sha1": "83afd1cd961b75e907275f3e0f9ff136ee766e8e"
-			}, {
-				"minecraft": "1.16.4",
-				"filename": "jei-1.16.4-7.6.1.74.jar",
-				"url": "https://edge.forgecdn.net/files/3245/3/jei-1.16.4-7.6.1.74.jar",
-				"sha1": "d1e1e56fafd7b5471bd70912ab4cb478"
-			}, {
-				"minecraft": "1.16.5",
-				"filename": "jei-1.16.5-7.7.1.152.jar",
-				"url": "https://edge.forgecdn.net/files/3681/294/jei-1.16.5-7.7.1.152.jar",
-				"sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b"
-			}, {
-				"minecraft": "1.17.1",
-				"filename": "jei-1.17.1-8.3.1.62.jar",
-				"url": "https://edge.forgecdn.net/files/3596/34/jei-1.17.1-8.3.1.62.jar",
-				"sha1": "fd5ee0ce31afddef7e518fb602ef5355ae483c9e"
-			}, {
-				"minecraft": "1.18",
-				"filename": "jei-1.18-9.0.0.40.jar",
-				"url": "https://edge.forgecdn.net/files/3550/20/jei-1.18-9.0.0.40.jar",
-				"sha1": "04c089f4b52dfbecc2f07370c828501b"
-			}, {
-				"minecraft": "1.18.1",
-				"filename": "jei-1.18.1-9.4.1.172.jar",
-				"url": "https://edge.forgecdn.net/files/3723/162/jei-1.18.1-9.4.1.172.jar",
-				"sha1": "00a4c111086c43c799f2f13d2e8c86216dad8232"
-			}, {
-				"minecraft": "1.18.2",
-				"filename": "jei-1.18.2-9.7.1.255.jar",
-				"url": "https://edge.forgecdn.net/files/3940/240/jei-1.18.2-9.7.1.255.jar",
-				"sha1": "af72805f44b69f11b2c1c849478dd8a312030c18"
-			}, {
-				"minecraft": "1.19",
-				"filename": "jei-1.19-forge-11.1.1.239.jar",
-				"url": "https://edge.forgecdn.net/files/3903/68/jei-1.19-forge-11.1.1.239.jar",
-				"sha1": "f473b99f98d19cfd9915a843f0435869"
-			}, {
-				"minecraft": "1.19.1",
-				"filename": "jei-1.19.1-forge-11.2.0.244.jar",
-				"url": "https://edge.forgecdn.net/files/3922/508/jei-1.19.1-forge-11.2.0.244.jar",
-				"sha1": "74e55e0bb48fbf3301f6163e200f3883"
-			}, {
-				"minecraft": "1.19.2",
-				"filename": "jei-1.19.2-forge-11.2.0.256.jar",
-				"url": "https://edge.forgecdn.net/files/3944/627/jei-1.19.2-forge-11.2.0.256.jar",
-				"sha1": "1b9e3d574af81a7a089550939d71f849a7d8dd16"
-			}]
-		}, {
-			"name": "Mouse Tweaks",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
-			"description-ru": "Mouse Tweaks заменяет стандартную механику мыши в Майнкрафт, делая её более удобной и функциональной.",
-			"downloads": [{
-				"minecraft": "1.0",
-				"filename": "MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
-				"url": "https://edge.forgecdn.net/files/3924/803/MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
-				"sha1": "3642cfb9af5c6e04d3e7112fc5fbcc9c2566445c"
-			}, {
-				"minecraft": "1.2.5",
-				"filename": "MouseTweaks-2.7.2-mc1.2.5.jar",
-				"url": "https://edge.forgecdn.net/files/2385/397/MouseTweaks-2.7.2-mc1.2.5.jar",
-				"sha1": "7aa5cee1dd5ef2d9e6d62ece973ba0a2fc6bc9b2"
-			}, {
-				"minecraft": "1.4.2",
-				"filename": "_1.4.2__Mouse_Tweaks_BETA_4.zip",
-				"url": "https://edge.forgecdn.net/files/713/720/_1.4.2__Mouse_Tweaks_BETA_4.zip",
-				"sha1": "f44cfbe59568e8f040b58ac409cd84bc38ae2cc6"
-			}, {
-				"minecraft": "1.4.6",
-				"filename": "_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
-				"url": "https://edge.forgecdn.net/files/713/722/_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
-				"sha1": "74cfe708e6543359358c403ce87d113e90c7c6f4"
-			}, {
-				"minecraft": "1.4.7",
-				"filename": "_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
-				"url": "https://edge.forgecdn.net/files/713/723/_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
-				"sha1": "8c1cc20c3e8d404208f2cc2efc4c372f4cd9d26c"
-			}, {
-				"minecraft": "1.5",
-				"filename": "_1.5__Mouse_Tweaks_1.0c.zip",
-				"url": "https://edge.forgecdn.net/files/713/727/_1.5__Mouse_Tweaks_1.0c.zip",
-				"sha1": "ca608af824f223c782b74a08b864119283dd2ba6"
-			}, {
-				"minecraft": "1.5.1",
-				"filename": "_1.5.1__Mouse_Tweaks_1.1c.zip",
-				"url": "https://edge.forgecdn.net/files/713/730/_1.5.1__Mouse_Tweaks_1.1c.zip",
-				"sha1": "3e4552c0fe8dfceae8c27b0a51da8192dbd8b339"
-			}, {
-				"minecraft": "1.5.2",
-				"filename": "_1.5.2__Mouse_Tweaks_2.0.3.zip",
-				"url": "https://edge.forgecdn.net/files/729/153/_1.5.2__Mouse_Tweaks_2.0.3.zip",
-				"sha1": "db7e256b102260ffea8ef271084320adf4702427"
-			}, {
-				"minecraft": "1.6.1",
-				"filename": "_1.6.1__Mouse_Tweaks_2.1.zip",
-				"url": "https://edge.forgecdn.net/files/716/261/_1.6.1__Mouse_Tweaks_2.1.zip",
-				"sha1": "ba6756fbd249afdd3f0c94ebe36e441143b2aead"
-			}, {
-				"minecraft": "1.6.2",
-				"filename": "_1.6.2__Mouse_Tweaks_2.3.3.zip",
-				"url": "https://edge.forgecdn.net/files/729/154/_1.6.2__Mouse_Tweaks_2.3.3.zip",
-				"sha1": "38b847ee66b047e5049b525b2e0c55886fbdb211"
-			}, {
-				"minecraft": "1.6.4",
-				"filename": "_1.6.4__Mouse_Tweaks_2.3.4.zip",
-				"url": "https://edge.forgecdn.net/files/741/576/_1.6.4__Mouse_Tweaks_2.3.4.zip",
-				"sha1": "27a069afee5b24691981115aba8f4bb0ac6dba6b"
-			}, {
-				"minecraft": "1.7.10",
-				"filename": "MouseTweaks-2.4.4-mc1.7.10.jar",
-				"url": "https://edge.forgecdn.net/files/2209/265/MouseTweaks-2.4.4-mc1.7.10.jar",
-				"sha1": "1fef53ebcd48f003fa0799de51e86ad113e3af7c"
-			}, {
-				"minecraft": "1.7.2",
-				"filename": "MouseTweaks-2.4.3-mc1.7.2.jar",
-				"url": "https://edge.forgecdn.net/files/2203/706/MouseTweaks-2.4.3-mc1.7.2.jar",
-				"sha1": "9f81f5d6da0f06037d6f47dc227f35e4dd7122f1"
-			}, {
-				"minecraft": "1.8",
-				"filename": "MouseTweaks-2.5.0-mc1.8.jar",
-				"url": "https://edge.forgecdn.net/files/2227/489/MouseTweaks-2.5.0-mc1.8.jar",
-				"sha1": "f0441e6887583e96ec6fe45f15797507fce645bf"
-			}, {
-				"minecraft": "1.8.8",
-				"filename": "MouseTweaks-2.7.1-mc1.8.8.jar",
-				"url": "https://edge.forgecdn.net/files/2385/53/MouseTweaks-2.7.1-mc1.8.8.jar",
-				"sha1": "85d8b4b955a56596a34cc5df7f28d605a64bad25"
-			}, {
-				"minecraft": "1.8.9",
-				"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-				"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-				"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-			}, {
-				"minecraft": "1.9",
-				"filename": "MouseTweaks-2.6.2-mc1.9.jar",
-				"url": "https://edge.forgecdn.net/files/2289/943/MouseTweaks-2.6.2-mc1.9.jar",
-				"sha1": "8ffd4f1633e61960774684647b4543eb63315f1c"
-			}, {
-				"minecraft": "1.9.4",
-				"filename": "MouseTweaks-2.6.3-mc1.9.4.jar",
-				"url": "https://edge.forgecdn.net/files/2304/74/MouseTweaks-2.6.3-mc1.9.4.jar",
-				"sha1": "0853d801aa6e838ae6c9b1e4640b8f585e06526c"
-			}, {
-				"minecraft": "1.10.2",
-				"filename": "MouseTweaks-2.8.1-mc1.10.2.jar",
-				"url": "https://edge.forgecdn.net/files/3305/503/MouseTweaks-2.8.1-mc1.10.2.jar",
-				"sha1": "1f5b49b14c27b519a91dd5ecdb29ee524cedbd53"
-			}, {
-				"minecraft": "1.11",
-				"filename": "MouseTweaks-2.7-mc1.11.jar",
-				"url": "https://edge.forgecdn.net/files/2352/926/MouseTweaks-2.7-mc1.11.jar",
-				"sha1": "9cf86aab1958990f7dcc15ebade120f6d2c03ad3"
-			}, {
-				"minecraft": "1.11.2",
-				"filename": "MouseTweaks-2.8-mc1.11.2.jar",
-				"url": "https://edge.forgecdn.net/files/2388/577/MouseTweaks-2.8-mc1.11.2.jar",
-				"sha1": "cf38aafc772f29dba6a3c1934b01bf079c338524"
-			}, {
-				"minecraft": "1.12",
-				"filename": "MouseTweaks-2.8-mc1.12.jar",
-				"url": "https://edge.forgecdn.net/files/2451/68/MouseTweaks-2.8-mc1.12.jar",
-				"sha1": "8349fa8b83ea0be59648739f1a1b0527068db6f5"
-			}, {
-				"minecraft": "1.12.1",
-				"filename": "MouseTweaks-2.8-mc1.12.1.jar",
-				"url": "https://edge.forgecdn.net/files/2462/627/MouseTweaks-2.8-mc1.12.1.jar",
-				"sha1": "1cebec240b295906a8283321f9cfd73636845075"
-			}, {
-				"minecraft": "1.12.2",
-				"filename": "MouseTweaks-2.10.1-mc1.12.2.jar",
-				"url": "https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar",
-				"sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
-			}, {
-				"minecraft": "1.14.4",
-				"filename": "MouseTweaks-2.13-mc1.14.4.jar",
-				"url": "https://edge.forgecdn.net/files/2849/218/MouseTweaks-2.13-mc1.14.4.jar",
-				"sha1": "27d7e4a91210956a948051feb2120ea430917c1c"
-			}, {
-				"minecraft": "1.15.2",
-				"filename": "MouseTweaks-2.13-mc1.15.1.jar",
-				"url": "https://edge.forgecdn.net/files/2849/221/MouseTweaks-2.13-mc1.15.1.jar",
-				"sha1": "fd0eae9285ddadbadade0d0704b3852e9cd41241"
-			}, {
-				"minecraft": "1.16.1",
-				"filename": "MouseTweaks-2.13-mc1.16.1.jar",
-				"url": "https://edge.forgecdn.net/files/2989/354/MouseTweaks-2.13-mc1.16.1.jar",
-				"sha1": "2fd4f89d04df965d64bf4e4dfa853f19ae0abc24"
-			}, {
-				"minecraft": "1.16.3",
-				"filename": "MouseTweaks-2.14-mc1.16.2.jar",
-				"url": "https://edge.forgecdn.net/files/3202/662/MouseTweaks-2.14-mc1.16.2.jar",
-				"sha1": "5f2366c650c102c71e98c9445f86a266ba20e1e4"
-			}, {
-				"minecraft": "1.17.1",
-				"filename": "MouseTweaks-forge-mc1.17.1-2.15.jar",
-				"url": "https://edge.forgecdn.net/files/3515/478/MouseTweaks-forge-mc1.17.1-2.15.jar",
-				"sha1": "d7dcce119c43aff6d601f7cb05a0b7ca86620fe2"
-			}, {
-				"minecraft": "1.18",
-				"filename": "MouseTweaks-forge-mc1.18-2.16.jar",
-				"url": "https://edge.forgecdn.net/files/3546/382/MouseTweaks-forge-mc1.18-2.16.jar",
-				"sha1": "768acb775f48c4cda2ca09aea7283d68"
-			}, {
-				"minecraft": "1.18.1",
-				"filename": "MouseTweaks-forge-mc1.18-2.21.jar",
-				"url": "https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar",
-				"sha1": "dc64a2a0df9b205114768a89482fe57ffac54143"
-			}, {
-				"minecraft": "1.19",
-				"filename": "MouseTweaks-forge-mc1.19-2.22.jar",
-				"url": "https://edge.forgecdn.net/files/3828/447/MouseTweaks-forge-mc1.19-2.22.jar",
-				"sha1": "47ce3406cfca98c4086406be8ecc9a5b"
-			}, {
-				"minecraft": "1.19.2",
-				"filename": "MouseTweaks-forge-mc1.19-2.23.jar",
-				"url": "https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar",
-				"sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4"
-			}]
-		}, {
-			"name": "JourneyMap",
-			"image-url": "https://minecraft-inside.ru/uploads/files/2018-12/JourneyMap.jpg",
-			"description-ru": "JourneyMap - самый популярный мод на мини-карту.",
-			"downloads": [{
-				"minecraft": "1.0",
-				"filename": "JourneyMap1.0.0_MC1.0.0.zip",
-				"url": "https://edge.forgecdn.net/files/554/368/JourneyMap1.0.0_MC1.0.0.zip",
-				"sha1": "b20d25672b6c0a71939208f6b74195291f9c4af7"
-			}, {
-				"minecraft": "1.1",
-				"filename": "JourneyMap1.0.1_MC1.1.zip",
-				"url": "https://edge.forgecdn.net/files/568/433/JourneyMap1.0.1_MC1.1.zip",
-				"sha1": "13c3dd7639136cf88a54ef61e47b3924a4e615fc"
-			}, {
-				"minecraft": "1.4.7",
-				"filename": "JourneyMap1.9.1_MC1.4.6.zip",
-				"url": "https://edge.forgecdn.net/files/683/238/JourneyMap1.9.1_MC1.4.6.zip",
-				"sha1": "aeb6418a51c3a3fa9ab140ca1a52c04f8ce12820"
-			}, {
-				"minecraft": "1.5.2",
-				"filename": "JourneyMap2.6.1_MC1.5.2.zip",
-				"url": "https://edge.forgecdn.net/files/717/862/JourneyMap2.6.1_MC1.5.2.zip",
-				"sha1": "4b36761db0bf7659d62613369eb8f0063fffdb0e"
-			}, {
-				"minecraft": "1.6.4",
-				"filename": "JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
-				"url": "https://edge.forgecdn.net/files/2209/902/JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
-				"sha1": "97d263427c902de1a59417815da2a017103a5025"
-			}, {
-				"minecraft": "1.7.10",
-				"filename": "journeymap-1.7.10-5.1.4p2-unlimited.jar",
-				"url": "https://edge.forgecdn.net/files/2367/915/journeymap-1.7.10-5.1.4p2-unlimited.jar",
-				"sha1": "dd3ef105a039afaae08dc9ac46c2368d8e462951"
-			}, {
-				"minecraft": "1.7.2",
-				"filename": "JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
-				"url": "https://edge.forgecdn.net/files/2209/904/JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
-				"sha1": "dbee657f43d463d60209ee24498f2334b4d00bfb"
-			}, {
-				"minecraft": "1.8",
-				"filename": "journeymap-1.8-5.1.3-unlimited.jar",
-				"url": "https://edge.forgecdn.net/files/2269/316/journeymap-1.8-5.1.3-unlimited.jar",
-				"sha1": "511b5393d75a290fe7b25a7264d15f5f5d77e9d2"
-			}, {
-				"minecraft": "1.8.8",
-				"filename": "journeymap-1.8.8-5.1.3-unlimited.jar",
-				"url": "https://edge.forgecdn.net/files/2269/324/journeymap-1.8.8-5.1.3-unlimited.jar",
-				"sha1": "3debd9cb9da9eae6bdbaf6e2952d5671a5b244ba"
-			}, {
-				"minecraft": "1.8.9",
-				"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-				"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-				"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-			}, {
-				"minecraft": "1.9",
-				"filename": "journeymap-1.9-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/292/journeymap-1.9-5.5.2.jar",
-				"sha1": "c5ae1a6f9f22e6ac08c93c588b6bce76b4184c07"
-			}, {
-				"minecraft": "1.9.4",
-				"filename": "journeymap-1.9.4-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/294/journeymap-1.9.4-5.5.2.jar",
-				"sha1": "7974e1d48162cde3783e26ac9cd2c5ed2c489f4c"
-			}, {
-				"minecraft": "1.10.2",
-				"filename": "journeymap-1.10.2-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/297/journeymap-1.10.2-5.5.2.jar",
-				"sha1": "761b841746d8707bfc336e9abb7a429436c5a4df"
-			}, {
-				"minecraft": "1.11",
-				"filename": "journeymap-1.11-5.4.6.jar",
-				"url": "https://edge.forgecdn.net/files/2383/113/journeymap-1.11-5.4.6.jar",
-				"sha1": "bc227cfa6d00554c289054a5315f6cf36537cc3d"
-			}, {
-				"minecraft": "1.11.2",
-				"filename": "journeymap-1.11.2-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/301/journeymap-1.11.2-5.5.2.jar",
-				"sha1": "acf22529294caf6d8e6fb53c055e4aa5f9d5fe7e"
-			}, {
-				"minecraft": "1.12",
-				"filename": "journeymap-1.12-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/305/journeymap-1.12-5.5.2.jar",
-				"sha1": "825dca953216e80e2304cf229b41a8cb512d8555"
-			}, {
-				"minecraft": "1.12.1",
-				"filename": "journeymap-1.12.1-5.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/2498/307/journeymap-1.12.1-5.5.2.jar",
-				"sha1": "2264588e859887fa27866df14f07d9a991e68c31"
-			}, {
-				"minecraft": "1.12.2",
-				"filename": "journeymap-1.12.2-5.7.1.jar",
-				"url": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
-				"sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
-			}, {
-				"minecraft": "1.14.4",
-				"filename": "journeymap-1.14.4-5.7.0.jar",
-				"url": "https://edge.forgecdn.net/files/3208/23/journeymap-1.14.4-5.7.0.jar",
-				"sha1": "388c2c1b513eb831df6e2ccafcd592815a73db24"
-			}, {
-				"minecraft": "1.15.2",
-				"filename": "journeymap-1.15.2-5.7.0.jar",
-				"url": "https://edge.forgecdn.net/files/3208/19/journeymap-1.15.2-5.7.0.jar",
-				"sha1": "7f9e36cb7699b39524e55dfc793292034999cee2"
-			}, {
-				"minecraft": "1.16.3",
-				"filename": "journeymap-1.16.5-5.7.3.jar",
-				"url": "https://edge.forgecdn.net/files/3397/59/journeymap-1.16.5-5.7.3.jar",
-				"sha1": "2c1b429aa6de242a1b79de3dad8aacde163faf0f"
-			}, {
-				"minecraft": "1.16.5",
-				"filename": "journeymap-1.16.5-5.8.5p5.jar",
-				"url": "https://edge.forgecdn.net/files/3841/569/journeymap-1.16.5-5.8.5p5.jar",
-				"sha1": "c02a5777619d102ec7495d38b88036037819611b"
-			}, {
-				"minecraft": "1.17.1",
-				"filename": "journeymap-1.17.1-5.8.0.jar",
-				"url": "https://edge.forgecdn.net/files/3696/401/journeymap-1.17.1-5.8.0.jar",
-				"sha1": "1748184b2e4b3ddb6d1bff2f174991eb1ad80dfa"
-			}, {
-				"minecraft": "1.18.1",
-				"filename": "journeymap-1.18.1-5.8.1.jar",
-				"url": "https://edge.forgecdn.net/files/3756/52/journeymap-1.18.1-5.8.1.jar",
-				"sha1": "5c25beee9ace0d02f503c9a615d9c215891669b4"
-			}, {
-				"minecraft": "1.18.2",
-				"filename": "journeymap-1.18.2-5.9.0beta2-forge.jar",
-				"url": "https://edge.forgecdn.net/files/3927/228/journeymap-1.18.2-5.9.0beta2-forge.jar",
-				"sha1": "1aef6d54ef4dc2e8556009d359f86652c30999e9"
-			}, {
-				"minecraft": "1.19",
-				"filename": "journeymap-1.19-5.8.5-forge.jar",
-				"url": "https://edge.forgecdn.net/files/3902/437/journeymap-1.19-5.8.5-forge.jar",
-				"sha1": "78fa28d30176c4b1af249e7162e95543"
-			}, {
-				"minecraft": "1.19.2",
-				"filename": "journeymap-1.19.1-5.9.0beta2-forge.jar",
-				"url": "https://edge.forgecdn.net/files/3927/230/journeymap-1.19.1-5.9.0beta2-forge.jar",
-				"sha1": "38254fbd2a3e93e09f51dd5801b6aa6aa9a8fa3f"
-			}]
-		}, {
-			"name": " Ultra Mlnecraft",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/536/630/256/256/637858829715854600.png",
-			"description-ru": "Ультра Майнсруфт 4К",
-			"downloads": [{
-				"minecraft": "1.16.5",
-				"filename": "Minecraft Ultra-v1.zip",
-				"url": "https://edge.forgecdn.net/files/3758/106/Minecraft Ultra-v1.zip",
-				"sha1": "427829ac005cd7f4deebb4822d6975cc0fe66ebf"
-			}]
-		}, {
-			"name": "#SP Wallet",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/592/486/256/256/637964410451331638.png",
-			"description-ru": "Кошелёк твоего бати",
-			"downloads": []
-		}, {
-			"name": "#Vincent part 2",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/464/640/256/256/637744370406115959.jpeg",
-			"description-ru": "кто прочитал тот лох",
-			"downloads": [{
-				"minecraft": "1.12.2",
-				"filename": "Patriot-1.2.zip",
-				"url": "https://edge.forgecdn.net/files/3553/208/Patriot-1.2.zip",
-				"sha1": "7879527715cef3bd0dbcc7eb92c7e839"
-			}]
-		},
-		{
-			"name": "Storage Drawers",
-			"image-url": "https://media.forgecdn.net/avatars/thumbnails/10/842/256/256/635468327818431130.png",
-			"description-ru": "Привет",
-			"downloads": [{
-				"minecraft": "1.7.10",
-				"filename": "StorageDrawers-1.7.10-1.10.9.jar",
-				"url": "https://edge.forgecdn.net/files/2469/586/StorageDrawers-1.7.10-1.10.9.jar",
-				"sha1": "5bdf2f085625ed799789a89e163297444f014940"
-			}, {
-				"minecraft": "1.8",
-				"filename": "StorageDrawers-1.8-2.1.9.jar",
-				"url": "https://edge.forgecdn.net/files/2254/98/StorageDrawers-1.8-2.1.9.jar",
-				"sha1": "bccfceb29177bc87a9e7527c4af22d0328d6629b"
-			}, {
-				"minecraft": "1.8.8",
-				"filename": "StorageDrawers-1.8.8-2.2.0.jar",
-				"url": "https://edge.forgecdn.net/files/2270/386/StorageDrawers-1.8.8-2.2.0.jar",
-				"sha1": "1fae6718171ed332e7d4b2c8877ff9e33788b5ad"
-			}, {
-				"minecraft": "1.8.9",
-				"filename": "StorageDrawers-1.8.9-2.7.0.jar",
-				"url": "https://edge.forgecdn.net/files/2314/809/StorageDrawers-1.8.9-2.7.0.jar",
-				"sha1": "6b7e21cc8fff2bf2fb92e9febf0492c0eb6d62ce"
-			}, {
-				"minecraft": "1.9",
-				"filename": "StorageDrawers-1.9-3.1.6.jar",
-				"url": "https://edge.forgecdn.net/files/2294/685/StorageDrawers-1.9-3.1.6.jar",
-				"sha1": "f752c2a1a6baeab5ee167f0405c582cfa432e616"
-			}, {
-				"minecraft": "1.9.4",
-				"filename": "StorageDrawers-1.10.2-3.7.10.jar",
-				"url": "https://edge.forgecdn.net/files/2446/106/StorageDrawers-1.10.2-3.7.10.jar",
-				"sha1": "b6db0cfbdb7ad98b09e3c8e21ee39dcb3036aa3d"
-			}, {
-				"minecraft": "1.11",
-				"filename": "StorageDrawers-1.11-4.0.3.jar",
-				"url": "https://edge.forgecdn.net/files/2358/894/StorageDrawers-1.11-4.0.3.jar",
-				"sha1": "417773e611606a092e1a1aba1c68cd2ec2292580"
-			}, {
-				"minecraft": "1.11.2",
-				"filename": "StorageDrawers-1.11.2-4.2.10.jar",
-				"url": "https://edge.forgecdn.net/files/2446/107/StorageDrawers-1.11.2-4.2.10.jar",
-				"sha1": "f457b680e834b482bb0978bc0440bad584b8f713"
-			}, {
-				"minecraft": "1.12",
-				"filename": "StorageDrawers-1.12-5.2.8.jar",
-				"url": "https://edge.forgecdn.net/files/2448/797/StorageDrawers-1.12-5.2.8.jar",
-				"sha1": "f25b53e744cf27f9755fc6e6586137bd8137708e"
-			}, {
-				"minecraft": "1.12.1",
-				"filename": "StorageDrawers-1.12.2-5.4.2.jar",
-				"url": "https://edge.forgecdn.net/files/2952/606/StorageDrawers-1.12.2-5.4.2.jar",
-				"sha1": "c3f370ed6c158726061211334cbb72fd53f30364"
-			}, {
-				"minecraft": "1.14.4",
-				"filename": "StorageDrawers-1.14.4-6.0.7.jar",
-				"url": "https://edge.forgecdn.net/files/2915/554/StorageDrawers-1.14.4-6.0.7.jar",
-				"sha1": "1230e649a1bb8df9d4860a104d6c532156a7f76f"
-			}, {
-				"minecraft": "1.15",
-				"filename": "StorageDrawers-1.15.2-7.0.3.jar",
-				"url": "https://edge.forgecdn.net/files/3092/975/StorageDrawers-1.15.2-7.0.3.jar",
-				"sha1": "298b37bd9fe593ecb96b1b8e368e4d7f7cf1dbfc"
-			}, {
-				"minecraft": "1.16.1",
-				"filename": "StorageDrawers-1.16.1-8.0.0.jar",
-				"url": "https://edge.forgecdn.net/files/2991/756/StorageDrawers-1.16.1-8.0.0.jar",
-				"sha1": "fdb60801c9b8142ada735cc388ac1c1284cc0969"
-			}, {
-				"minecraft": "1.16.3",
-				"filename": "StorageDrawers-1.16.3-8.5.2.jar",
-				"url": "https://edge.forgecdn.net/files/3776/277/StorageDrawers-1.16.3-8.5.2.jar",
-				"sha1": "854514ef529e665b77632882f7274642f11517dd"
-			}, {
-				"minecraft": "1.17.1",
-				"filename": "StorageDrawers-1.17.1-9.1.1.jar",
-				"url": "https://edge.forgecdn.net/files/3611/499/StorageDrawers-1.17.1-9.1.1.jar",
-				"sha1": "67fcec62f87e94703718d0bd589693366d39dd95"
-			}, {
-				"minecraft": "1.18",
-				"filename": "StorageDrawers-1.18-10.0.1.jar",
-				"url": "https://edge.forgecdn.net/files/3576/898/StorageDrawers-1.18-10.0.1.jar",
-				"sha1": "ce8dc34f1ca7ac71e1054dcbc0dbc8cd"
-			}, {
-				"minecraft": "1.18.1",
-				"filename": "StorageDrawers-1.18.1-10.1.1.jar",
-				"url": "https://edge.forgecdn.net/files/3611/505/StorageDrawers-1.18.1-10.1.1.jar",
-				"sha1": "80e0ab8d61cc897e57332af6414cb4418d804243"
-			}, {
-				"minecraft": "1.18.2",
-				"filename": "StorageDrawers-1.18.2-10.2.1.jar",
-				"url": "https://edge.forgecdn.net/files/3807/626/StorageDrawers-1.18.2-10.2.1.jar",
-				"sha1": "2330bba44124f5481d34b02fb528815b97d3e357"
-			}, {
-				"minecraft": "1.19",
-				"filename": "StorageDrawers-1.19-11.1.2.jar",
-				"url": "https://edge.forgecdn.net/files/3884/263/StorageDrawers-1.19-11.1.2.jar",
-				"sha1": "3f65972ac73962b980a5c7facf24292e"
-			}]
-		}
-	]
+   "mods":[
+      {
+         "name":"Just Enough Items (JEI)",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+         "description-ru":"View Items and Recipes",
+         "downloads":[
+            {
+               "id":"jei_1.12.2-4.16.1.1003.jar",
+               "minecraft":"1.12.2",
+               "filename":"jei_1.12.2-4.16.1.1003.jar",
+               "url":"https://edge.forgecdn.net/files/4538/10/jei_1.12.2-4.16.1.1003.jar",
+               "sha1":"a4e3b713de6604ee558f30207dd2bde59c9ca21d"
+            },
+            {
+               "id":"jei-1.19.4-forge-13.1.0.11.jar",
+               "minecraft":"1.19.4",
+               "filename":"jei-1.19.4-forge-13.1.0.11.jar",
+               "url":"https://edge.forgecdn.net/files/4536/209/jei-1.19.4-forge-13.1.0.11.jar",
+               "sha1":"b2305bccf81b4d0d6ec4a9e612404b178806c931"
+            },
+            {
+               "id":"jei-1.19.2-forge-11.6.0.1015.jar",
+               "minecraft":"1.19.2",
+               "filename":"jei-1.19.2-forge-11.6.0.1015.jar",
+               "url":"https://edge.forgecdn.net/files/4494/410/jei-1.19.2-forge-11.6.0.1015.jar",
+               "sha1":"c7aff94c76efd7725614c6f5a6fbc94f07a68df5"
+            },
+            {
+               "id":"jei-1.19.3-forge-12.4.0.22.jar",
+               "minecraft":"1.19.3",
+               "filename":"jei-1.19.3-forge-12.4.0.22.jar",
+               "url":"https://edge.forgecdn.net/files/4455/246/jei-1.19.3-forge-12.4.0.22.jar",
+               "sha1":"fbc736b62eb2ed5c518408b5d3f93896a7361f9f"
+            },
+            {
+               "id":"jei-1.18.2-forge-10.2.1.1004.jar",
+               "minecraft":"1.18.2",
+               "filename":"jei-1.18.2-forge-10.2.1.1004.jar",
+               "url":"https://edge.forgecdn.net/files/4434/393/jei-1.18.2-forge-10.2.1.1004.jar",
+               "sha1":"1e9a408b0e3e0074db2edcb34d2966099ab5cc0c"
+            },
+            {
+               "id":"jei-1.16.5-7.8.0.1009.jar",
+               "minecraft":"1.16.5",
+               "filename":"jei-1.16.5-7.8.0.1009.jar",
+               "url":"https://edge.forgecdn.net/files/4371/666/jei-1.16.5-7.8.0.1009.jar",
+               "sha1":"cb07340ff3b0d66d0541ff98e5fa6abcd392b08c"
+            },
+            {
+               "id":"jei-1.17.1-8.3.1.1002.jar",
+               "minecraft":"1.17.1",
+               "filename":"jei-1.17.1-8.3.1.1002.jar",
+               "url":"https://edge.forgecdn.net/files/4351/306/jei-1.17.1-8.3.1.1002.jar",
+               "sha1":"88a05bd52ddf56f1efce9e5061cbdacf984d5c81"
+            },
+            {
+               "id":"jei-1.18.1-9.4.1.276.jar",
+               "minecraft":"1.18.1",
+               "filename":"jei-1.18.1-9.4.1.276.jar",
+               "url":"https://edge.forgecdn.net/files/4060/769/jei-1.18.1-9.4.1.276.jar",
+               "sha1":"60f840cf38d3833619705db7eeec19c4146bee15"
+            },
+            {
+               "id":"jei-1.19.1-forge-11.2.0.244.jar",
+               "minecraft":"1.19.1",
+               "filename":"jei-1.19.1-forge-11.2.0.244.jar",
+               "url":"https://edge.forgecdn.net/files/3922/508/jei-1.19.1-forge-11.2.0.244.jar",
+               "sha1":"83136e93e2c3adc86106e38e7b5cc2374b6508fe"
+            },
+            {
+               "id":"jei-1.19-forge-11.1.1.239.jar",
+               "minecraft":"1.19",
+               "filename":"jei-1.19-forge-11.1.1.239.jar",
+               "url":"https://edge.forgecdn.net/files/3903/68/jei-1.19-forge-11.1.1.239.jar",
+               "sha1":"f9fcde4088e4b6eeb42b1aa717f5b528595b0d66"
+            },
+            {
+               "id":"jei-1.18-9.0.0.40.jar",
+               "minecraft":"1.18",
+               "filename":"jei-1.18-9.0.0.40.jar",
+               "url":"https://edge.forgecdn.net/files/3550/20/jei-1.18-9.0.0.40.jar",
+               "sha1":"09290ba026ff7226cddb5060e26ba469b9502c22"
+            },
+            {
+               "id":"jei-1.13.2-5.0.0.31.jar",
+               "minecraft":"1.13.2",
+               "filename":"jei-1.13.2-5.0.0.31.jar",
+               "url":"https://edge.forgecdn.net/files/3272/39/jei-1.13.2-5.0.0.31.jar",
+               "sha1":"aa15cdea079db8b91d75e3c68216df80a70545d8"
+            },
+            {
+               "id":"jei-1.15.2-6.0.3.16.jar",
+               "minecraft":"1.15.2",
+               "filename":"jei-1.15.2-6.0.3.16.jar",
+               "url":"https://edge.forgecdn.net/files/3272/32/jei-1.15.2-6.0.3.16.jar",
+               "sha1":"643e41d4604f3e37a2fde9a53152c9b512086076"
+            },
+            {
+               "id":"jei-1.16.4-7.6.1.74.jar",
+               "minecraft":"1.16.4",
+               "filename":"jei-1.16.4-7.6.1.74.jar",
+               "url":"https://edge.forgecdn.net/files/3245/3/jei-1.16.4-7.6.1.74.jar",
+               "sha1":"2f5afc2f63f84275986a93d87c755e656d3b9bd3"
+            },
+            {
+               "id":"jei-1.16.3-7.6.0.51.jar",
+               "minecraft":"1.16.3",
+               "filename":"jei-1.16.3-7.6.0.51.jar",
+               "url":"https://edge.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
+               "sha1":"83afd1cd961b75e907275f3e0f9ff136ee766e8e"
+            },
+            {
+               "id":"jei-1.16.2-7.3.2.28.jar",
+               "minecraft":"1.16.2",
+               "filename":"jei-1.16.2-7.3.2.28.jar",
+               "url":"https://edge.forgecdn.net/files/3060/935/jei-1.16.2-7.3.2.28.jar",
+               "sha1":"2902d94883898f39122f62699a62981020ceb1f0"
+            },
+            {
+               "id":"jei-1.14.4-6.0.1.30.jar",
+               "minecraft":"1.14.4",
+               "filename":"jei-1.14.4-6.0.1.30.jar",
+               "url":"https://edge.forgecdn.net/files/3039/707/jei-1.14.4-6.0.1.30.jar",
+               "sha1":"619349656c15675c488689bb1c0f8f385b1b0bf7"
+            },
+            {
+               "id":"jei-1.16.1-7.0.1.10.jar",
+               "minecraft":"1.16.1",
+               "filename":"jei-1.16.1-7.0.1.10.jar",
+               "url":"https://edge.forgecdn.net/files/3028/697/jei-1.16.1-7.0.1.10.jar",
+               "sha1":"f590d364eed25e9258e4fe666c9e5434d605f566"
+            },
+            {
+               "id":"jei-1.15.1-6.0.0.1.jar",
+               "minecraft":"1.15.1",
+               "filename":"jei-1.15.1-6.0.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/2855/456/jei-1.15.1-6.0.0.1.jar",
+               "sha1":"96b10d1e65392e5171a43dfdd8d77c5e46bdca1b"
+            },
+            {
+               "id":"jei-1.14.3-6.0.0.8.jar",
+               "minecraft":"1.14.3",
+               "filename":"jei-1.14.3-6.0.0.8.jar",
+               "url":"https://edge.forgecdn.net/files/2738/328/jei-1.14.3-6.0.0.8.jar",
+               "sha1":"135375d59f565d7ac376a790873f16166cff2e64"
+            },
+            {
+               "id":"jei-1.14.2-6.0.0.3.jar",
+               "minecraft":"1.14.2",
+               "filename":"jei-1.14.2-6.0.0.3.jar",
+               "url":"https://edge.forgecdn.net/files/2733/474/jei-1.14.2-6.0.0.3.jar",
+               "sha1":"96c8b2b1491ba4839f9996318c25169de371ade8"
+            },
+            {
+               "id":"jei_1.10.2-3.14.8.422.jar",
+               "minecraft":"1.10.2",
+               "filename":"jei_1.10.2-3.14.8.422.jar",
+               "url":"https://edge.forgecdn.net/files/2561/516/jei_1.10.2-3.14.8.422.jar",
+               "sha1":"804f9b1cb4ed8635c3207d2d182cbc06a2e56041"
+            },
+            {
+               "id":"jei_1.12-4.7.5.86.jar",
+               "minecraft":"1.12",
+               "filename":"jei_1.12-4.7.5.86.jar",
+               "url":"https://edge.forgecdn.net/files/2463/414/jei_1.12-4.7.5.86.jar",
+               "sha1":"dde395a006b81fc9c4ac1836b74557e64bc18a33"
+            },
+            {
+               "id":"jei_1.11.2-4.5.1.296.jar",
+               "minecraft":"1.11.2",
+               "filename":"jei_1.11.2-4.5.1.296.jar",
+               "url":"https://edge.forgecdn.net/files/2461/378/jei_1.11.2-4.5.1.296.jar",
+               "sha1":"a2d7eaee690783e89e20e4b288ef976a417c2eeb"
+            },
+            {
+               "id":"jei_1.8.9-2.28.18.187.jar",
+               "minecraft":"1.8.9",
+               "filename":"jei_1.8.9-2.28.18.187.jar",
+               "url":"https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
+               "sha1":"c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
+            },
+            {
+               "id":"jei_1.11-4.1.1.208.jar",
+               "minecraft":"1.11",
+               "filename":"jei_1.11-4.1.1.208.jar",
+               "url":"https://edge.forgecdn.net/files/2360/492/jei_1.11-4.1.1.208.jar",
+               "sha1":"d021f1f80de4f6b1cbe0caf1e134757a45803aa5"
+            },
+            {
+               "id":"jei_1.9.4-3.6.8.225.jar",
+               "minecraft":"1.9.4",
+               "filename":"jei_1.9.4-3.6.8.225.jar",
+               "url":"https://edge.forgecdn.net/files/2313/650/jei_1.9.4-3.6.8.225.jar",
+               "sha1":"debdeb442f73eb954db22101e00949692a2e0c15"
+            },
+            {
+               "id":"jei_1.10-3.7.1.219.jar",
+               "minecraft":"1.10",
+               "filename":"jei_1.10-3.7.1.219.jar",
+               "url":"https://edge.forgecdn.net/files/2310/912/jei_1.10-3.7.1.219.jar",
+               "sha1":"01384c4dcf0ebe57714bcea4493396ff969fc045"
+            },
+            {
+               "id":"jei_1.9-3.3.3.200.jar",
+               "minecraft":"1.9",
+               "filename":"jei_1.9-3.3.3.200.jar",
+               "url":"https://edge.forgecdn.net/files/2299/283/jei_1.9-3.3.3.200.jar",
+               "sha1":"03f712e1e029efa46419d4040709a8009690b41e"
+            },
+            {
+               "id":"jei_1.8-2.14.0.139.jar",
+               "minecraft":"1.8",
+               "filename":"jei_1.8-2.14.0.139.jar",
+               "url":"https://edge.forgecdn.net/files/2273/901/jei_1.8-2.14.0.139.jar",
+               "sha1":"acb4f7cc448ac097824ab8594935245b57b12870"
+            },
+            {
+               "id":"JEI 2.12.0",
+               "minecraft":"1.8.8",
+               "filename":"jei_1.8.8-2.12.0.49.jar",
+               "url":"https://edge.forgecdn.net/files/2271/876/jei_1.8.8-2.12.0.49.jar",
+               "sha1":"0ceffcc20d8b9de55a9ddfa573858a24171d512a"
+            }
+         ]
+      },
+      {
+         "name":"Mouse Tweaks",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
+         "description-ru":"Enhances inventory management by adding various functions to the mouse buttons.",
+         "downloads":[
+            {
+               "id":"[1.19.4] Mouse Tweaks 2.24 Forge",
+               "minecraft":"1.19.4",
+               "filename":"MouseTweaks-forge-mc1.19.4-2.24.jar",
+               "url":"https://edge.forgecdn.net/files/4440/208/MouseTweaks-forge-mc1.19.4-2.24.jar",
+               "sha1":"09476b5eb00c3609e7898a8b35ce4c96fd6e1808"
+            },
+            {
+               "id":"[1.19.3] Mouse Tweaks 2.24 Forge",
+               "minecraft":"1.19.3",
+               "filename":"MouseTweaks-forge-mc1.19.3-2.24.jar",
+               "url":"https://edge.forgecdn.net/files/4226/357/MouseTweaks-forge-mc1.19.3-2.24.jar",
+               "sha1":"91582299dfdbcffda029c2c6f4096c68668daac5"
+            },
+            {
+               "id":"[b1.7.3] Mouse Tweaks 2.7.2.1",
+               "minecraft":"1.0.0",
+               "filename":"MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
+               "url":"https://edge.forgecdn.net/files/3924/803/MouseTweaks-ModLoader-mcb1.7.3-2.7.2.jar",
+               "sha1":"3642cfb9af5c6e04d3e7112fc5fbcc9c2566445c"
+            },
+            {
+               "id":"[1.19+] Mouse Tweaks 2.23 Forge",
+               "minecraft":"1.19.2",
+               "filename":"MouseTweaks-forge-mc1.19-2.23.jar",
+               "url":"https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar",
+               "sha1":"9d6e76a331c0598edb6293dc658af2d1672864b4"
+            },
+            {
+               "id":"[1.19] Mouse Tweaks 2.22 Forge",
+               "minecraft":"1.19",
+               "filename":"MouseTweaks-forge-mc1.19-2.22.jar",
+               "url":"https://edge.forgecdn.net/files/3828/447/MouseTweaks-forge-mc1.19-2.22.jar",
+               "sha1":"9852277d2537911e86917920fdb6b4400aec4018"
+            },
+            {
+               "id":"[1.18+] Mouse Tweaks 2.21 Forge",
+               "minecraft":"1.18.1",
+               "filename":"MouseTweaks-forge-mc1.18-2.21.jar",
+               "url":"https://edge.forgecdn.net/files/3578/801/MouseTweaks-forge-mc1.18-2.21.jar",
+               "sha1":"dc64a2a0df9b205114768a89482fe57ffac54143"
+            },
+            {
+               "id":" [1.18] Mouse Tweaks 2.16 Forge",
+               "minecraft":"1.18",
+               "filename":"MouseTweaks-forge-mc1.18-2.16.jar",
+               "url":"https://edge.forgecdn.net/files/3546/382/MouseTweaks-forge-mc1.18-2.16.jar",
+               "sha1":"ea3fb2bebbceb836093083f30646ed2f09d6b526"
+            },
+            {
+               "id":" [1.17.1] Mouse Tweaks 2.15 Forge",
+               "minecraft":"1.17.1",
+               "filename":"MouseTweaks-forge-mc1.17.1-2.15.jar",
+               "url":"https://edge.forgecdn.net/files/3515/478/MouseTweaks-forge-mc1.17.1-2.15.jar",
+               "sha1":"d7dcce119c43aff6d601f7cb05a0b7ca86620fe2"
+            },
+            {
+               "id":"[1.12.2] Mouse Tweaks 2.10.1",
+               "minecraft":"1.12.2",
+               "filename":"MouseTweaks-2.10.1-mc1.12.2.jar",
+               "url":"https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar",
+               "sha1":"17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
+            },
+            {
+               "id":"[1.10.2] Mouse Tweaks 2.8.1",
+               "minecraft":"1.10.2",
+               "filename":"MouseTweaks-2.8.1-mc1.10.2.jar",
+               "url":"https://edge.forgecdn.net/files/3305/503/MouseTweaks-2.8.1-mc1.10.2.jar",
+               "sha1":"1f5b49b14c27b519a91dd5ecdb29ee524cedbd53"
+            },
+            {
+               "id":"[1.16.2+] Mouse Tweaks 2.14",
+               "minecraft":"1.16.3",
+               "filename":"MouseTweaks-2.14-mc1.16.2.jar",
+               "url":"https://edge.forgecdn.net/files/3202/662/MouseTweaks-2.14-mc1.16.2.jar",
+               "sha1":"5f2366c650c102c71e98c9445f86a266ba20e1e4"
+            },
+            {
+               "id":"[1.16.1] Mouse Tweaks 2.13",
+               "minecraft":"1.16.1",
+               "filename":"MouseTweaks-2.13-mc1.16.1.jar",
+               "url":"https://edge.forgecdn.net/files/2989/354/MouseTweaks-2.13-mc1.16.1.jar",
+               "sha1":"2fd4f89d04df965d64bf4e4dfa853f19ae0abc24"
+            },
+            {
+               "id":"[1.15.1] Mouse Tweaks 2.13",
+               "minecraft":"1.15.2",
+               "filename":"MouseTweaks-2.13-mc1.15.1.jar",
+               "url":"https://edge.forgecdn.net/files/2849/221/MouseTweaks-2.13-mc1.15.1.jar",
+               "sha1":"fd0eae9285ddadbadade0d0704b3852e9cd41241"
+            },
+            {
+               "id":"[1.14.4] Mouse Tweaks 2.13",
+               "minecraft":"1.14.4",
+               "filename":"MouseTweaks-2.13-mc1.14.4.jar",
+               "url":"https://edge.forgecdn.net/files/2849/218/MouseTweaks-2.13-mc1.14.4.jar",
+               "sha1":"27d7e4a91210956a948051feb2120ea430917c1c"
+            },
+            {
+               "id":"[1.12] Mouse Tweaks 2.8",
+               "minecraft":"1.12",
+               "filename":"MouseTweaks-2.8-mc1.12.jar",
+               "url":"https://edge.forgecdn.net/files/2451/68/MouseTweaks-2.8-mc1.12.jar",
+               "sha1":"8349fa8b83ea0be59648739f1a1b0527068db6f5"
+            },
+            {
+               "id":"[1.11.2] Mouse Tweaks 2.8",
+               "minecraft":"1.11.2",
+               "filename":"MouseTweaks-2.8-mc1.11.2.jar",
+               "url":"https://edge.forgecdn.net/files/2388/577/MouseTweaks-2.8-mc1.11.2.jar",
+               "sha1":"cf38aafc772f29dba6a3c1934b01bf079c338524"
+            },
+            {
+               "id":"[1.2.5] Mouse Tweaks 2.7.2",
+               "minecraft":"1.2.5",
+               "filename":"MouseTweaks-2.7.2-mc1.2.5.jar",
+               "url":"https://edge.forgecdn.net/files/2385/397/MouseTweaks-2.7.2-mc1.2.5.jar",
+               "sha1":"7aa5cee1dd5ef2d9e6d62ece973ba0a2fc6bc9b2"
+            },
+            {
+               "id":"[1.8.8] Mouse Tweaks 2.7.1",
+               "minecraft":"1.8.8",
+               "filename":"MouseTweaks-2.7.1-mc1.8.8.jar",
+               "url":"https://edge.forgecdn.net/files/2385/53/MouseTweaks-2.7.1-mc1.8.8.jar",
+               "sha1":"85d8b4b955a56596a34cc5df7f28d605a64bad25"
+            },
+            {
+               "id":"[1.11] Mouse Tweaks 2.7",
+               "minecraft":"1.11",
+               "filename":"MouseTweaks-2.7-mc1.11.jar",
+               "url":"https://edge.forgecdn.net/files/2352/926/MouseTweaks-2.7-mc1.11.jar",
+               "sha1":"9cf86aab1958990f7dcc15ebade120f6d2c03ad3"
+            },
+            {
+               "id":"[1.9.4] Mouse Tweaks 2.6.3",
+               "minecraft":"1.9.4",
+               "filename":"MouseTweaks-2.6.3-mc1.9.4.jar",
+               "url":"https://edge.forgecdn.net/files/2304/74/MouseTweaks-2.6.3-mc1.9.4.jar",
+               "sha1":"0853d801aa6e838ae6c9b1e4640b8f585e06526c"
+            },
+            {
+               "id":"[1.9] Mouse Tweaks 2.6.2",
+               "minecraft":"1.9",
+               "filename":"MouseTweaks-2.6.2-mc1.9.jar",
+               "url":"https://edge.forgecdn.net/files/2289/943/MouseTweaks-2.6.2-mc1.9.jar",
+               "sha1":"8ffd4f1633e61960774684647b4543eb63315f1c"
+            },
+            {
+               "id":"[1.8.9] Mouse Tweaks 2.6.2",
+               "minecraft":"1.8.9",
+               "filename":"MouseTweaks-2.6.2-mc1.8.9.jar",
+               "url":"https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
+               "sha1":"46d91769523458413000cd1f5f9fe7824eb30187"
+            },
+            {
+               "id":"MouseTweaks-2.5.0-mc1.8.jar",
+               "minecraft":"1.8",
+               "filename":"MouseTweaks-2.5.0-mc1.8.jar",
+               "url":"https://edge.forgecdn.net/files/2227/489/MouseTweaks-2.5.0-mc1.8.jar",
+               "sha1":"f0441e6887583e96ec6fe45f15797507fce645bf"
+            },
+            {
+               "id":"MouseTweaks-2.4.4-mc1.7.10.jar",
+               "minecraft":"1.7.10",
+               "filename":"MouseTweaks-2.4.4-mc1.7.10.jar",
+               "url":"https://edge.forgecdn.net/files/2209/265/MouseTweaks-2.4.4-mc1.7.10.jar",
+               "sha1":"1fef53ebcd48f003fa0799de51e86ad113e3af7c"
+            },
+            {
+               "id":"MouseTweaks-2.4.3-mc1.7.2.jar",
+               "minecraft":"1.7.2",
+               "filename":"MouseTweaks-2.4.3-mc1.7.2.jar",
+               "url":"https://edge.forgecdn.net/files/2203/706/MouseTweaks-2.4.3-mc1.7.2.jar",
+               "sha1":"9f81f5d6da0f06037d6f47dc227f35e4dd7122f1"
+            },
+            {
+               "id":"_1.6.4__Mouse_Tweaks_2.3.4.zip",
+               "minecraft":"1.6.4",
+               "filename":"_1.6.4__Mouse_Tweaks_2.3.4.zip",
+               "url":"https://edge.forgecdn.net/files/741/576/_1.6.4__Mouse_Tweaks_2.3.4.zip",
+               "sha1":"27a069afee5b24691981115aba8f4bb0ac6dba6b"
+            },
+            {
+               "id":"_1.6.2__Mouse_Tweaks_2.3.3.zip",
+               "minecraft":"1.6.2",
+               "filename":"_1.6.2__Mouse_Tweaks_2.3.3.zip",
+               "url":"https://edge.forgecdn.net/files/729/154/_1.6.2__Mouse_Tweaks_2.3.3.zip",
+               "sha1":"38b847ee66b047e5049b525b2e0c55886fbdb211"
+            },
+            {
+               "id":"_1.5.2__Mouse_Tweaks_2.0.3.zip",
+               "minecraft":"1.5.2",
+               "filename":"_1.5.2__Mouse_Tweaks_2.0.3.zip",
+               "url":"https://edge.forgecdn.net/files/729/153/_1.5.2__Mouse_Tweaks_2.0.3.zip",
+               "sha1":"db7e256b102260ffea8ef271084320adf4702427"
+            },
+            {
+               "id":"_1.6.1__Mouse_Tweaks_2.1.zip",
+               "minecraft":"1.6.1",
+               "filename":"_1.6.1__Mouse_Tweaks_2.1.zip",
+               "url":"https://edge.forgecdn.net/files/716/261/_1.6.1__Mouse_Tweaks_2.1.zip",
+               "sha1":"ba6756fbd249afdd3f0c94ebe36e441143b2aead"
+            },
+            {
+               "id":"_1.5.1__Mouse_Tweaks_1.1c.zip",
+               "minecraft":"1.5.1",
+               "filename":"_1.5.1__Mouse_Tweaks_1.1c.zip",
+               "url":"https://edge.forgecdn.net/files/713/730/_1.5.1__Mouse_Tweaks_1.1c.zip",
+               "sha1":"3e4552c0fe8dfceae8c27b0a51da8192dbd8b339"
+            },
+            {
+               "id":"_1.5__Mouse_Tweaks_1.0c.zip",
+               "minecraft":"1.5.0",
+               "filename":"_1.5__Mouse_Tweaks_1.0c.zip",
+               "url":"https://edge.forgecdn.net/files/713/727/_1.5__Mouse_Tweaks_1.0c.zip",
+               "sha1":"ca608af824f223c782b74a08b864119283dd2ba6"
+            },
+            {
+               "id":"_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
+               "minecraft":"1.4.7",
+               "filename":"_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
+               "url":"https://edge.forgecdn.net/files/713/723/_1.4.7__Mouse_Tweaks_BETA_4.5.zip",
+               "sha1":"8c1cc20c3e8d404208f2cc2efc4c372f4cd9d26c"
+            },
+            {
+               "id":"_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
+               "minecraft":"1.4.6",
+               "filename":"_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
+               "url":"https://edge.forgecdn.net/files/713/722/_1.4.6_NoModloader__Mouse_Tweaks_BETA_3.zip",
+               "sha1":"74cfe708e6543359358c403ce87d113e90c7c6f4"
+            },
+            {
+               "id":"_1.4.2__Mouse_Tweaks_BETA_4.zip",
+               "minecraft":"1.4.2",
+               "filename":"_1.4.2__Mouse_Tweaks_BETA_4.zip",
+               "url":"https://edge.forgecdn.net/files/713/720/_1.4.2__Mouse_Tweaks_BETA_4.zip",
+               "sha1":"f44cfbe59568e8f040b58ac409cd84bc38ae2cc6"
+            }
+         ]
+      },
+      {
+         "name":"Architectury API (Fabric/Forge)",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
+         "description-ru":"An intermediary api aimed to ease developing multiplatform mods.",
+         "downloads":[
+            {
+               "id":"[Forge 1.19] v5.14.84",
+               "minecraft":"1.19",
+               "filename":"architectury-5.14.84-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4555/757/architectury-5.14.84-forge.jar",
+               "sha1":"ae05f50f22c973938b6b2911c4c093d0504a725c"
+            },
+            {
+               "id":"[Forge 1.19.3] v7.1.86",
+               "minecraft":"1.19.3",
+               "filename":"architectury-7.1.86-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4555/756/architectury-7.1.86-forge.jar",
+               "sha1":"c5b67433970d33c0c35887cdfc3ffc84f97189e4"
+            },
+            {
+               "id":"[Forge 1.19.4] v8.1.87",
+               "minecraft":"1.19.4",
+               "filename":"architectury-8.1.87-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4555/753/architectury-8.1.87-forge.jar",
+               "sha1":"2a7b998df31f475fc5d383b7f2d1445df3eecae8"
+            },
+            {
+               "id":"[Forge 1.19.2] v6.5.85",
+               "minecraft":"1.19.2",
+               "filename":"architectury-6.5.85-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4555/749/architectury-6.5.85-forge.jar",
+               "sha1":"10b119c2e574b30a9f097e85c26aae867789d2b4"
+            },
+            {
+               "id":"[Forge 1.18.2] v4.11.93",
+               "minecraft":"1.18.2",
+               "filename":"architectury-4.11.93-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4521/465/architectury-4.11.93-forge.jar",
+               "sha1":"745f674393a9d5827ee92fcd5c6c350c9aeeed97"
+            },
+            {
+               "id":"[Forge 1.16.5] v1.32.68",
+               "minecraft":"1.16.5",
+               "filename":"architectury-1.32.68.jar",
+               "url":"https://edge.forgecdn.net/files/4521/290/architectury-1.32.68.jar",
+               "sha1":"ebd266dd51de8f4dd99c9b4731e35b8340734cda"
+            },
+            {
+               "id":"[Forge 1.19.1] v6.0.35",
+               "minecraft":"1.19.1",
+               "filename":"architectury-6.0.35-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3909/773/architectury-6.0.35-forge.jar",
+               "sha1":"20ff2e508a26511d67c8402ddc8d231a4888fe65"
+            },
+            {
+               "id":"[Forge 1.17.1] v2.10.12",
+               "minecraft":"1.17.1",
+               "filename":"architectury-2.10.12.jar",
+               "url":"https://edge.forgecdn.net/files/3807/18/architectury-2.10.12.jar",
+               "sha1":"28d2afcf0dafae570803e37dbc00b405ae589898"
+            },
+            {
+               "id":"[Forge 1.18(.1)] v3.9.66",
+               "minecraft":"1.18.1",
+               "filename":"architectury-3.9.66.jar",
+               "url":"https://edge.forgecdn.net/files/3807/4/architectury-3.9.66.jar",
+               "sha1":"91032682b0982cb94531bdfd2e3640f31d57d7c3"
+            },
+            {
+               "id":"[Forge 1.18] v3.2.56",
+               "minecraft":"1.18",
+               "filename":"architectury-3.2.56.jar",
+               "url":"https://edge.forgecdn.net/files/3573/782/architectury-3.2.56.jar",
+               "sha1":"85a88cf45e4818cda25e87cde6043197db3ee4d7"
+            },
+            {
+               "id":"[Forge 1.16.4] v1.3.85",
+               "minecraft":"1.16.4",
+               "filename":"architectury-1.3.85-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3176/71/architectury-1.3.85-forge.jar",
+               "sha1":"c9b6f09e5d5eba5d8e2a1fb032925f41277bb973"
+            }
+         ]
+      },
+      {
+         "name":"Controlling",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+         "description-ru":"Adds a search bar to the Key-Bindings menu",
+         "downloads":[
+            {
+               "id":"Controlling-forge-1.19.4-11.1.5.jar",
+               "minecraft":"1.19.4",
+               "filename":"Controlling-forge-1.19.4-11.1.5.jar",
+               "url":"https://edge.forgecdn.net/files/4555/839/Controlling-forge-1.19.4-11.1.5.jar",
+               "sha1":"93d9b1a1f68675358697bdf67246c3b1377aa8af"
+            },
+            {
+               "id":"Controlling-forge-1.19.3-10.0+2.jar",
+               "minecraft":"1.19.3",
+               "filename":"Controlling-forge-1.19.3-10.0+2.jar",
+               "url":"https://edge.forgecdn.net/files/4555/837/Controlling-forge-1.19.3-10.0+2.jar",
+               "sha1":"8009c5f65d6ec8c057dd441ec39d75fc6b54c471"
+            },
+            {
+               "id":"Controlling-forge-1.18.2-9.0+23.jar",
+               "minecraft":"1.18.2",
+               "filename":"Controlling-forge-1.18.2-9.0+23.jar",
+               "url":"https://edge.forgecdn.net/files/4555/742/Controlling-forge-1.18.2-9.0+23.jar",
+               "sha1":"9f723b4a612ae712cafd9b50e24f38328b12e650"
+            },
+            {
+               "id":"Controlling-3.0.12.2.jar",
+               "minecraft":"1.12.2",
+               "filename":"Controlling-3.0.12.2.jar",
+               "url":"https://edge.forgecdn.net/files/4428/378/Controlling-3.0.12.2.jar",
+               "sha1":"64e791db7eaf3577223a708df0325f07762bd059"
+            },
+            {
+               "id":"Controlling-7.0.0.29.jar",
+               "minecraft":"1.16.5",
+               "filename":"Controlling-7.0.0.29.jar",
+               "url":"https://edge.forgecdn.net/files/4421/16/Controlling-7.0.0.29.jar",
+               "sha1":"38fb1a85b18941f333bc9fec33f7c20c17bdc99e"
+            },
+            {
+               "id":"Controlling-forge-1.17.1-8.0.12.jar",
+               "minecraft":"1.17.1",
+               "filename":"Controlling-forge-1.17.1-8.0.12.jar",
+               "url":"https://edge.forgecdn.net/files/4351/209/Controlling-forge-1.17.1-8.0.12.jar",
+               "sha1":"26a3740119ade725571ac4baf191e99c374540d1"
+            },
+            {
+               "id":"Controlling-1.7.10-1.0.0.4.jar",
+               "minecraft":"1.7.10",
+               "filename":"Controlling-1.7.10-1.0.0.4.jar",
+               "url":"https://edge.forgecdn.net/files/4173/844/Controlling-1.7.10-1.0.0.4.jar",
+               "sha1":"3a816187749c6bbbff25259efbc538c8ddc6ecba"
+            },
+            {
+               "id":"Controlling-forge-1.19.2-10.0+7.jar",
+               "minecraft":"1.19.2",
+               "filename":"Controlling-forge-1.19.2-10.0+7.jar",
+               "url":"https://edge.forgecdn.net/files/4050/343/Controlling-forge-1.19.2-10.0+7.jar",
+               "sha1":"d4f0dd0adc62ef695fbf52df5ad92e9c888082a0"
+            },
+            {
+               "id":"Controlling-forge-1.19.1-10.0+4.jar",
+               "minecraft":"1.19.1",
+               "filename":"Controlling-forge-1.19.1-10.0+4.jar",
+               "url":"https://edge.forgecdn.net/files/3904/534/Controlling-forge-1.19.1-10.0+4.jar",
+               "sha1":"b742c881d2b4c689e8d20534d4bd4f78832d60f2"
+            },
+            {
+               "id":"Controlling-forge-1.19-10.0+3.jar",
+               "minecraft":"1.19",
+               "filename":"Controlling-forge-1.19-10.0+3.jar",
+               "url":"https://edge.forgecdn.net/files/3868/567/Controlling-forge-1.19-10.0+3.jar",
+               "sha1":"3f91aa2e9ddc93fc7b201f4897ca16d6422f701a"
+            },
+            {
+               "id":"Controlling-7.0.0.1.jar",
+               "minecraft":"1.8.9",
+               "filename":"Controlling-7.0.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/3810/294/Controlling-7.0.0.1.jar",
+               "sha1":"a4a92f90a04ac4feed6658cd52f2f1efc06552c7"
+            },
+            {
+               "id":"Controlling-forge-1.18.1-9.0+15.jar",
+               "minecraft":"1.18.1",
+               "filename":"Controlling-forge-1.18.1-9.0+15.jar",
+               "url":"https://edge.forgecdn.net/files/3648/602/Controlling-forge-1.18.1-9.0+15.jar",
+               "sha1":"09fb2e571cafe95e2665b3d5093d1aa1b97e6d53"
+            },
+            {
+               "id":"Controlling-forge-1.18-9.0.4.jar",
+               "minecraft":"1.18",
+               "filename":"Controlling-forge-1.18-9.0.4.jar",
+               "url":"https://edge.forgecdn.net/files/3548/955/Controlling-forge-1.18-9.0.4.jar",
+               "sha1":"18fcf4429848163909f79e251af84a0b8cb77f2f"
+            },
+            {
+               "id":"Controlling-7.0.0.11.jar",
+               "minecraft":"1.16.4",
+               "filename":"Controlling-7.0.0.11.jar",
+               "url":"https://edge.forgecdn.net/files/3110/995/Controlling-7.0.0.11.jar",
+               "sha1":"d7d04f585795b3d3040a6ad863a8737cf2efa6ac"
+            },
+            {
+               "id":"Controlling-7.0.0.9.jar",
+               "minecraft":"1.16.3",
+               "filename":"Controlling-7.0.0.9.jar",
+               "url":"https://edge.forgecdn.net/files/3097/267/Controlling-7.0.0.9.jar",
+               "sha1":"39e3aee27d2c727b8755efc3c31993181f9722e3"
+            },
+            {
+               "id":"Controlling-7.0.0.4.jar",
+               "minecraft":"1.16.2",
+               "filename":"Controlling-7.0.0.4.jar",
+               "url":"https://edge.forgecdn.net/files/3037/855/Controlling-7.0.0.4.jar",
+               "sha1":"30f5bc10a6daf443eb232034dff682262ffa2716"
+            },
+            {
+               "id":"Controlling-7.0.0.3.jar",
+               "minecraft":"1.16.1",
+               "filename":"Controlling-7.0.0.3.jar",
+               "url":"https://edge.forgecdn.net/files/3019/836/Controlling-7.0.0.3.jar",
+               "sha1":"351178cb02120e3c27c50600c7741fe0af7c6675"
+            },
+            {
+               "id":"Controlling-6.1.5.6.jar",
+               "minecraft":"1.15.2",
+               "filename":"Controlling-6.1.5.6.jar",
+               "url":"https://edge.forgecdn.net/files/2994/774/Controlling-6.1.5.6.jar",
+               "sha1":"232aa6369debb19f943e9dcea5204778569d9fdc"
+            },
+            {
+               "id":"Controlling-5.0.7",
+               "minecraft":"1.14.4",
+               "filename":"Controlling-5.0.7.jar",
+               "url":"https://edge.forgecdn.net/files/2925/544/Controlling-5.0.7.jar",
+               "sha1":"d9d5982c38421fcaa246ee499a3720f02fe16426"
+            },
+            {
+               "id":"Controlling-6.0.0",
+               "minecraft":"1.15.1",
+               "filename":"Controlling-6.0.0.jar",
+               "url":"https://edge.forgecdn.net/files/2857/52/Controlling-6.0.0.jar",
+               "sha1":"daad6d2ccc94ce096d15b02ded5f3613a8eb412a"
+            },
+            {
+               "id":"Controlling-2.0.6",
+               "minecraft":"1.11.2",
+               "filename":"Controlling-2.0.6.jar",
+               "url":"https://edge.forgecdn.net/files/2731/316/Controlling-2.0.6.jar",
+               "sha1":"3fa5e8e626699d2f8443c84a131197395de5bdd4"
+            },
+            {
+               "id":"Controlling-5.0.2",
+               "minecraft":"1.14.2",
+               "filename":"Controlling-5.0.2.jar",
+               "url":"https://edge.forgecdn.net/files/2729/302/Controlling-5.0.2.jar",
+               "sha1":"c58eeb7255889acd01b55175eb8f4705f084e730"
+            },
+            {
+               "id":"Controlling-4.0.1",
+               "minecraft":"1.13.2",
+               "filename":"Controlling-4.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/2674/853/Controlling-4.0.1.jar",
+               "sha1":"57bd1ae2ab0615a01d9cd0cbc53d71b956f7aac6"
+            },
+            {
+               "id":"Controlling-4.0.0",
+               "minecraft":"1.13",
+               "filename":"Controlling-4.0.0.jar",
+               "url":"https://edge.forgecdn.net/files/2650/143/Controlling-4.0.0.jar",
+               "sha1":"684bbe07205d5b41c2f5af260bf906a3aefe2283"
+            },
+            {
+               "id":"Controlling-3.0.2",
+               "minecraft":"1.12",
+               "filename":"Controlling-3.0.2.jar",
+               "url":"https://edge.forgecdn.net/files/2459/296/Controlling-3.0.2.jar",
+               "sha1":"faaa9affbc6973a8e1d36bb922e9f18d2ce5f567"
+            },
+            {
+               "id":"Controlling-1.0.5",
+               "minecraft":"1.10.2",
+               "filename":"Controlling-1.0.5.jar",
+               "url":"https://edge.forgecdn.net/files/2442/755/Controlling-1.0.5.jar",
+               "sha1":"b5b65f81c844b7095bc285d1a1da94850019e6dc"
+            }
+         ]
+      },
+      {
+         "name":"Bookshelf",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/197/186/256/256/636890440894617244.png",
+         "description-ru":"An open source library for other mods!",
+         "downloads":[
+            {
+               "id":"Bookshelf-Forge-1.18.2-13.3.56.jar",
+               "minecraft":"1.18.2",
+               "filename":"Bookshelf-Forge-1.18.2-13.3.56.jar",
+               "url":"https://edge.forgecdn.net/files/4556/713/Bookshelf-Forge-1.18.2-13.3.56.jar",
+               "sha1":"0cf509eb57d754d83a844ffeb09c555f4da4c953"
+            },
+            {
+               "id":"Bookshelf-Forge-1.19.2-16.3.20.jar",
+               "minecraft":"1.19.2",
+               "filename":"Bookshelf-Forge-1.19.2-16.3.20.jar",
+               "url":"https://edge.forgecdn.net/files/4556/697/Bookshelf-Forge-1.19.2-16.3.20.jar",
+               "sha1":"0129da71db70f19703cd594d6d931b465e6a963f"
+            },
+            {
+               "id":"Bookshelf-Forge-1.19.4-18.0.4.jar",
+               "minecraft":"1.19.4",
+               "filename":"Bookshelf-Forge-1.19.4-18.0.4.jar",
+               "url":"https://edge.forgecdn.net/files/4532/433/Bookshelf-Forge-1.19.4-18.0.4.jar",
+               "sha1":"01cbee94183519dc0f3ad8bfc48ad6467020e90d"
+            },
+            {
+               "id":"Bookshelf-Forge-1.19.3-17.1.6.jar",
+               "minecraft":"1.19.3",
+               "filename":"Bookshelf-Forge-1.19.3-17.1.6.jar",
+               "url":"https://edge.forgecdn.net/files/4438/834/Bookshelf-Forge-1.19.3-17.1.6.jar",
+               "sha1":"53c8d1142d960a9cbf84669b56aeafcc6d25111b"
+            },
+            {
+               "id":"Bookshelf-Forge-1.16.5-10.4.33.jar",
+               "minecraft":"1.16.5",
+               "filename":"Bookshelf-Forge-1.16.5-10.4.33.jar",
+               "url":"https://edge.forgecdn.net/files/4351/252/Bookshelf-Forge-1.16.5-10.4.33.jar",
+               "sha1":"9d8ae731be2dd554968213224a74ad58f2e5cad0"
+            },
+            {
+               "id":"Bookshelf-Forge-1.19.1-15.0.1.jar",
+               "minecraft":"1.19.1",
+               "filename":"Bookshelf-Forge-1.19.1-15.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/3903/486/Bookshelf-Forge-1.19.1-15.0.1.jar",
+               "sha1":"173021a6a94eaa24b16412625a8afedaf218e732"
+            },
+            {
+               "id":"Bookshelf-Forge-1.19-14.2.10.jar",
+               "minecraft":"1.19",
+               "filename":"Bookshelf-Forge-1.19-14.2.10.jar",
+               "url":"https://edge.forgecdn.net/files/3901/609/Bookshelf-Forge-1.19-14.2.10.jar",
+               "sha1":"9920ee915db3da1296174dc950d9ce74e5071cd5"
+            },
+            {
+               "id":"Bookshelf-Forge-1.18.1-12.0.23.jar",
+               "minecraft":"1.18.1",
+               "filename":"Bookshelf-Forge-1.18.1-12.0.23.jar",
+               "url":"https://edge.forgecdn.net/files/3712/13/Bookshelf-Forge-1.18.1-12.0.23.jar",
+               "sha1":"0ceaf0cd2cc6e0a36a3088cd39c3b55dfb01a64b"
+            },
+            {
+               "id":"Bookshelf-Forge-1.17.1-11.0.3.jar",
+               "minecraft":"1.17.1",
+               "filename":"Bookshelf-Forge-1.17.1-11.0.3.jar",
+               "url":"https://edge.forgecdn.net/files/3596/660/Bookshelf-Forge-1.17.1-11.0.3.jar",
+               "sha1":"74be46ad6b40f3d41609ff2a219d1b5836ce3d45"
+            },
+            {
+               "id":"Bookshelf-1.16.4-9.3.25.jar",
+               "minecraft":"1.16.4",
+               "filename":"Bookshelf-1.16.4-9.3.25.jar",
+               "url":"https://edge.forgecdn.net/files/3167/277/Bookshelf-1.16.4-9.3.25.jar",
+               "sha1":"751e9c0d568010385fd1b12c3c4bbe401fdd7d18"
+            },
+            {
+               "id":"Bookshelf-1.16.3-8.7.20.jar",
+               "minecraft":"1.16.3",
+               "filename":"Bookshelf-1.16.3-8.7.20.jar",
+               "url":"https://edge.forgecdn.net/files/3090/977/Bookshelf-1.16.3-8.7.20.jar",
+               "sha1":"a10547256a2c36379a3f3af049b802ba72dbe44b"
+            },
+            {
+               "id":"Bookshelf-1.16.2-7.0.11.jar",
+               "minecraft":"1.16.2",
+               "filename":"Bookshelf-1.16.2-7.0.11.jar",
+               "url":"https://edge.forgecdn.net/files/3049/367/Bookshelf-1.16.2-7.0.11.jar",
+               "sha1":"bce7f5a1b925435308196ec0be5bd2a3e9533007"
+            },
+            {
+               "id":"Bookshelf-1.16.1-6.3.21.jar",
+               "minecraft":"1.16.1",
+               "filename":"Bookshelf-1.16.1-6.3.21.jar",
+               "url":"https://edge.forgecdn.net/files/3033/835/Bookshelf-1.16.1-6.3.21.jar",
+               "sha1":"fcb584f6e8741fbc45252788712c43a10b0adc91"
+            },
+            {
+               "id":"Bookshelf-1.15.2-5.6.40.jar",
+               "minecraft":"1.15.2",
+               "filename":"Bookshelf-1.15.2-5.6.40.jar",
+               "url":"https://edge.forgecdn.net/files/2965/233/Bookshelf-1.15.2-5.6.40.jar",
+               "sha1":"01aed182efae4bb84415fbfc29b708aee561139a"
+            },
+            {
+               "id":"Bookshelf-1.14.4-4.4.74.jar",
+               "minecraft":"1.14.4",
+               "filename":"Bookshelf-1.14.4-4.4.74.jar",
+               "url":"https://edge.forgecdn.net/files/2939/801/Bookshelf-1.14.4-4.4.74.jar",
+               "sha1":"1eecef2b0e82287822822779a926f637f9b87673"
+            },
+            {
+               "id":"Bookshelf-1.12.2-2.3.590.jar",
+               "minecraft":"1.12.2",
+               "filename":"Bookshelf-1.12.2-2.3.590.jar",
+               "url":"https://edge.forgecdn.net/files/2836/960/Bookshelf-1.12.2-2.3.590.jar",
+               "sha1":"83a1864dd78f48102609849dd36866d6cf32b907"
+            },
+            {
+               "id":"Bookshelf-1.13.2-3.0.20.jar",
+               "minecraft":"1.13.2",
+               "filename":"Bookshelf-1.13.2-3.0.20.jar",
+               "url":"https://edge.forgecdn.net/files/2757/474/Bookshelf-1.13.2-3.0.20.jar",
+               "sha1":"7d03584cb4cb3c532dd72bab7c968a9dfd176a4a"
+            },
+            {
+               "id":"Bookshelf-1.14.3-4.1.32.jar",
+               "minecraft":"1.14.3",
+               "filename":"Bookshelf-1.14.3-4.1.32.jar",
+               "url":"https://edge.forgecdn.net/files/2745/33/Bookshelf-1.14.3-4.1.32.jar",
+               "sha1":"cedfa0c4dea89ad810a8f8a7dab11169fd7739af"
+            },
+            {
+               "id":"Bookshelf-1.14.2-4.0.14.jar",
+               "minecraft":"1.14.2",
+               "filename":"Bookshelf-1.14.2-4.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2729/574/Bookshelf-1.14.2-4.0.14.jar",
+               "sha1":"79c3212fd2f8dc59131e53b7d73d219539d1fcab"
+            },
+            {
+               "id":"Bookshelf-1.10.2-1.4.4.final.1.jar",
+               "minecraft":"1.10.2",
+               "filename":"Bookshelf-1.10.2-1.4.4.final.1.jar",
+               "url":"https://edge.forgecdn.net/files/2650/707/Bookshelf-1.10.2-1.4.4.final.1.jar",
+               "sha1":"2cfb9c225fc759d64b612f0dde6e502d817f8bec"
+            },
+            {
+               "id":"Bookshelf-1.12.1-2.1.441.jar",
+               "minecraft":"1.12.1",
+               "filename":"Bookshelf-1.12.1-2.1.441.jar",
+               "url":"https://edge.forgecdn.net/files/2481/208/Bookshelf-1.12.1-2.1.441.jar",
+               "sha1":"cd0bac2e144e52ff82476c21af468e9f3c32ef83"
+            },
+            {
+               "id":"Bookshelf-1.12-2.0.0.421.jar",
+               "minecraft":"1.12",
+               "filename":"Bookshelf-1.12-2.0.0.421.jar",
+               "url":"https://edge.forgecdn.net/files/2464/709/Bookshelf-1.12-2.0.0.421.jar",
+               "sha1":"3f9fd1d40a9b54682329ea9278403e2342e6809d"
+            },
+            {
+               "id":"Bookshelf-1.11.2-2.0.0.388.jar",
+               "minecraft":"1.11.2",
+               "filename":"Bookshelf-1.11.2-2.0.0.388.jar",
+               "url":"https://edge.forgecdn.net/files/2433/494/Bookshelf-1.11.2-2.0.0.388.jar",
+               "sha1":"123fabb44bcac1cf717f738cc35d26015ddf24e9"
+            },
+            {
+               "id":"Bookshelf-1.10-1.3.0.280.jar",
+               "minecraft":"1.10",
+               "filename":"Bookshelf-1.10-1.3.0.280.jar",
+               "url":"https://edge.forgecdn.net/files/2310/216/Bookshelf-1.10-1.3.0.280.jar",
+               "sha1":"d81cb39d8418bf04ab8a1d8092085e404d13042b"
+            },
+            {
+               "id":"Bookshelf-1.9.4-1.2.3.279.jar",
+               "minecraft":"1.9.4",
+               "filename":"Bookshelf-1.9.4-1.2.3.279.jar",
+               "url":"https://edge.forgecdn.net/files/2310/205/Bookshelf-1.9.4-1.2.3.279.jar",
+               "sha1":"92f272a5d7d83502eb18c3d5c4d6029fbd195931"
+            },
+            {
+               "id":"Bookshelf-1.9-1.2.0.243.jar",
+               "minecraft":"1.9",
+               "filename":"Bookshelf-1.9-1.2.0.243.jar",
+               "url":"https://edge.forgecdn.net/files/2301/27/Bookshelf-1.9-1.2.0.243.jar",
+               "sha1":"ef330a0c28cd6231a5a3ade967f2ce5ee95d3d6b"
+            },
+            {
+               "id":"Bookshelf-1.8.9-1.1.2.207.jar",
+               "minecraft":"1.8.9",
+               "filename":"Bookshelf-1.8.9-1.1.2.207.jar",
+               "url":"https://edge.forgecdn.net/files/2285/982/Bookshelf-1.8.9-1.1.2.207.jar",
+               "sha1":"3e0198859446097c512db3d1f54b678a396e1fb3"
+            },
+            {
+               "id":"Bookshelf-1.7.10-1.0.4.187.jar",
+               "minecraft":"1.7.10",
+               "filename":"Bookshelf-1.7.10-1.0.4.187.jar",
+               "url":"https://edge.forgecdn.net/files/2278/984/Bookshelf-1.7.10-1.0.4.187.jar",
+               "sha1":"7350f513ff0a4e2fb855dcfbac1df6c17f0af401"
+            }
+         ]
+      },
+      {
+         "name":"Cloth Config API (Fabric/Forge)",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
+         "description-ru":"Config Screen API for Minecraft",
+         "downloads":[
+            {
+               "id":"[Forge 1.19.4] v10.0.96",
+               "minecraft":"1.19.4",
+               "filename":"cloth-config-10.0.96-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4440/461/cloth-config-10.0.96-forge.jar",
+               "sha1":"e01fda3ea6d685a8757a0550385f723de2cbaf02"
+            },
+            {
+               "id":"[Forge 1.19.3] v9.0.94",
+               "minecraft":"1.19.3",
+               "filename":"cloth-config-9.0.94-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4147/99/cloth-config-9.0.94-forge.jar",
+               "sha1":"e20b2f3ff7a03cfe8e9b500fdb2d3a97f90ab773"
+            },
+            {
+               "id":"[Forge 1.18.x] v6.4.90",
+               "minecraft":"1.18.1",
+               "filename":"cloth-config-6.4.90-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3972/426/cloth-config-6.4.90-forge.jar",
+               "sha1":"75e5461d9adef754ed77352b520ce44e7bd1ef5b"
+            },
+            {
+               "id":"[Forge 1.19-1.19.2] v8.2.88",
+               "minecraft":"1.19.2",
+               "filename":"cloth-config-8.2.88-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3972/423/cloth-config-8.2.88-forge.jar",
+               "sha1":"fbd645755abc0dbe5eb1adeb5e649835294a769f"
+            },
+            {
+               "id":"[Forge 1.16.4/5] v4.16.91",
+               "minecraft":"1.16.5",
+               "filename":"cloth-config-4.16.91-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3972/422/cloth-config-4.16.91-forge.jar",
+               "sha1":"422e4f65872bf8babfa139094b7cb242e9f9f434"
+            },
+            {
+               "id":"[Forge 1.19] v7.0.74",
+               "minecraft":"1.19",
+               "filename":"cloth-config-7.0.74-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3906/378/cloth-config-7.0.74-forge.jar",
+               "sha1":"ea06b650a916bddc59e0cbe122245307e14ec2e8"
+            },
+            {
+               "id":"[Forge 1.17(.1)] v5.3.63",
+               "minecraft":"1.17.1",
+               "filename":"cloth-config-5.3.63-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3782/782/cloth-config-5.3.63-forge.jar",
+               "sha1":"1a8c592dfcfd691c326525288e3bcc275f8118d9"
+            },
+            {
+               "id":"[Forge 1.18(.1)] v6.2.51",
+               "minecraft":"1.18",
+               "filename":"cloth-config-6.2.51-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3641/41/cloth-config-6.2.51-forge.jar",
+               "sha1":"4f7a5f5ce554bfa59396add13270ac2b4e125dd6"
+            },
+            {
+               "id":"[Forge 1.16.2/3/4/5] v4.1.3",
+               "minecraft":"1.16.3",
+               "filename":"cloth-config-forge-4.1.3.jar",
+               "url":"https://edge.forgecdn.net/files/3155/284/cloth-config-forge-4.1.3.jar",
+               "sha1":"c87526137f193cec232323d849071a2e65b44eb4"
+            },
+            {
+               "id":"[Forge 1.16.x] v4.0.2",
+               "minecraft":"1.16.1",
+               "filename":"cloth-config-forge-4.0.2.jar",
+               "url":"https://edge.forgecdn.net/files/3005/595/cloth-config-forge-4.0.2.jar",
+               "sha1":"a83f30daa6286b34ffab692405529c0c826e1376"
+            },
+            {
+               "id":"[Forge 1.16.x] ClothConfig2-4.0",
+               "minecraft":"1.16-Snapshot",
+               "filename":"cloth-config-forge-4.0.jar",
+               "url":"https://edge.forgecdn.net/files/2989/552/cloth-config-forge-4.0.jar",
+               "sha1":"8b7d316ec66b0051caa75535249e3d3876b6ffca"
+            },
+            {
+               "id":"[Forge 1.15.x] ClothConfig2-3.0",
+               "minecraft":"1.15-Snapshot",
+               "filename":"config-2-3.0.jar",
+               "url":"https://edge.forgecdn.net/files/2938/583/config-2-3.0.jar",
+               "sha1":"f8943864fa3cf71e4ef9685e64f5bb4c131e8638"
+            },
+            {
+               "id":"[Forge 1.14.x] ClothConfig2-1.4.1",
+               "minecraft":"1.14.4",
+               "filename":"ClothConfig2-1.4.1.jar",
+               "url":"https://edge.forgecdn.net/files/2813/656/ClothConfig2-1.4.1.jar",
+               "sha1":"fa057f76c84e8c37d00078fc6478beba953c4ec9"
+            }
+         ]
+      },
+      {
+         "name":"AppleSkin",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+         "description-ru":"Adds some useful information about food/hunger to the HUD",
+         "downloads":[
+            {
+               "id":"appleskin-forge-mc1.19.4-2.4.3.jar",
+               "minecraft":"1.19.4",
+               "filename":"appleskin-forge-mc1.19.4-2.4.3.jar",
+               "url":"https://edge.forgecdn.net/files/4440/123/appleskin-forge-mc1.19.4-2.4.3.jar",
+               "sha1":"48aa6ecd77daa43fc69bc92815ff5e9a134c58fd"
+            },
+            {
+               "id":"appleskin-forge-mc1.18.2-2.4.1.jar",
+               "minecraft":"1.18.2",
+               "filename":"appleskin-forge-mc1.18.2-2.4.1.jar",
+               "url":"https://edge.forgecdn.net/files/3927/564/appleskin-forge-mc1.18.2-2.4.1.jar",
+               "sha1":"6fa3d2485e3a7b416470ad5a3c708f1ce366195c"
+            },
+            {
+               "id":"appleskin-forge-mc1.19-2.4.2.jar",
+               "minecraft":"1.19.3",
+               "filename":"appleskin-forge-mc1.19-2.4.2.jar",
+               "url":"https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar",
+               "sha1":"20f4e36e5c78bdef303683ccb96d77b2036da3ce"
+            },
+            {
+               "id":"appleskin-forge-mc1.19-2.4.1.jar",
+               "minecraft":"1.19",
+               "filename":"appleskin-forge-mc1.19-2.4.1.jar",
+               "url":"https://edge.forgecdn.net/files/3871/309/appleskin-forge-mc1.19-2.4.1.jar",
+               "sha1":"27578947848274067878778ca5c07811a0289d40"
+            },
+            {
+               "id":"appleskin-forge-mc1.18-2.4.0.jar",
+               "minecraft":"1.18.1",
+               "filename":"appleskin-forge-mc1.18-2.4.0.jar",
+               "url":"https://edge.forgecdn.net/files/3686/482/appleskin-forge-mc1.18-2.4.0.jar",
+               "sha1":"36c297edae79cd9c33ce3cdb2230bc36fd9523f0"
+            },
+            {
+               "id":"appleskin-forge-mc1.17.1-2.4.0.jar",
+               "minecraft":"1.17.1",
+               "filename":"appleskin-forge-mc1.17.1-2.4.0.jar",
+               "url":"https://edge.forgecdn.net/files/3686/481/appleskin-forge-mc1.17.1-2.4.0.jar",
+               "sha1":"54c958aac02fb42886410b8407a665eb71ce5802"
+            },
+            {
+               "id":"appleskin-forge-mc1.16.x-2.4.0.jar",
+               "minecraft":"1.16.5",
+               "filename":"appleskin-forge-mc1.16.x-2.4.0.jar",
+               "url":"https://edge.forgecdn.net/files/3686/480/appleskin-forge-mc1.16.x-2.4.0.jar",
+               "sha1":"556ba3ebdb401e0833e7151e7a7bca5f8fdac160"
+            },
+            {
+               "id":"AppleSkin-mc1.16.2-forge-1.0.14.jar",
+               "minecraft":"1.16.3",
+               "filename":"AppleSkin-mc1.16.2-forge-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/3035/787/AppleSkin-mc1.16.2-forge-1.0.14.jar",
+               "sha1":"d0e2d9d9bf17806d3fbd263a8702822ab33edeb1"
+            },
+            {
+               "id":"AppleSkin-mc1.16.1-forge-1.0.14.jar",
+               "minecraft":"1.16.1",
+               "filename":"AppleSkin-mc1.16.1-forge-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2997/288/AppleSkin-mc1.16.1-forge-1.0.14.jar",
+               "sha1":"b427c5d73e1e737da022a0edececd47f44e69991"
+            },
+            {
+               "id":"AppleSkin-mc1.15.2-forge-1.0.14.jar",
+               "minecraft":"1.15.2",
+               "filename":"AppleSkin-mc1.15.2-forge-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/251/AppleSkin-mc1.15.2-forge-1.0.14.jar",
+               "sha1":"1f0e57628fb847ffd826ba3d31c19093e98cea4c"
+            },
+            {
+               "id":"AppleSkin-mc1.14.4-forge-1.0.14.jar",
+               "minecraft":"1.14.4",
+               "filename":"AppleSkin-mc1.14.4-forge-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/250/AppleSkin-mc1.14.4-forge-1.0.14.jar",
+               "sha1":"1c9dd6d93f686820441f27fabfb10ebcb44c1adb"
+            },
+            {
+               "id":"AppleSkin-mc1.13.2-1.0.14.jar",
+               "minecraft":"1.13.2",
+               "filename":"AppleSkin-mc1.13.2-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/248/AppleSkin-mc1.13.2-1.0.14.jar",
+               "sha1":"5cdf49369e5d6d9a893aeff18606cad469136713"
+            },
+            {
+               "id":"AppleSkin-mc1.12-1.0.14.jar",
+               "minecraft":"1.12.1",
+               "filename":"AppleSkin-mc1.12-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar",
+               "sha1":"d798af79de48be0f00c772943e5ec5a2fb5659fa"
+            },
+            {
+               "id":"AppleSkin-mc1.11-1.0.14.jar",
+               "minecraft":"1.11.2",
+               "filename":"AppleSkin-mc1.11-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/246/AppleSkin-mc1.11-1.0.14.jar",
+               "sha1":"54dff307129303837c3b06c986a6f3674223b3bc"
+            },
+            {
+               "id":"AppleSkin-mc1.10.2-1.0.14.jar",
+               "minecraft":"1.10.2",
+               "filename":"AppleSkin-mc1.10.2-1.0.14.jar",
+               "url":"https://edge.forgecdn.net/files/2987/245/AppleSkin-mc1.10.2-1.0.14.jar",
+               "sha1":"79552d18fa0333673bd53a4f6592544da83b617a"
+            },
+            {
+               "id":"appleskin-mc1.14-fabric-1.0.4.jar",
+               "minecraft":"1.14-Snapshot",
+               "filename":"appleskin-mc1.14-fabric-1.0.4.jar",
+               "url":"https://edge.forgecdn.net/files/2694/15/appleskin-mc1.14-fabric-1.0.4.jar",
+               "sha1":"008f3a914d99490b27cee4b271d3d3944d0c2c5d"
+            }
+         ]
+      },
+      {
+         "name":"GeckoLib",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/610/296/256/256/637992132031410062.png",
+         "description-ru":"A 3D animation library for entities, blocks, items, armor, and more!",
+         "downloads":[
+            {
+               "id":"geckolib-forge-1.19.4-4.1.3.jar",
+               "minecraft":"1.19.4",
+               "filename":"geckolib-forge-1.19.4-4.1.3.jar",
+               "url":"https://edge.forgecdn.net/files/4477/811/geckolib-forge-1.19.4-4.1.3.jar",
+               "sha1":"10ecf4c6ec56915adb0faf4c6a3abba114050f08"
+            },
+            {
+               "id":"geckolib-forge-1.19.3-4.0.6.jar",
+               "minecraft":"1.19.3",
+               "filename":"geckolib-forge-1.19.3-4.0.6.jar",
+               "url":"https://edge.forgecdn.net/files/4451/1/geckolib-forge-1.19.3-4.0.6.jar",
+               "sha1":"2a1551f199830b439bc91a5722232beccac34c21"
+            },
+            {
+               "id":"geckolib-forge-1.19-3.1.40.jar",
+               "minecraft":"1.19.2",
+               "filename":"geckolib-forge-1.19-3.1.40.jar",
+               "url":"https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar",
+               "sha1":"92a447e19afe1a23a33219f5428b2198a58094f4"
+            },
+            {
+               "id":"geckolib-forge-1.16.5-3.0.106.jar",
+               "minecraft":"1.16.5",
+               "filename":"geckolib-forge-1.16.5-3.0.106.jar",
+               "url":"https://edge.forgecdn.net/files/4182/600/geckolib-forge-1.16.5-3.0.106.jar",
+               "sha1":"14940646d175f8704d8e06d96258b12fd645e67d"
+            },
+            {
+               "id":"geckolib-forge-1.18-3.0.57.jar",
+               "minecraft":"1.18.2",
+               "filename":"geckolib-forge-1.18-3.0.57.jar",
+               "url":"https://edge.forgecdn.net/files/4181/370/geckolib-forge-1.18-3.0.57.jar",
+               "sha1":"014bfa85af8d7f75e239abc204bb763c9e4d21e2"
+            },
+            {
+               "id":"geckolib-forge-1.12.2-3.0.31.jar",
+               "minecraft":"1.12.2",
+               "filename":"geckolib-forge-1.12.2-3.0.31.jar",
+               "url":"https://edge.forgecdn.net/files/4020/277/geckolib-forge-1.12.2-3.0.31.jar",
+               "sha1":"abab17e7e19cba9ab575425a32419eb9db9cb876"
+            },
+            {
+               "id":"geckolib-forge-1.19-3.1.13.jar",
+               "minecraft":"1.19.1",
+               "filename":"geckolib-forge-1.19-3.1.13.jar",
+               "url":"https://edge.forgecdn.net/files/3918/157/geckolib-forge-1.19-3.1.13.jar",
+               "sha1":"9d0d9359d76e5cbbe3478658749c11d5115b617a"
+            },
+            {
+               "id":"geckolib-forge-1.19-3.1.9.jar",
+               "minecraft":"1.19",
+               "filename":"geckolib-forge-1.19-3.1.9.jar",
+               "url":"https://edge.forgecdn.net/files/3874/98/geckolib-forge-1.19-3.1.9.jar",
+               "sha1":"3b8968ec086d6a9d75542b157f7a6d477694465e"
+            },
+            {
+               "id":"geckolib-1.18-forge-3.0.11.jar",
+               "minecraft":"1.18.1",
+               "filename":"geckolib-1.18-forge-3.0.11.jar",
+               "url":"https://edge.forgecdn.net/files/3629/661/geckolib-1.18-forge-3.0.11.jar",
+               "sha1":"83883c4fc57577ea62f064ea9e1461a8355fb0b7"
+            },
+            {
+               "id":"geckolib-1.17.1-forge-3.0.15.jar",
+               "minecraft":"1.17.1",
+               "filename":"geckolib-1.17.1-forge-3.0.15.jar",
+               "url":"https://edge.forgecdn.net/files/3601/143/geckolib-1.17.1-forge-3.0.15.jar",
+               "sha1":"c455f4d2ee8bdea75b8d3ab872cb507c6ee61b32"
+            },
+            {
+               "id":"geckolib-forge-1.15.2-3.0.46.jar",
+               "minecraft":"1.15.2",
+               "filename":"geckolib-forge-1.15.2-3.0.46.jar",
+               "url":"https://edge.forgecdn.net/files/3601/136/geckolib-forge-1.15.2-3.0.46.jar",
+               "sha1":"782c9699dca806c7ae1fe6a7768f693d206f78d6"
+            },
+            {
+               "id":"geckolib-1.18-3.0.1.jar",
+               "minecraft":"1.18",
+               "filename":"geckolib-1.18-3.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/3548/343/geckolib-1.18-3.0.1.jar",
+               "sha1":"b6bd4f44dec2e159cc7cd6e5075593db43e5272f"
+            },
+            {
+               "id":"forge-1.16.5-geckolib-3.0.2.jar",
+               "minecraft":"1.16.3",
+               "filename":"forge-1.16.5-geckolib-3.0.2.jar",
+               "url":"https://edge.forgecdn.net/files/3178/600/forge-1.16.5-geckolib-3.0.2.jar",
+               "sha1":"41e104032f81df039179d7e6340dd78c11335a93"
+            },
+            {
+               "id":"forge-1.16.2-geckolib-2.1.0.jar",
+               "minecraft":"1.16.2",
+               "filename":"forge-1.16.2-geckolib-2.1.0.jar",
+               "url":"https://edge.forgecdn.net/files/3034/408/forge-1.16.2-geckolib-2.1.0.jar",
+               "sha1":"ddea28865f0be150b4241e291af87cb064f9f478"
+            },
+            {
+               "id":"forge-1.16.1-geckolib-2.0.0.jar",
+               "minecraft":"1.16.1",
+               "filename":"forge-1.16.1-geckolib-2.0.0.jar",
+               "url":"https://edge.forgecdn.net/files/3025/414/forge-1.16.1-geckolib-2.0.0.jar",
+               "sha1":"2ca6299d612967b886ff90dea6f5804d7e292423"
+            }
+         ]
+      },
+      {
+         "name":"JourneyMap",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png",
+         "description-ru":"Real-time mapping in-game or your browser as you explore.",
+         "downloads":[
+            {
+               "id":"journeymap-1.19.3-5.9.7-forge",
+               "minecraft":"1.19.3",
+               "filename":"journeymap-1.19.3-5.9.7-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4532/927/journeymap-1.19.3-5.9.7-forge.jar",
+               "sha1":"e2d553e3e6ae22c035089517751516f515e39016"
+            },
+            {
+               "id":"journeymap-1.19.2-5.9.7-forge",
+               "minecraft":"1.19.2",
+               "filename":"journeymap-1.19.2-5.9.7-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4532/924/journeymap-1.19.2-5.9.7-forge.jar",
+               "sha1":"de7c2d3d6aec4cbf5db3aafaaf6c5591f3a54477"
+            },
+            {
+               "id":"journeymap-1.19.4-5.9.7-forge",
+               "minecraft":"1.19.4",
+               "filename":"journeymap-1.19.4-5.9.7-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4532/920/journeymap-1.19.4-5.9.7-forge.jar",
+               "sha1":"2453cce6b7e23fd0fbed821bc4f9f4b96129d23b"
+            },
+            {
+               "id":"journeymap-1.18.2-5.9.7-forge",
+               "minecraft":"1.18.2",
+               "filename":"journeymap-1.18.2-5.9.7-forge.jar",
+               "url":"https://edge.forgecdn.net/files/4532/901/journeymap-1.18.2-5.9.7-forge.jar",
+               "sha1":"901f51f13efa251f539c32700c1256d68881985e"
+            },
+            {
+               "id":"journeymap-1.7.10-5.1.4p6",
+               "minecraft":"1.7.10",
+               "filename":"journeymap-1.7.10-5.1.4p6-unlimited.jar",
+               "url":"https://edge.forgecdn.net/files/4500/658/journeymap-1.7.10-5.1.4p6-unlimited.jar",
+               "sha1":"764ac4eb75a37dfec9a648d22ad51e7541dc8253"
+            },
+            {
+               "id":"journeymap-1.16.5-5.8.5p6",
+               "minecraft":"1.16.5",
+               "filename":"journeymap-1.16.5-5.8.5p6.jar",
+               "url":"https://edge.forgecdn.net/files/4012/858/journeymap-1.16.5-5.8.5p6.jar",
+               "sha1":"5245221653a0113713a7261898b49f71b779b6c8"
+            },
+            {
+               "id":"journeymap-1.19-5.8.5-forge",
+               "minecraft":"1.19",
+               "filename":"journeymap-1.19-5.8.5-forge.jar",
+               "url":"https://edge.forgecdn.net/files/3902/437/journeymap-1.19-5.8.5-forge.jar",
+               "sha1":"915fdc8615c508a856766bc794127797411889c8"
+            },
+            {
+               "id":"journeymap-1.18.1-5.8.1",
+               "minecraft":"1.18.1",
+               "filename":"journeymap-1.18.1-5.8.1.jar",
+               "url":"https://edge.forgecdn.net/files/3756/52/journeymap-1.18.1-5.8.1.jar",
+               "sha1":"5c25beee9ace0d02f503c9a615d9c215891669b4"
+            },
+            {
+               "id":"journeymap-1.17.1-5.8.0",
+               "minecraft":"1.17.1",
+               "filename":"journeymap-1.17.1-5.8.0.jar",
+               "url":"https://edge.forgecdn.net/files/3696/401/journeymap-1.17.1-5.8.0.jar",
+               "sha1":"1748184b2e4b3ddb6d1bff2f174991eb1ad80dfa"
+            },
+            {
+               "id":"journeymap-1.16.5-5.7.3",
+               "minecraft":"1.16.3",
+               "filename":"journeymap-1.16.5-5.7.3.jar",
+               "url":"https://edge.forgecdn.net/files/3397/59/journeymap-1.16.5-5.7.3.jar",
+               "sha1":"2c1b429aa6de242a1b79de3dad8aacde163faf0f"
+            },
+            {
+               "id":"journeymap-1.14.4-5.7.0",
+               "minecraft":"1.14.4",
+               "filename":"journeymap-1.14.4-5.7.0.jar",
+               "url":"https://edge.forgecdn.net/files/3208/23/journeymap-1.14.4-5.7.0.jar",
+               "sha1":"388c2c1b513eb831df6e2ccafcd592815a73db24"
+            },
+            {
+               "id":"journeymap-1.15.2-5.7.0",
+               "minecraft":"1.15.2",
+               "filename":"journeymap-1.15.2-5.7.0.jar",
+               "url":"https://edge.forgecdn.net/files/3208/19/journeymap-1.15.2-5.7.0.jar",
+               "sha1":"7f9e36cb7699b39524e55dfc793292034999cee2"
+            },
+            {
+               "id":"journeymap-1.12.2-5.7.1",
+               "minecraft":"1.12.2",
+               "filename":"journeymap-1.12.2-5.7.1.jar",
+               "url":"https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
+               "sha1":"3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
+            },
+            {
+               "id":"journeymap-1.12.1-5.5.2",
+               "minecraft":"1.12.1",
+               "filename":"journeymap-1.12.1-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/307/journeymap-1.12.1-5.5.2.jar",
+               "sha1":"2264588e859887fa27866df14f07d9a991e68c31"
+            },
+            {
+               "id":"journeymap-1.12-5.5.2",
+               "minecraft":"1.12",
+               "filename":"journeymap-1.12-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/305/journeymap-1.12-5.5.2.jar",
+               "sha1":"825dca953216e80e2304cf229b41a8cb512d8555"
+            },
+            {
+               "id":"journeymap-1.11.2-5.5.2",
+               "minecraft":"1.11.2",
+               "filename":"journeymap-1.11.2-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/301/journeymap-1.11.2-5.5.2.jar",
+               "sha1":"acf22529294caf6d8e6fb53c055e4aa5f9d5fe7e"
+            },
+            {
+               "id":"journeymap-1.10.2-5.5.2",
+               "minecraft":"1.10.2",
+               "filename":"journeymap-1.10.2-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/297/journeymap-1.10.2-5.5.2.jar",
+               "sha1":"761b841746d8707bfc336e9abb7a429436c5a4df"
+            },
+            {
+               "id":"journeymap-1.9.4-5.5.2",
+               "minecraft":"1.9.4",
+               "filename":"journeymap-1.9.4-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/294/journeymap-1.9.4-5.5.2.jar",
+               "sha1":"7974e1d48162cde3783e26ac9cd2c5ed2c489f4c"
+            },
+            {
+               "id":"journeymap-1.9-5.5.2",
+               "minecraft":"1.9",
+               "filename":"journeymap-1.9-5.5.2.jar",
+               "url":"https://edge.forgecdn.net/files/2498/292/journeymap-1.9-5.5.2.jar",
+               "sha1":"c5ae1a6f9f22e6ac08c93c588b6bce76b4184c07"
+            },
+            {
+               "id":"journeymap-1.11-5.4.6",
+               "minecraft":"1.11",
+               "filename":"journeymap-1.11-5.4.6.jar",
+               "url":"https://edge.forgecdn.net/files/2383/113/journeymap-1.11-5.4.6.jar",
+               "sha1":"bc227cfa6d00554c289054a5315f6cf36537cc3d"
+            },
+            {
+               "id":"journeymap-1.8.9-5.2.4",
+               "minecraft":"1.8.9",
+               "filename":"journeymap-1.8.9-5.2.4-unlimited.jar",
+               "url":"https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
+               "sha1":"731b0584fbabc4d3585cc491dbfe06a427219928"
+            },
+            {
+               "id":"journeymap-1.8-5.1.3",
+               "minecraft":"1.8",
+               "filename":"journeymap-1.8-5.1.3-unlimited.jar",
+               "url":"https://edge.forgecdn.net/files/2269/316/journeymap-1.8-5.1.3-unlimited.jar",
+               "sha1":"511b5393d75a290fe7b25a7264d15f5f5d77e9d2"
+            },
+            {
+               "id":"journeymap-1.7.2-4.0.3 unlimited",
+               "minecraft":"1.7.2",
+               "filename":"JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
+               "url":"https://edge.forgecdn.net/files/2209/904/JourneyMap4.0.3_Unlimited_MC1.7.2.jar",
+               "sha1":"dbee657f43d463d60209ee24498f2334b4d00bfb"
+            },
+            {
+               "id":"journeymap-1.6.4-4.0.3 unlimited",
+               "minecraft":"1.6.4",
+               "filename":"JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
+               "url":"https://edge.forgecdn.net/files/2209/902/JourneyMap4.0.3_Unlimited_MC1.6.4.jar",
+               "sha1":"97d263427c902de1a59417815da2a017103a5025"
+            },
+            {
+               "id":"journeymap-1.5.2-2.6.1",
+               "minecraft":"1.5.2",
+               "filename":"JourneyMap2.6.1_MC1.5.2.zip",
+               "url":"https://edge.forgecdn.net/files/717/862/JourneyMap2.6.1_MC1.5.2.zip",
+               "sha1":"4b36761db0bf7659d62613369eb8f0063fffdb0e"
+            },
+            {
+               "id":"journeymap-1.4.6-1.9.1",
+               "minecraft":"1.4.7",
+               "filename":"JourneyMap1.9.1_MC1.4.6.zip",
+               "url":"https://edge.forgecdn.net/files/683/238/JourneyMap1.9.1_MC1.4.6.zip",
+               "sha1":"aeb6418a51c3a3fa9ab140ca1a52c04f8ce12820"
+            },
+            {
+               "id":"journeymap-1.1-1.0.1",
+               "minecraft":"1.1",
+               "filename":"JourneyMap1.0.1_MC1.1.zip",
+               "url":"https://edge.forgecdn.net/files/568/433/JourneyMap1.0.1_MC1.1.zip",
+               "sha1":"13c3dd7639136cf88a54ef61e47b3924a4e615fc"
+            },
+            {
+               "id":"journeymap-1.0.0-1.0.0",
+               "minecraft":"1.0.0",
+               "filename":"JourneyMap1.0.0_MC1.0.0.zip",
+               "url":"https://edge.forgecdn.net/files/554/368/JourneyMap1.0.0_MC1.0.0.zip",
+               "sha1":"b20d25672b6c0a71939208f6b74195291f9c4af7"
+            }
+         ]
+      },
+      {
+         "name":"Clumps",
+         "image-url":"https://media.forgecdn.net/avatars/thumbnails/84/193/256/256/636193647832736518_animated.gif",
+         "description-ru":"Clumps XP orbs together to reduce lag",
+         "downloads":[
+            {
+               "id":"Clumps-forge-1.19.4-10.0.0.3.jar",
+               "minecraft":"1.19.4",
+               "filename":"Clumps-forge-1.19.4-10.0.0.3.jar",
+               "url":"https://edge.forgecdn.net/files/4552/340/Clumps-forge-1.19.4-10.0.0.3.jar",
+               "sha1":"a60f84e01862e81b738785c51a22fc2c3a041fec"
+            },
+            {
+               "id":"Clumps-forge-1.19.3-9.0.0+16.jar",
+               "minecraft":"1.19.3",
+               "filename":"Clumps-forge-1.19.3-9.0.0+16.jar",
+               "url":"https://edge.forgecdn.net/files/4320/430/Clumps-forge-1.19.3-9.0.0+16.jar",
+               "sha1":"5c3557b5c514e0e42f43c093c67eaec58b91cda1"
+            },
+            {
+               "id":"Clumps-forge-1.19.2-9.0.0+14.jar",
+               "minecraft":"1.19.2",
+               "filename":"Clumps-forge-1.19.2-9.0.0+14.jar",
+               "url":"https://edge.forgecdn.net/files/4153/347/Clumps-forge-1.19.2-9.0.0+14.jar",
+               "sha1":"fa1ea47e0da5a219355bd5b6cf5df6e821b2baf8"
+            },
+            {
+               "id":"Clumps-forge-1.18.2-8.0.0+17.jar",
+               "minecraft":"1.18.2",
+               "filename":"Clumps-forge-1.18.2-8.0.0+17.jar",
+               "url":"https://edge.forgecdn.net/files/4153/344/Clumps-forge-1.18.2-8.0.0+17.jar",
+               "sha1":"b984587d09e2035bad374833e5ac1e67638f87d0"
+            },
+            {
+               "id":"Clumps-forge-1.19.1-9.0.0+10.jar",
+               "minecraft":"1.19.1",
+               "filename":"Clumps-forge-1.19.1-9.0.0+10.jar",
+               "url":"https://edge.forgecdn.net/files/3913/408/Clumps-forge-1.19.1-9.0.0+10.jar",
+               "sha1":"fbc201f42567a972ceab612a0158f409bfd9ccae"
+            },
+            {
+               "id":"Clumps-forge-1.19-9.0.0+7.jar",
+               "minecraft":"1.19",
+               "filename":"Clumps-forge-1.19-9.0.0+7.jar",
+               "url":"https://edge.forgecdn.net/files/3900/784/Clumps-forge-1.19-9.0.0+7.jar",
+               "sha1":"4a7c8001df81e0c03e5a07d9cae0eb6c83fd6f27"
+            },
+            {
+               "id":"Clumps-6.0.0.28.jar",
+               "minecraft":"1.16.5",
+               "filename":"Clumps-6.0.0.28.jar",
+               "url":"https://edge.forgecdn.net/files/3658/432/Clumps-6.0.0.28.jar",
+               "sha1":"4992a8d2d0d0c8d01f72f2a55af3e625c94e7db2"
+            },
+            {
+               "id":"Clumps-forge-1.18.1-8.0.0+5.jar",
+               "minecraft":"1.18.1",
+               "filename":"Clumps-forge-1.18.1-8.0.0+5.jar",
+               "url":"https://edge.forgecdn.net/files/3616/324/Clumps-forge-1.18.1-8.0.0+5.jar",
+               "sha1":"f309347d2803dfd79171fbfaec4f5bd57e0151d6"
+            },
+            {
+               "id":"Clumps-forge-1.18-8.0.1.jar",
+               "minecraft":"1.18",
+               "filename":"Clumps-forge-1.18-8.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/3542/509/Clumps-forge-1.18-8.0.1.jar",
+               "sha1":"28884189d8e77c6ab447fa96f4c48382d0f71048"
+            },
+            {
+               "id":"Clumps-forge-1.17.1-7.0.10.jar",
+               "minecraft":"1.17.1",
+               "filename":"Clumps-forge-1.17.1-7.0.10.jar",
+               "url":"https://edge.forgecdn.net/files/3491/822/Clumps-forge-1.17.1-7.0.10.jar",
+               "sha1":"d286cbdc64782d43b5b3ce38df5d2311fe93ca02"
+            },
+            {
+               "id":"Clumps-5.0.2.8.jar",
+               "minecraft":"1.15.2",
+               "filename":"Clumps-5.0.2.8.jar",
+               "url":"https://edge.forgecdn.net/files/3348/511/Clumps-5.0.2.8.jar",
+               "sha1":"543be1f34ce9348efe6c3ee9130a3d887e176cf9"
+            },
+            {
+               "id":"Clumps-6.0.0.15.jar",
+               "minecraft":"1.16.4",
+               "filename":"Clumps-6.0.0.15.jar",
+               "url":"https://edge.forgecdn.net/files/3196/459/Clumps-6.0.0.15.jar",
+               "sha1":"b65ba5f58433c52146e2712919ff8f4f533e5f84"
+            },
+            {
+               "id":"Clumps-6.0.0.12.jar",
+               "minecraft":"1.16.3",
+               "filename":"Clumps-6.0.0.12.jar",
+               "url":"https://edge.forgecdn.net/files/3099/275/Clumps-6.0.0.12.jar",
+               "sha1":"d7b9dad4a2ca23b4e262cfc0d793b5565a21bd95"
+            },
+            {
+               "id":"Clumps-6.0.0.9.jar",
+               "minecraft":"1.16.2",
+               "filename":"Clumps-6.0.0.9.jar",
+               "url":"https://edge.forgecdn.net/files/3041/970/Clumps-6.0.0.9.jar",
+               "sha1":"a54d5555fd1bd2f729501212864c69a4773bf32e"
+            },
+            {
+               "id":"Clumps-6.0.0.8.jar",
+               "minecraft":"1.16.1",
+               "filename":"Clumps-6.0.0.8.jar",
+               "url":"https://edge.forgecdn.net/files/3041/944/Clumps-6.0.0.8.jar",
+               "sha1":"2a3a1d6bccd947df45298a03dd116412be12a2c5"
+            },
+            {
+               "id":"Clumps-4.0.1",
+               "minecraft":"1.14.4",
+               "filename":"Clumps-4.0.1.jar",
+               "url":"https://edge.forgecdn.net/files/2905/428/Clumps-4.0.1.jar",
+               "sha1":"6623cb7e458ad593957529635c3852111d1ac5f0"
+            },
+            {
+               "id":"Clumps-3.1.2",
+               "minecraft":"1.12.2",
+               "filename":"Clumps-3.1.2.jar",
+               "url":"https://edge.forgecdn.net/files/2666/198/Clumps-3.1.2.jar",
+               "sha1":"6ea78bea8006e3924bc37c2aef0115134c8af07b"
+            },
+            {
+               "id":"Clumps-2.0.0",
+               "minecraft":"1.11.2",
+               "filename":"Clumps-2.0.0.jar",
+               "url":"https://edge.forgecdn.net/files/2430/320/Clumps-2.0.0.jar",
+               "sha1":"9fbaea0a9acd707540ebd381c3273724299b850a"
+            },
+            {
+               "id":"Clumps-1.0.5",
+               "minecraft":"1.10.2",
+               "filename":"Clumps-1.0.5.jar",
+               "url":"https://edge.forgecdn.net/files/2384/158/Clumps-1.0.5.jar",
+               "sha1":"7b71266d3af3e83b3866d7143097221268ad3551"
+            }
+         ]
+      }
+   ]
 }
