@@ -1,28 +1,28 @@
 {
   "servers": [
     {
-      "description": "MineBlaze - лучший сервер!",
-      "ip": "mineblaze.net"
+      "description": "ProstoCraft — сервер Маузера",
+      "ip": "prostocraft.ru:25565"
     },
     {
-      "description": "CheatMine - сервер для читеров!",
-      "ip": "cheatmine.ru"
+      "description": "HolyWorld",
+      "ip": "holyworld.ru:25565"
     },
     {
-      "description": "MasedWorld - сервер для богачей!",
-      "ip": "mc.masedworld.net"
+      "description": "MST Network",
+      "ip": "mstnw.net:25565"
     },
     {
-      "description": "LastCraft - говно сервер!",
-      "ip": "play.last-craft.net"
+      "description": "LastCraft",
+      "ip": "play.lastcraft.net:25565"
     },
     {
-      "description": "Админка по команде /free заходи!",
-      "ip": "applecraft.online"
+      "description": "ReallyWorld",
+      "ip": "mc.reallyworld.ru:25565"
     },
     {
-      "description": "Админы МСТ Нетворк сосут",
-      "ip": "mstnw.net"
+      "description": "Funtime",
+      "ip": "funtime.su"
     }
   ]
 }
