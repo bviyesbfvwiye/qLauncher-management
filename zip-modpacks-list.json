@@ -1,14 +1,18 @@
 {
-	"modpacks": [
+	"modpacks":
+	[
 		{
 			"name": "DawnCraft",
                 	"image-url": "https://media.forgecdn.net/avatars/780/552/638125961291118791.gif",
                 	"description-ru": "An Adventure RPG Modpack",
                 	"directory-name": "dawn-craft",
                 	"minecraft-version": "1.18.2",
-                	"url": "https://mediafilez.forgecdn.net/files/4565/67/DawnCraft+-+1.21_hf.zip",
-			"hash": ""
-		}
+			"zip": 
+			{
+				"url": "https://mediafilez.forgecdn.net/files/4565/67/DawnCraft+-+1.21_hf.zip",
+                        	"hash": ""
+			}
+                }
 	]
 }
 
