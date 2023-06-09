@@ -1,95 +1,88 @@
 {
-	"modpacks": [{
-		"name": "HURROLED's best",
-		"image-url": "https://i.ytimg.com/vi/Kon8P-QbuS8/maxresdefault.jpg",
-		"description-ru": "Лучшая сборка HURROLED'а",
-		"directory-name": "hurroleds-best",
-		"minecraft-version": "1.8.9",
-		"mods": [{
-			"filename": "jei_1.8.9-2.28.18.187.jar",
-			"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-			"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
-		}, {
-			"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-			"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-			"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-		}, {
-			"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-			"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-			"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-		}, {
-			"filename": "OptiFine_1.8.9_HD_U_M5.jar",
-			"url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/main/mods/OptiFine_1.8.9_HD_U_M5.jar",
-			"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-		}]
-	}, {
-		"name": "HURROLED's best",
-		"image-url": "https://i.ytimg.com/vi/Kon8P-QbuS8/maxresdefault.jpg",
-		"description-ru": "2-я Лучшая сборка HURROLED'а",
-		"directory-name": "hurroleds-best1",
-		"minecraft-version": "1.8.9",
-		"mods": [{
-			"filename": "jei_1.8.9-2.28.18.187.jar",
-			"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-			"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
-		}, {
-			"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-			"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-			"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-		}, {
-			"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-			"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-			"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-		}, {
-			"filename": "OptiFine_1.8.9_HD_U_M5.jar",
-			"url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/main/mods/OptiFine_1.8.9_HD_U_M5.jar",
-			"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-		}]
-	}, {
-		"name": "HURROLED's best",
-		"image-url": "https://i.ytimg.com/vi/Kon8P-QbuS8/maxresdefault.jpg",
-		"description-ru": "3-я Лучшая сборка HURROLED'а",
-		"directory-name": "hurroleds-best2",
-		"minecraft-version": "1.8.9",
-		"mods": [{
-			"filename": "jei_1.8.9-2.28.18.187.jar",
-			"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-			"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
-		}, {
-			"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-			"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-			"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-		}, {
-			"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-			"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-			"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-		}, {
-			"filename": "OptiFine_1.8.9_HD_U_M5.jar",
-			"url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/main/mods/OptiFine_1.8.9_HD_U_M5.jar",
-			"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-		}]
-	}, {
-		"name": "HURROLED's best",
-		"image-url": "https://i.ytimg.com/vi/Kon8P-QbuS8/maxresdefault.jpg",
-		"description-ru": "4-я Лучшая сборка HURROLED'а",
-		"directory-name": "hurroleds-best3",
-		"minecraft-version": "1.8.9",
-		"mods": [{
-			"filename": "jei_1.8.9-2.28.18.187.jar",
-			"url": "https://edge.forgecdn.net/files/2431/977/jei_1.8.9-2.28.18.187.jar",
-			"sha1": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
-		}, {
-			"filename": "MouseTweaks-2.6.2-mc1.8.9.jar",
-			"url": "https://edge.forgecdn.net/files/2287/384/MouseTweaks-2.6.2-mc1.8.9.jar",
-			"sha1": "46d91769523458413000cd1f5f9fe7824eb30187"
-		}, {
-			"filename": "journeymap-1.8.9-5.2.4-unlimited.jar",
-			"url": "https://edge.forgecdn.net/files/2311/867/journeymap-1.8.9-5.2.4-unlimited.jar",
-			"sha1": "731b0584fbabc4d3585cc491dbfe06a427219928"
-		}, {
-			"filename": "OptiFine_1.8.9_HD_U_M5.jar",
-			"url": "https://raw.githubusercontent.com/HURROLED/qLauncher-management/main/mods/OptiFine_1.8.9_HD_U_M5.jar",
-			"sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd"
-		}]
-	}]
+   "modpacks":[
+      {
+         "name":"DawnCraft",
+         "image-url":"https://media.forgecdn.net/avatars/780/552/638125961291118791.gif",
+         "description-ru":"\u0414\u0440\u0443\u0433\u043e\u0439 \u043e\u043f\u044b\u0442 RPG, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u044d\u0442\u043e\u043c \u043c\u043e\u0434\u043f\u0430\u043a\u0435!",
+         "directory-name":"dawn-craft",
+         "minecraft-version":"1.18.2",
+         "mods":[
+            {
+               "filename":"nourished-nether-1.18.2-v17.jar",
+               "url":"https://edge.forgecdn.net/files/4085/734/nourished-nether-1.18.2-v17.jar",
+               "sha1":"4527f6054ff505bd270feaba2aa984598f783c82"
+            }
+         ]
+      },
+      {
+         "name":"All the Mods 8",
+         "image-url":"https://media.forgecdn.net/avatars/611/496/637995823847751059.png",
+         "description-ru":"\u0411\u043e\u043b\u0435\u0435 340 \u043c\u043e\u0434\u043e\u0432 \u0441 \u043a\u0432\u0435\u0441\u0442\u0430\u043c\u0438 \u0438 \u0448\u0435\u0439\u0434\u0435\u0440\u0430\u043c\u0438 \u0434\u043b\u044f \u043d\u043e\u0432\u0435\u0439\u0448\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 Minecraft.",
+         "directory-name":"all-the-mods-8",
+         "minecraft-version":"1.19.2",
+         "mods":[
+            {
+               "filename":"Apotheosis-1.19.2-6.1.5.jar",
+               "url":"https://edge.forgecdn.net/files/4453/685/Apotheosis-1.19.2-6.1.5.jar",
+               "sha1":"d9ee2fde8b57552b9af262aa68ec4d4dbc1230a1"
+            }
+         ]
+      },
+      {
+         "name":"RLCraft",
+         "image-url":"https://media.forgecdn.net/avatars/468/243/637751369169569212.png",
+         "description-ru":"\u041f\u0430\u043a\u0435\u0442 \u043c\u043e\u0434\u043e\u0432, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u0445\u0430\u0440\u0434\u043a\u043e\u0440\u043d\u043e\u0433\u043e \u0438 \u043f\u043e\u043b\u0443\u0440\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f, \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u043d\u0430 \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u0438 \u0438 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0445 RPG.",
+         "directory-name":"rlcraft",
+         "minecraft-version":"1.12.2",
+         "mods":[
+            {
+               "filename":"pigstep-1.12.jar",
+               "url":"https://edge.forgecdn.net/files/2951/925/pigstep-1.12.jar",
+               "sha1":"1eb2a9809d9d650264d547a50d15fb19052fce43"
+            }
+         ]
+      },
+      {
+         "name":"The Pixelmon Modpack",
+         "image-url":"https://media.forgecdn.net/avatars/279/234/637276853291457748.png",
+         "description-ru":"\u042d\u0442\u043e \u043f\u0430\u043a\u0435\u0442 \u043c\u043e\u0434\u043e\u0432, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0431\u043b\u0435\u0433\u0447\u0438\u0442\u044c \u0438\u0433\u0440\u043e\u043a\u0430\u043c \u043d\u0430\u0447\u0430\u043b\u043e \u0440\u0430\u0431\u043e\u0442\u044b.",
+         "directory-name":"the-pixelmon-modpack",
+         "minecraft-version":"1.16.5",
+         "mods":[
+            {
+               "filename":"fancymenu_forge_2.14.7_MC_1.16.2-1.16.5.jar",
+               "url":"https://edge.forgecdn.net/files/4503/125/fancymenu_forge_2.14.7_MC_1.16.2-1.16.5.jar",
+               "sha1":"8dc7930fe4e3eef77dddd8297ec29fcbe775f363"
+            }
+         ]
+      },
+      {
+         "name":"Better MC [FABRIC] 1.19.2",
+         "image-url":"https://media.forgecdn.net/avatars/592/944/637965415571102225.png",
+         "description-ru":"\u0412\u0435\u0440\u0441\u0438\u044f 1.19.2 | \u041f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u043c\u043e\u0434\u043f\u0430\u043a Vanilla+ | \u041d\u0435 \u0438\u0433\u0440\u0430\u0439 \u0432 \u043e\u0431\u044b\u0447\u043d\u044b\u0439 \u041c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442, \u0438\u0433\u0440\u0430\u0439 \u0432 \u044d\u0442\u043e!",
+         "directory-name":"better-mc-fabric",
+         "minecraft-version":"1.19.2",
+         "mods":[
+            {
+               "filename":"continuity-2.0.2+1.19.jar",
+               "url":"https://edge.forgecdn.net/files/4441/32/continuity-2.0.2%2B1.19.jar",
+               "sha1":"b7f4060c66eee13fa1385da89090560de30358e1"
+            }
+         ]
+      },
+      {
+         "name":"Vault Hunters 3rd Edition",
+         "image-url":"https://media.forgecdn.net/avatars/651/140/638051446127306822.png",
+         "description-ru":"\u0420\u041f\u0413 \u0432 \u041c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442\u0435! \u041f\u043e\u0432\u044b\u0448\u0430\u0439\u0442\u0435 \u0443\u0440\u043e\u0432\u0435\u043d\u044c, \u0438\u0437\u0443\u0447\u0430\u0439\u0442\u0435 \u0442\u0430\u043b\u0430\u043d\u0442\u044b \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u0431\u0430\u0437\u0443, \u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u0444\u0435\u0440\u043c\u044b, \u0441\u043e\u0431\u0435\u0440\u0438\u0442\u0435 25 \u0430\u0440\u0442\u0435\u0444\u0430\u043a\u0442\u043e\u0432 \u0438 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u043e\u0441\u0441\u0430!",
+         "directory-name":"vault-hunters",
+         "minecraft-version":"1.18.2",
+         "mods":[
+            {
+               "filename":"mcw-fences-1.0.7-mc1.18.2forge.jar",
+               "url":"https://edge.forgecdn.net/files/4204/541/mcw-fences-1.0.7-mc1.18.2forge.jar",
+               "sha1":"0d1a06c4e16d5a1ef8e0f8b6e95c8d3180841b51"
+            }
+         ]
+      }
+   ]
 }
