@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "description": "webmaster@qlauncher.ru :)",
+      "description": "Здесь пока ничего нет, но вы можете написать на &lt;webmaster@qlauncher.ru&gt; :)",
       "ip": "0.0.0.0:25565"
     }
   ]
