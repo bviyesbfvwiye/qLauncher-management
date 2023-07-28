@@ -1,28 +1,8 @@
 {
   "servers": [
     {
-      "description": "ProstoCraft — сервер Маузера",
-      "ip": "prostocraft.ru:25565"
-    },
-    {
-      "description": "HolyWorld",
-      "ip": "holyworld.ru:25565"
-    },
-    {
-      "description": "MST Network",
-      "ip": "mstnw.net:25565"
-    },
-    {
-      "description": "LastCraft",
-      "ip": "play.lastcraft.net:25565"
-    },
-    {
-      "description": "ReallyWorld",
-      "ip": "mc.reallyworld.ru:25565"
-    },
-    {
-      "description": "Funtime",
-      "ip": "funtime.su"
+      "description": "Здесь пока ничего нет, но вы можете написать на &lt;webmaster@qlauncher.ru&gt; :)",
+      "ip": "0.0.0.0:25565"
     }
   ]
 }
