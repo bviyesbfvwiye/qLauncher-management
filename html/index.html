@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>qLauncher</title>
+    <link href="./../css/style.css" rel="stylesheet" type="text/css">
+    <script>window.$ = window.jQuery = require('jquery');</script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap" rel="stylesheet">
+    <!-- <script src="js/jquery-2.2.4.min.js"></script> -->
+</head>
+<body>
+    <div class="wrapper">
+        <div id="content-1" class="content">
+            <!-- <ul id="servers-list">
+                <li class="server-item">
+                    <div id="server-container"></div>
+                   
+                </li>
+            </ul> -->
+        </div>
+
+        <div id="content-2" class="content">
+            <div class="content-table" id="modpack-table">
+                <div class="content-row" id="modpack-row1"></div>
+                <div class="content-row" id="modpack-row2"></div>
+                <div class="content-row" id="modpack-row3"></div>
+                <div class="content-row" id="modpack-row4"></div>
+                <div class="content-row" id="modpack-row5"></div>
+                <div class="content-row" id="modpack-row6"></div>
+                <div class="content-row" id="modpack-row7"></div>
+                <div class="content-row" id="modpack-row8"></div>
+            </div>
+        </div>
+        <div id="content-3" class="content">
+            <div class="content-table">
+                <div class="content-row">
+                    <div class="content-cell">
+                        <img class="content-img" src="">
+                        <p class="content-name">Название чита</p>
+                        <p class="content-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="button"><p class="install-text">Установить</p></div>
+                    </div>
+
+                    <div class="content-cell">
+                        <img class="content-img" src="">
+                        <p class="content-name">Название чита</p>
+                        <p class="content-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="button"><p class="install-text">Установить</p></div>
+                    </div>
+
+                    <div class="content-cell">
+                        <img class="content-img" src="">
+                        <p class="content-name">Название чита</p>
+                        <p class="content-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="button"><p class="install-text">Установить</p></div>
+                    </div>
+
+                    <div class="content-cell">
+                        <img class="content-img" src="">
+                        <p class="content-name">Название чита</p>
+                        <p class="content-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="button"><p class="install-text">Установить</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="content-4" class="content">
+            <div class="mod-header">
+                <p>Выбери версию, для которой ты хочешь установить моды: </p>
+                <select onchange="modChange()" class="custom-select" id="mod-versions-select" onchange="modChange()"></select>
+                <button class="button" id="delete-mods-button">Удалить установленные моды</button>
+            </div>
+            <div class="content-table" id="mod-table">
+                <div class="content-row" id="mod-row1">
+                </div>
+                <div class="content-row" id="mod-row2">
+                </div>
+                <div class="content-row" id="mod-row3">
+                </div>
+                <div class="content-row" id="mod-row4">
+                </div>
+                <div class="content-row" id="mod-row5">
+                </div>
+                <div class="content-row" id="mod-row6">
+                </div>
+                <div class="content-row" id="mod-row7">
+                </div>
+                <div class="content-row" id="mod-row8">
+                </div>
+            </div>
+        </div>
+        <div id="content-5" class="content">
+            <div id="dialog-1">
+                <div class="create-modpack">
+                    <p>Введи имя новой сборки</p>
+                    <input class="modpack-name" id="modpack-input" style="outline: none;"">
+                    <p id="fill-alert">Это поле должно быть заполнено.</p>
+                    <button class="button" id="modpack-button">OK</button>
+                </div>
+            </div>
+
+            <div id="dialog-2" class="content">
+                <div class="mod-header">
+                    <p>Выбери версию сборки: </p>
+                    <select class="custom-select" id="mod-versions-selectt"></select>
+                    <button id="end-mods" class="button">Завершить установку</button>
+                    <p id="dialog-2-text">Выбери моды для добавления в сборку:</p>
+                </div>
+                <div class="content-table" id="mod-tablee">
+                    <div class="content-row" id="mod-roww1">
+                    </div>
+                    <div class="content-row" id="mod-roww2">
+                    </div>
+                    <div class="content-row" id="mod-roww3">
+                    </div>
+                    <div class="content-row" id="mod-roww4">
+                    </div>
+                    <div class="content-row" id="mod-roww5">
+                    </div>
+                    <div class="content-row" id="mod-roww6">
+                    </div>
+                    <div class="content-row" id="mod-roww7">
+                    </div>
+                    <div class="content-row" id="mod-roww8">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content" id="installed-modpacks">
+            <div id="header-block">
+                <p class="header">Установленные сборки:</p>
+                <button class="button" onclick="createModpackButtonListener()">Создать новую сборку</button>
+            </div>
+
+            <div id="installed-wrapper">
+                <div class="installed-modpack-wrapper">
+                    <p>Сборка</p>
+                    <button class="button remove">Удалить</button>
+                    <button class="button">Запустить</button>
+                    <div class="info">
+                        <p class="hint">Версия: 1.8.9</p>
+                        <p class="hint">Моды: Just Enough Items, MouseTweaks</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="frame"></div>
+    <div id="close-button">
+        <img id="close-icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAiklEQVRIie2UQQ6AIAwE0T9I9InwXDn4nPEgicQYbEGMB/ZEQrtDacGYrl8KcIBVxFvASYM9h4IEEs1DzPESwASsMWEDFkXsLK3iEVJsLoFUm+cgr5knkLSJ4bIWT5qmEtXJxwruUJF7qukV3TVU807U5pk9HUQyisUQzZwXQWj92cWkdt911+faAXLtv/VgbT+kAAAAAElFTkSuQmCC">
+    </div>
+    
+    <div class="left-panel">
+        <div class="menu-item">
+            <input type="radio" name="tab-btn" id="tab-btn-1" value="" checked>
+            <label class="item-text" id="servers" for="tab-btn-1">Сервера</label>
+            <div class="selected"></div>
+        </div>
+
+        <div class="menu-item">
+            <input type="radio" name="tab-btn" id="tab-btn-2" value="">
+            <label class="item-text" for="tab-btn-2">Сборки</label>
+            <div class="selected"></div>
+        </div>
+
+        <div class="menu-item">
+            <input type="radio" name="tab-btn" id="tab-btn-4" value="">
+            <label class="item-text" for="tab-btn-4">Моды</label>
+            <div class="selected"></div>
+        </div>
+
+        <div class="menu-item" id="exclusive">
+            <input type="radio" name="tab-btn" id="tab-btn-5" value="">
+            <label class="item-text" for="tab-btn-5">Создай свою сборку!</label>
+            <div class="selected"></div>
+        </div>
+    </div>
+
+    <div class="bottom-menu">
+        <input placeholder="Введи ник" class="custom-select" id="username-input">
+        <select class="custom-select" id="versions-select"></select>
+        <!-- <img draggable="false" class="bottom-menu-button" id="refresh-button" title="Перезагрузить список версий" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAB60lEQVRYhe2XvU8bQRDF30WOogiwcRtjpbIgSkMSp0wVUfL136RE4kOishJZqZAo6KNIroITGvwPpICKBoOgAoSSQBHBL0VmlfMptnfNYTd+0ml0dzPvvdkd7emkIQaMKCQZmJS0IGlGUkFSUVJG0oWkfUkNSZ+iKPqeqkugDHzDH7vAmzSEHwJV4NaIz4ANYA6YBEaAR0ARmAW2gJ8xIx+BxwnOJV/xPLBjRL+AZSDrUTcGrAO/rbYB5J04gG/nTrwJvPBy3cpRtlpnYsUti09xNSb+JFQ8xlMCTpID4uP81pY9uPP/8FVDDbhpX05BfCkp3tGATTb8nfauA9eLeDcD7yxn4y7iIXiQuH9rsTYoA08t7vXLQAuAH7YFo/3STK5A90OiRwBZa+6yk4FTiz0fPh3gOE86GWhafHYPBhxnM/4waaBuce4eDMxb3G6bkeZBlODNAefGXeqW/NUSV1I0sGacX3ySX9nH6Ap4mYJ4GbgGboBp36IP5vgIKNxBvGAcAJWQwkxsK46B1z2ITwOHxlEHMqEE4zETV8AqkPOoy9meX1vtNjAe2oAjywDvbf+wSd4EFoApYNSuKWDR3rlpvwEqwZ23MfIcqOGPuu8Ah/6YlPTvx6QoacJeHdlVl/Q5iqKDEN4hBoo/sRfS13tUXWYAAAAASUVORK5CYII="> -->
+        <div class="play-button" id="play-button"><p>Играть</p></div>
+    </div>
+
+    <div id="status-bar">
+        <div id="progress-bar"></div>
+        <p id="status"></p>
+    </div>
+
+    <script src="./../js/renderer.js"></script>
+</body>
+</html>
