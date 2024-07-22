@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "description": "Сервер qLauncher",
-      "ip": "qlauncher.ru"
+      "description": "Официальный сервер aLauncher",
+      "ip": "alauncher.ru"
     }
   ]
 }
